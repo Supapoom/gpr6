@@ -1,0 +1,3216 @@
+indication_class,molecule_chembl_id,molecule_type,pref_name
+Anticholinergic,CHEMBL1240,Small molecule,PROPANTHELINE BROMIDE
+Antihistaminic,CHEMBL1241,Small molecule,TRIPELENNAMINE
+Analgesic (urinary tract),CHEMBL1242,Small molecule,PHENAZOPYRIDINE
+,CHEMBL141305,Small molecule,CYCLOFENIL
+,CHEMBL139877,Small molecule,SULFACARBAMIDE
+Antibacterial,CHEMBL1243,Small molecule,SULFABENZAMIDE
+,CHEMBL142703,Small molecule,VILDAGLIPTIN
+Antihypertensive,CHEMBL1245,Small molecule,TRIMETHAPHAN CAMSYLATE
+Anti-Androgen,CHEMBL139835,Small molecule,CYPROTERONE ACETATE
+Disinfectant,CHEMBL1255,Small molecule,FORMALDEHYDE
+Anesthetic (inhalation),CHEMBL1256,Small molecule,ISOFLURANE
+Pharmaceutic Aid (air displacement),CHEMBL142438,Small molecule,NITROGEN
+Antibacterial,CHEMBL4,Small molecule,OFLOXACIN
+Neuromuscular Blocking Agent,CHEMBL1259,Small molecule,METOCURINE
+,CHEMBL1261,Small molecule,CITRIC ACID
+,CHEMBL144673,Small molecule,HEXETIDINE
+Antifungal,CHEMBL1262,Small molecule,OXICONAZOLE
+Bronchodilator,CHEMBL1263,Small molecule,SALMETEROL
+,CHEMBL414804,Small molecule,OXALIPLATIN
+Anti-Acne,CHEMBL1265,Small molecule,ADAPALENE
+,CHEMBL146095,Small molecule,GLAFENINE
+Adrenergic (vasoconstrictor),CHEMBL1266,Small molecule,TETRAHYDROZOLINE
+,CHEMBL1271,Small molecule,PENTOLINIUM
+,CHEMBL1272,Small molecule,REPAGLINIDE
+Antineoplastic,CHEMBL1274,Small molecule,NILUTAMIDE
+Dopamine Agonist,CHEMBL1275,Small molecule,PERGOLIDE MESYLATE
+Antimigraine,CHEMBL1278,Small molecule,NARATRIPTAN
+,CHEMBL1279,Small molecule,FROVATRIPTAN
+Anti-Anginal; Cardiac Depressant (anti-arrhythmic),CHEMBL1280,Small molecule,VERAPAMIL HYDROCHLORIDE
+Anticonvulsant; Sedative-Hypnotic,CHEMBL149972,Small molecule,PHENOBARBITAL SODIUM
+Immunomodulator,CHEMBL1282,Small molecule,IMIQUIMOD
+,CHEMBL1286,Small molecule,LEVETIRACETAM
+Antibacterial,CHEMBL1289,Small molecule,HALOPROGIN
+Anti-Adrenergic (beta-receptor),CHEMBL1290,Small molecule,PENBUTOLOL
+,CHEMBL345524,Small molecule,ANTRAFENINE
+"Antihypertensive (beta-blocker, ophthalmic)",CHEMBL1291,Small molecule,METIPRANOLOL
+Antibacterial (tuberculostatic); Antibacterial (leprostatic),CHEMBL1292,Small molecule,CLOFAZIMINE
+Ultraviolet Screen,CHEMBL1293,Small molecule,BETA CAROTENE
+Cardiac Depressant (anti-arrhythmic),CHEMBL1294,Small molecule,QUINIDINE
+Antifungal,CHEMBL1295,Small molecule,BUTOCONAZOLE
+Antibacterial,CHEMBL1296,Small molecule,CEFOTIAM
+Anti-Inflammatory; Analgesic,CHEMBL154111,Small molecule,SALSALATE
+"Analgesic; Anti-Inflammatory,Anti-Inflammatory; Analgesic",CHEMBL1297,Small molecule,FENOPROFEN
+,CHEMBL345714,Small molecule,ACIPIMOX
+Anesthetic (inhalation),CHEMBL1257,Small molecule,ENFLURANE
+"Inhibitor (beta-lactamase); Synergist (penicillin/cephalosporin),Synergist (penicillin/cephalosporin); Inhibitor (beta-lactamase)",CHEMBL403,Small molecule,SULBACTAM
+Inhibitor (beta-lactamase),CHEMBL404,Small molecule,TAZOBACTAM
+Antihistaminic; Serotonin Inhibitor,CHEMBL6437,Small molecule,MIANSERIN
+Antidepressant,CHEMBL11,Small molecule,IMIPRAMINE
+Antihypertensive; Diuretic,CHEMBL406,Small molecule,INDAPAMIDE
+Antagonist (to benzodiazepine),CHEMBL407,Small molecule,FLUMAZENIL
+Immunosuppressant,CHEMBL413,Small molecule,SIROLIMUS
+Immunosuppressant,CHEMBL269732,Small molecule,TACROLIMUS
+Antidepressant,CHEMBL415,Small molecule,CLOMIPRAMINE
+Pigmentation Agent,CHEMBL416,Small molecule,METHOXSALEN
+Carbonic Anhydrase Inhibitor,CHEMBL17,Small molecule,DICHLORPHENAMIDE
+,CHEMBL18,Small molecule,ETHOXZOLAMIDE
+Antineoplastic,CHEMBL417,Small molecule,EPIRUBICIN
+Carbonic Anhydrase Inhibitor,CHEMBL19,Small molecule,METHAZOLAMIDE
+Anti-Inflammatory (gastrointestinal),CHEMBL425,Small molecule,OLSALAZINE
+Cardiac Depressant (anti-arrhythmic); Anti-Adrenergic (beta-receptor),CHEMBL27,Small molecule,PROPRANOLOL
+Anti-Adrenergic (beta-receptor),CHEMBL6995,Small molecule,PRACTOLOL
+Antineoplastic,CHEMBL427,Small molecule,MECHLORETHAMINE
+Antibacterial,CHEMBL29,Small molecule,BENZYLPENICILLIN
+Antibacterial,CHEMBL428,Small molecule,TROVAFLOXACIN
+Antagonist (to histamine-H2 receptors),CHEMBL30,Small molecule,CIMETIDINE
+Antibacterial,CHEMBL31,Small molecule,GATIFLOXACIN
+Anti-Adrenergic (beta-receptor); Anti-Adrenergic (alpha-receptor),CHEMBL429,Small molecule,LABETALOL
+,CHEMBL32,Small molecule,MOXIFLOXACIN
+Antibacterial,CHEMBL33,Small molecule,LEVOFLOXACIN
+,CHEMBL430,Small molecule,GEMIFLOXACIN
+Enzyme Inhibitor (angiotensin-converting),CHEMBL431,Small molecule,SPIRAPRIL
+Anticonvulsant,CHEMBL433,Small molecule,VALPROATE SODIUM
+Bronchodilator,CHEMBL434,Small molecule,ISOPROTERENOL
+Diuretic,CHEMBL435,Small molecule,HYDROCHLOROTHIAZIDE
+Diuretic,CHEMBL35,Small molecule,FUROSEMIDE
+Diuretic,CHEMBL456,Small molecule,ETHACRYNIC ACID
+Diuretic; Uricosuric; Antihypertensive,CHEMBL267744,Small molecule,TICRYNAFEN
+Antihyperlipidemic,CHEMBL457,Small molecule,GEMFIBROZIL
+,CHEMBL45,Small molecule,MELATONIN
+Amino Acid,CHEMBL8085,Small molecule,LYSINE
+Anti-Anxiety Agent; Anti-Emetic; Antischizophrenic,CHEMBL46,Small molecule,ONDANSETRON
+Tranquilizer (minor),CHEMBL49,Small molecule,BUSPIRONE
+Serotonin Antagonist,CHEMBL51,Small molecule,KETANSERIN
+Antihypertensive,CHEMBL459,Small molecule,METHYLDOPA
+Antipsychotic,CHEMBL460,Small molecule,MOLINDONE
+Emetic,CHEMBL53,Small molecule,APOMORPHINE
+Antidyskinetic (in gilles de la tourette's disease); Antipsychotic,CHEMBL54,Small molecule,HALOPERIDOL
+,CHEMBL55,Small molecule,PENTAMIDINE
+Diagnostic Aid (renal function determination),CHEMBL463,Small molecule,AMINOHIPPURIC ACID
+Antipsoriatic,CHEMBL464,Small molecule,ETRETINATE
+Antiviral,CHEMBL57,Small molecule,NEVIRAPINE
+Anti-Emetic,CHEMBL465,Small molecule,DRONABINOL
+Antineoplastic,CHEMBL58,Small molecule,MITOXANTRONE
+Adrenergic,CHEMBL59,Small molecule,DOPAMINE
+Antineoplastic,CHEMBL467,Small molecule,HYDROXYUREA
+Antimitotic,CHEMBL61,Small molecule,PODOFILOX
+Antibacterial (tuberculostatic),CHEMBL64,Small molecule,ISONIAZID
+Sedative-Hypnotic,CHEMBL468,Small molecule,THALIDOMIDE
+Analgesic,CHEMBL469,Small molecule,KETOROLAC
+Anti-Adrenergic (beta-receptor),CHEMBL471,Small molecule,SOTALOL
+Antidiabetic,CHEMBL472,Small molecule,GLYBURIDE
+Cardiac Depressant (anti-arrhythmic),CHEMBL473,Small molecule,DOFETILIDE
+Antineoplastic,CHEMBL476,Small molecule,DACARBAZINE
+Cardiac Depressant (anti-arrhythmic),CHEMBL477,Small molecule,ADENOSINE
+"Antipsychotic; Sedative-Hypnotic,Sedative-Hypnotic; Antipsychotic",CHEMBL479,Small molecule,THIORIDAZINE
+Anti-Ulcerative,CHEMBL480,Small molecule,LANSOPRAZOLE
+Antineoplastic (DNA topoisomerase I Inhibitor),CHEMBL481,Small molecule,IRINOTECAN
+Analgesic (narcotic),CHEMBL70,Small molecule,MORPHINE
+"Analgesic (narcotic); Antitussive,Antitussive,Antitussive; Analgesic (narcotic)",CHEMBL485,Small molecule,CODEINE
+Anticonvulsant; Sedative-Hypnotic,CHEMBL13209,Small molecule,NITRAZEPAM
+,CHEMBL524,Small molecule,METHOXAMINE
+Anesthetic (intravenous),CHEMBL526,Small molecule,PROPOFOL
+"Anti-Inflammatory,Anti-Inflammatory; Analgesic",CHEMBL527,Small molecule,PIROXICAM
+Antibacterial,CHEMBL528,Small molecule,CEFTIZOXIME
+Antirheumatic,CHEMBL101,Small molecule,PHENYLBUTAZONE
+Antibacterial,CHEMBL529,Small molecule,AZITHROMYCIN
+Antibacterial,CHEMBL530,Small molecule,AMDINOCILLIN
+Dopamine Agonist,CHEMBL531,Small molecule,PERGOLIDE
+Antibacterial,CHEMBL532,Small molecule,ERYTHROMYCIN
+Cardiac Depressant (anti-arrhythmic),CHEMBL533,Small molecule,IBUTILIDE
+Progestin,CHEMBL103,Small molecule,PROGESTERONE
+Anti-Allergic; Anti-Asthmatic,CHEMBL13828,Small molecule,OXATOMIDE
+Anti-Asthmatic,CHEMBL534,Small molecule,KETOTIFEN
+,CHEMBL535,Small molecule,SUNITINIB
+Depigmentor,CHEMBL537,Small molecule,HYDROQUINONE
+Pharmaceutic Aid (acidifying agent),CHEMBL539,Small molecule,ACETIC ACID
+Pharmaceutic Aid (antifungal agent),CHEMBL541,Small molecule,BENZOIC ACID
+"Analgesic,Ultraviolet Screen",CHEMBL542,Small molecule,AMINOBENZOIC ACID
+,CHEMBL14053,Small molecule,TRICHLOROACETIC ACID
+"Disinfectant,Pharmaceutic Aid (preservative)",CHEMBL14060,Small molecule,PHENOL
+,CHEMBL544,Small molecule,MEQUINOL
+Antifungal,CHEMBL104,Small molecule,CLOTRIMAZOLE
+Antineoplastic,CHEMBL105,Small molecule,MITOMYCIN
+"Pharmaceutic Aid (solvent); Anti-Infective, Topical",CHEMBL545,Small molecule,ALCOHOL
+Vasodilator (coronary),CHEMBL546,Small molecule,OXPRENOLOL
+Antifungal,CHEMBL106,Small molecule,FLUCONAZOLE
+Keratolytic,CHEMBL547,Small molecule,ISOTRETINOIN
+Antipsychotic,CHEMBL14376,Small molecule,ILOPERIDONE
+Oxytocic; Prostaglandin,CHEMBL548,Small molecule,DINOPROSTONE
+Cholinergic,CHEMBL278020,Small molecule,NEOSTIGMINE
+,CHEMBL14370,Small molecule,REBOXETINE
+,CHEMBL549,Small molecule,CITALOPRAM
+"Antiglaucoma Agent; Cholinergic (ophthalmic),Cholinergic (ophthalmic)",CHEMBL550,Small molecule,PILOCARPINE
+Suppressant (gout),CHEMBL107,Small molecule,COLCHICINE
+,CHEMBL553,Small molecule,ERLOTINIB
+,CHEMBL554,Small molecule,LAPATINIB
+Antipsychotic,CHEMBL15023,Small molecule,TRIFLUPERIDOL
+Analgesic; Anticonvulsant,CHEMBL108,Small molecule,CARBAMAZEPINE
+,CHEMBL15245,Small molecule,YOHIMBINE
+Anticonvulsant,CHEMBL109,Small molecule,VALPROIC ACID
+Antibacterial (microbial DNA topoisomerase inhibitor),CHEMBL277100,Small molecule,TEMAFLOXACIN
+,CHEMBL110,Small molecule,BENZNIDAZOLE
+"Antidote (to iron poisoning); Chelating Agent,Chelating Agent (iron)",CHEMBL556,Small molecule,DEFEROXAMINE
+Cardiac Depressant (anti-arrhythmic),CHEMBL558,Small molecule,MEXILETINE
+Antihyperlipidemic,CHEMBL559,Small molecule,DEXTROTHYROXINE
+,CHEMBL111,Small molecule,RIMONABANT
+Antidepressant,CHEMBL273575,Small molecule,NOMIFENSINE
+Antibacterial,CHEMBL561,Small molecule,LOMEFLOXACIN
+Antifungal,CHEMBL562,Small molecule,GRISEOFULVIN
+"Anti-Inflammatory; Analgesic,Inhibitor (prostaglandin synthesis)",CHEMBL563,Small molecule,FLURBIPROFEN
+Antipsychotic,CHEMBL564,Small molecule,PROMAZINE
+Antihyperlipidemic,CHEMBL565,Small molecule,CLOFIBRATE
+Analgesic; Antipyretic,CHEMBL112,Small molecule,ACETAMINOPHEN
+Anti-Inflammatory,CHEMBL277522,Small molecule,FENBUFEN
+Stimulant (central),CHEMBL113,Small molecule,CAFFEINE
+,CHEMBL16073,Small molecule,PHENACETIN
+Antipsychotic,CHEMBL567,Small molecule,PERPHENAZINE
+Tranquilizer (minor),CHEMBL568,Small molecule,OXAZEPAM
+Anti-Inflammatory,CHEMBL15770,Small molecule,SULINDAC
+Anti-Inflammatory,CHEMBL15677,Small molecule,FENCLOFENAC
+,CHEMBL416898,Small molecule,CHLOROPHENOTHANE
+,CHEMBL276520,Small molecule,INDALPINE
+Anesthetic (local),CHEMBL569,Small molecule,PROCAINE
+Antipsychotic,CHEMBL570,Small molecule,TRIFLUPROMAZINE
+Anti-Inflammatory,CHEMBL571,Small molecule,KETOPROFEN
+Antibacterial (urinary),CHEMBL572,Small molecule,NITROFURANTOIN
+Analgesic; Anti-Inflammatory,CHEMBL15870,Small molecule,INDOPROFEN
+Pediculicide; Scabicide,CHEMBL15891,Small molecule,LINDANE
+Antiviral,CHEMBL666,Small molecule,FOSCARNET
+Vasodilator (peripheral); Cardiac Depressant; Miotic; Cholinergic,CHEMBL667,Small molecule,ACETYLCHOLINE
+"Antibacterial,Antiprotozoal (trichomonas)",CHEMBL137,Small molecule,METRONIDAZOLE
+Antidepressant,CHEMBL668,Small molecule,PROTRIPTYLINE
+Relaxant (muscle),CHEMBL669,Small molecule,CYCLOBENZAPRINE
+Antineoplastic,CHEMBL671,Small molecule,THIOTEPA
+,CHEMBL672,Small molecule,FENOFIBRATE
+Antihypertensive,CHEMBL673,Small molecule,PARGYLINE
+,CHEMBL25105,Small molecule,HEXAMIDINE
+Bone Resorption Inhibitor,CHEMBL675,Small molecule,ALENDRONATE SODIUM
+Adrenergic (vasoconstrictor),CHEMBL677,Small molecule,LEVONORDEFRIN
+"Adrenergic (ophthalmic),Adrenergic (vasoconstrictor)",CHEMBL679,Small molecule,EPINEPHRINE
+Antibacterial,CHEMBL680,Small molecule,CEFACLOR
+Sedative-Hypnotic,CHEMBL681,Small molecule,ETOMIDATE
+"Antimalarial,Antiprotozoal",CHEMBL682,Small molecule,AMODIAQUINE
+Anthelmintic,CHEMBL684,Small molecule,DIETHYLCARBAMAZINE
+Anthelmintic,CHEMBL685,Small molecule,MEBENDAZOLE
+Anti-Inflammatory,CHEMBL23588,Small molecule,FLUFENAMIC ACID
+Anti-Inflammatory,CHEMBL139,Small molecule,DICLOFENAC
+Anti-Inflammatory; Analgesic,CHEMBL686,Small molecule,MEFENAMIC ACID
+Analgesic (narcotic),CHEMBL688,Small molecule,FENTANYL CITRATE
+,CHEMBL278398,Small molecule,PHENINDAMINE
+Diagnostic Aid (renal function determination); Diuretic,CHEMBL689,Small molecule,MANNITOL
+Antihyperlipidemic,CHEMBL690,Small molecule,PRAVASTATIN SODIUM
+Vasodilator (coronary),CHEMBL24072,Small molecule,PRENYLAMINE
+,CHEMBL24171,Small molecule,BERGAPTEN
+Estrogen,CHEMBL691,Small molecule,ETHINYL ESTRADIOL
+Multiple Sclerosis Symptomatic Treatment,CHEMBL284348,Small molecule,DALFAMPRIDINE
+Pharmaceutic Aid (solvent); Pharmaceutic Aid (humectant),CHEMBL692,Small molecule,GLYCERIN
+Anticonvulsant,CHEMBL695,Small molecule,TRIMETHADIONE
+Anticonvulsant,CHEMBL696,Small molecule,ETHOSUXIMIDE
+Anticonvulsant,CHEMBL697,Small molecule,METHSUXIMIDE
+"Anesthetic (local),Anesthetic (topical)",CHEMBL698,Small molecule,TETRACAINE
+Vasodilator,CHEMBL24441,Small molecule,BETAHISTINE
+Suppressant (dermatitis herpetiformis),CHEMBL700,Small molecule,SULFAPYRIDINE
+Relaxant (muscle),CHEMBL701,Small molecule,BACLOFEN
+Keratolytic,CHEMBL24147,Small molecule,RESORCINOL
+Antibacterial,CHEMBL702,Small molecule,PIPERACILLIN
+Neuromuscular Blocking Agent,CHEMBL703,Small molecule,SUXAMETHONIUM
+Anti-Inflammatory,CHEMBL704,Small molecule,MESALAMINE
+,CHEMBL705,Small molecule,ALITRETINOIN
+Pharmaceutic Aid (emulsifying and stiffening agent),CHEMBL706,Small molecule,CETYL ALCOHOL
+,CHEMBL24778,Small molecule,SILODOSIN
+,CHEMBL282468,Small molecule,CHOLINE CHLORIDE
+Antihypertensive,CHEMBL707,Small molecule,DOXAZOSIN
+Antihypertensive,CHEMBL279516,Small molecule,INDORAMIN
+,CHEMBL24828,Small molecule,VANDETANIB
+"Antidepressant,Psychotropic",CHEMBL278819,Small molecule,MINAPRINE
+Antipsychotic,CHEMBL708,Small molecule,ZIPRASIDONE
+Antihypertensive (alpha-blocker),CHEMBL709,Small molecule,ALFUZOSIN
+Inhibitor (alpha reductase),CHEMBL710,Small molecule,FINASTERIDE
+,CHEMBL711,Small molecule,PHENINDIONE
+,CHEMBL712,Small molecule,ANISINDIONE
+,CHEMBL24924,Small molecule,FLUINDIONE
+,CHEMBL713,Small molecule,ENTECAVIR
+Antiviral,CHEMBL141,Small molecule,LAMIVUDINE
+Bronchodilator,CHEMBL714,Small molecule,ALBUTEROL
+Antipsychotic,CHEMBL715,Small molecule,OLANZAPINE
+Antipsychotic,CHEMBL716,Small molecule,QUETIAPINE
+,CHEMBL285802,Small molecule,ZOTEPINE
+Tranquilizer (minor),CHEMBL28333,Small molecule,MEDAZEPAM
+Progestin,CHEMBL717,Small molecule,MEDROXYPROGESTERONE ACETATE
+Antipsychotic,CHEMBL28218,Small molecule,BROMPERIDOL
+Antibacterial (topical),CHEMBL719,Small molecule,MUPIROCIN
+Pharmaceutic Aid (antimicrobial agent),CHEMBL720,Small molecule,BENZYL ALCOHOL
+Anti-Adrenergic (beta-receptor),CHEMBL27810,Small molecule,CELIPROLOL
+,CHEMBL434200,Small molecule,TERTATOLOL
+Antihypertensive; Anti-Anginal,CHEMBL723,Small molecule,CARVEDILOL
+Antipsychotic,CHEMBL726,Small molecule,FLUPHENAZINE
+Antineoplastic,CHEMBL727,Small molecule,THIOGUANINE
+Anti-Adrenergic (beta-receptor); Antihypertensive,CHEMBL27193,Small molecule,DILEVALOL
+"Anti-Emetic,Anti-Emetic; Antipsychotic,Antipsychotic; Anti-Emetic",CHEMBL728,Small molecule,PROCHLORPERAZINE
+,CHEMBL729,Small molecule,LOPINAVIR
+Vasodilator (coronary),CHEMBL730,Small molecule,NITROGLYCERIN
+,CHEMBL30116,Small molecule,PIPEMIDIC ACID
+Enzyme Inhibitor (urease),CHEMBL734,Small molecule,ACETOHYDROXAMIC ACID
+Vasodilator (coronary),CHEMBL284906,Small molecule,NICORANDIL
+Relaxant (smooth muscle),CHEMBL282121,Small molecule,MEBEVERINE
+Anesthetic (intravenous); Anticonvulsant,CHEMBL738,Small molecule,THIOPENTAL SODIUM
+Pharmaceutic Aid (stabilizer),CHEMBL29411,Small molecule,THYMOL
+Anesthetic (intravenous),CHEMBL30219,Small molecule,METHOHEXITAL SODIUM
+Anticonvulsant,CHEMBL741,Small molecule,LAMOTRIGINE
+Vasodilator,CHEMBL30008,Small molecule,FLUNARIZINE
+Anesthetic,CHEMBL742,Small molecule,KETAMINE
+Amyotrophic Lateral Sclerosis Treatment,CHEMBL744,Small molecule,RILUZOLE
+Anti-Allergic (prophylactic),CHEMBL746,Small molecule,NEDOCROMIL
+Cholinesterase Reactivator,CHEMBL748,Small molecule,PRALIDOXIME CHLORIDE
+,CHEMBL282575,Small molecule,ESTRADIOL BENZOATE
+Anticonvulsant,CHEMBL750,Small molecule,ZONISAMIDE
+Analgesic,CHEMBL751,Small molecule,BROMFENAC SODIUM
+Nutrient,CHEMBL752,Small molecule,ADENOSINE PHOSPHATE
+Antihypertensive,CHEMBL753,Small molecule,PHENOXYBENZAMINE
+Antiviral,CHEMBL754,Small molecule,FOSCARNET SODIUM
+Antithrombotic,CHEMBL760,Small molecule,ANAGRELIDE
+Adrenergic (vasoconstrictor),CHEMBL761,Small molecule,NAPHAZOLINE
+Adrenergic (vasoconstrictor),CHEMBL762,Small molecule,OXYMETAZOLINE
+Antihypertensive,CHEMBL765,Small molecule,GUANETHIDINE
+Enzyme Inhibitor,CHEMBL766,Small molecule,CILASTATIN
+Anti-Adrenergic (beta-receptor),CHEMBL768,Small molecule,ESMOLOL
+Vasodilator (peripheral),CHEMBL770,Small molecule,TOLAZOLINE
+Antibacterial (tuberculostatic),CHEMBL771,Small molecule,CYCLOSERINE
+Antibacterial,CHEMBL148,Small molecule,IMIPENEM
+Antihypertensive,CHEMBL772,Small molecule,RESERPINE
+,CHEMBL773,Small molecule,GLYCINE
+Bronchodilator,CHEMBL776,Small molecule,METAPROTERENOL
+Inhibitor (beta-lactamase),CHEMBL777,Small molecule,CLAVULANIC ACID
+Tranquilizer,CHEMBL778,Small molecule,DEXMEDETOMIDINE
+,CHEMBL779,Small molecule,TADALAFIL
+Analgesic; Antitussive,CHEMBL33986,Small molecule,BUTORPHANOL
+"Chelating Agent (plutonium),Diagnostic Aid",CHEMBL780,Small molecule,PENTETIC ACID
+Anorexic,CHEMBL781,Small molecule,MAZINDOL
+"Anti-Infective, Topical",CHEMBL290106,Small molecule,BITHIONOL
+"Antidiabetic,Diagnostic Aid (diabetes)",CHEMBL782,Small molecule,TOLBUTAMIDE
+,CHEMBL783,Small molecule,NATEGLINIDE
+,CHEMBL33864,Small molecule,"LIPOIC ACID, ALPHA"
+Anti-Estrogen,CHEMBL786,Small molecule,TAMOXIFEN CITRATE
+Anti-Asthmatic (leukotriene antagonist),CHEMBL787,Small molecule,MONTELUKAST
+Antiviral (ophthalmic),CHEMBL788,Small molecule,IDOXURIDINE
+Antibacterial,CHEMBL36506,Small molecule,NOVOBIOCIN
+Antiviral,CHEMBL152,Small molecule,CIDOFOVIR
+"Anti-Infective, Topical,Antibacterial,Antimicrobial",CHEMBL790,Small molecule,CHLORHEXIDINE
+Bronchodilator,CHEMBL32800,Small molecule,FENOTEROL
+Stimulant (central),CHEMBL796,Small molecule,METHYLPHENIDATE
+Sedative-Hypnotic,CHEMBL285674,Small molecule,ESTAZOLAM
+Anticonvulsant,CHEMBL797,Small molecule,PHENSUXIMIDE
+Antineoplastic,CHEMBL34259,Small molecule,METHOTREXATE
+Inhibitor (platelet); Vasodilator; Antithrombotic,CHEMBL799,Small molecule,CILOSTAZOL
+Hair Growth Stimulant (topical); Antihypertensive,CHEMBL802,Small molecule,MINOXIDIL
+"Anti-Inflammatory; Antipyretic; Analgesic,Antipyretic; Anti-Inflammatory; Analgesic",CHEMBL154,Small molecule,NAPROXEN
+Antimalarial,CHEMBL416956,Small molecule,MEFLOQUINE
+"Antiviral,Antiviral; Antineoplastic",CHEMBL803,Small molecule,CYTARABINE
+,CHEMBL806,Small molecule,FLUTAMIDE
+,CHEMBL807,Small molecule,MEMANTINE
+Antifungal,CHEMBL808,Small molecule,ECONAZOLE
+Antidepressant,CHEMBL809,Small molecule,SERTRALINE
+Cognition Adjuvant,CHEMBL36715,Small molecule,PIRACETAM
+,CHEMBL810,Small molecule,TEMOZOLOMIDE
+,CHEMBL37390,Small molecule,PROXYPHYLLINE
+,CHEMBL1015,Small molecule,EVANS BLUE
+Antagonist (angiotensin II receptor); Antihypertensive,CHEMBL1017,Small molecule,TELMISARTAN
+Estrogen,CHEMBL1018,Small molecule,DIENESTROL
+,CHEMBL75435,Small molecule,DEXKETOPROFEN
+,CHEMBL73234,Small molecule,CARBETAPENTANE
+Anti-Inflammatory,CHEMBL1020,Small molecule,TOLMETIN
+,CHEMBL1021,Small molecule,NEPAFENAC
+Vasodilator (coronary),CHEMBL75880,Small molecule,PERHEXILINE
+,CHEMBL1023,Small molecule,BEXAROTENE
+Antineoplastic,CHEMBL1024,Small molecule,IFOSFAMIDE
+Cholinergic (ophthalmic),CHEMBL1025,Small molecule,ISOFLUROPHATE
+,CHEMBL307145,Small molecule,PYROGALLOL
+Dopamine Agonist; Antihypertensive,CHEMBL1026,Small molecule,FENOLDOPAM MESYLATE
+Anticonvulsant,CHEMBL1027,Small molecule,TIAGABINE
+,CHEMBL76370,Small molecule,TEGASEROD
+,CHEMBL431770,Small molecule,ISTRADEFYLLINE
+Stimulant (cardiac),CHEMBL75753,Small molecule,XAMOTEROL
+,CHEMBL1029,Small molecule,MIGLUSTAT
+Cardiovascular Agent,CHEMBL77622,Small molecule,DOPEXAMINE
+Anti-Inflammatory,CHEMBL1034,Small molecule,DICLOFENAC SODIUM
+Antihypertensive,CHEMBL1037,Small molecule,GUANADREL
+Regulator (calcium),CHEMBL1040,Small molecule,CALCIFEDIOL
+Vitamin (antirachitic),CHEMBL1042,Small molecule,CHOLECALCIFEROL
+Antibacterial (leprostatic); Suppressant (dermatitis herpetiformis),CHEMBL1043,Small molecule,DAPSONE
+Hemostatic,CHEMBL1046,Small molecule,AMINOCAPROIC ACID
+,CHEMBL421701,Small molecule,DITHIAZANINE IODIDE
+,CHEMBL311498,Small molecule,CIANIDANOL
+Antiglaucoma Agent,CHEMBL1051,Small molecule,LATANOPROST
+Antifungal,CHEMBL83668,Small molecule,TOLNAFTATE
+Diuretic; Antihypertensive,CHEMBL1054,Small molecule,TRICHLORMETHIAZIDE
+Diuretic,CHEMBL1055,Small molecule,CHLORTHALIDONE
+Anticonvulsant,CHEMBL1059,Small molecule,PREGABALIN
+"Diagnostic Aid (neoplasm); Antineoplastic; Radioactive Agent; Antipolycythemic,Laxative",CHEMBL1060,Small molecule,SODIUM PHOSPHATE
+Antihyperlipidemic,CHEMBL1064,Small molecule,SIMVASTATIN
+,CHEMBL83063,Small molecule,RITODRINE
+,CHEMBL1068,Small molecule,OXCARBAZEPINE
+Antihypertensive,CHEMBL1069,Small molecule,VALSARTAN
+Cardiac Depressant (anti-arrhythmic),CHEMBL315838,Small molecule,ENCAINIDE
+,CHEMBL86882,Small molecule,ETILEFRINE
+Antidepressant,CHEMBL86304,Small molecule,MOCLOBEMIDE
+,CHEMBL85231,Small molecule,MEDIFOXAMINE
+Anti-Inflammatory,CHEMBL1070,Small molecule,NABUMETONE
+Anti-Inflammatory,CHEMBL1071,Small molecule,OXAPROZIN
+Analgesic,CHEMBL314437,Small molecule,MEPTAZINOL
+Antiparkinsonian; Relaxant (skeletal muscle),CHEMBL86715,Small molecule,PROCYCLIDINE
+Diuretic,CHEMBL1072,Small molecule,BUMETANIDE
+Antidiabetic,CHEMBL1073,Small molecule,GLIPIZIDE
+Antidepressant,CHEMBL87708,Small molecule,LOFEPRAMINE
+Anorexic,CHEMBL87493,Small molecule,FENFLURAMINE
+,CHEMBL315795,Small molecule,CLOMETHIAZOLE
+,CHEMBL315985,Small molecule,ESLICARBAZEPINE
+Cardiac Depressant (anti-arrhythmic),CHEMBL1075,Small molecule,MORICIZINE
+,CHEMBL87992,Small molecule,ESLICARBAZEPINE ACETATE
+,CHEMBL88055,Small molecule,RIMITEROL
+Analgesic,CHEMBL1077,Small molecule,BROMFENAC
+Antispasmodic,CHEMBL1079,Small molecule,TIZANIDINE
+Anticonvulsant (tardive dyskinesia),CHEMBL89598,Small molecule,VIGABATRIN
+Antineoplastic,CHEMBL90555,Small molecule,VINCRISTINE
+Antibacterial,CHEMBL1082,Small molecule,AMOXICILLIN
+,CHEMBL313972,Small molecule,MASOPROCOL
+,CHEMBL314854,Small molecule,FINGOLIMOD
+Antipsychotic,CHEMBL1085,Small molecule,ACETOPHENAZINE
+Anesthetic (local),CHEMBL1086,Small molecule,DIBUCAINE
+Anesthetic (local),CHEMBL1087,Small molecule,MEPIVACAINE
+Antipsychotic,CHEMBL1088,Small molecule,MESORIDAZINE
+Antidepressant,CHEMBL1089,Small molecule,PHENELZINE
+Antiviral,CHEMBL1090,Small molecule,VIDARABINE
+,CHEMBL90593,Small molecule,PRASTERONE
+Glucocorticoid,CHEMBL1091,Small molecule,HYDROCORTISONE ACETATE
+Anticholinergic; Antiparkinsonian,CHEMBL1092,Small molecule,TRIHEXYPHENIDYL HYDROCHLORIDE
+,CHEMBL1093,Small molecule,ARTICAINE
+Anti-Epileptic,CHEMBL1094,Small molecule,FELBAMATE
+Anticonvulsant,CHEMBL1095,Small molecule,ETHOTOIN
+Anti-Allergic,CHEMBL1096,Small molecule,AMLEXANOX
+,CHEMBL93645,Small molecule,ACECLOFENAC
+Anti-Inflammatory,CHEMBL94081,Small molecule,ALCLOFENAC
+,CHEMBL92401,Small molecule,IPRONIAZID
+Vasodilator (coronary),CHEMBL92870,Small molecule,LIDOFLAZINE
+Anesthetic (local),CHEMBL1098,Small molecule,BUPIVACAINE
+Antidote (to cyanide poisoning),CHEMBL93268,Small molecule,SODIUM NITRITE
+,CHEMBL1100,Small molecule,PARAMETHADIONE
+"Anticholinergic; Antiparkinsonian,Antiparkinsonian; Anticholinergic",CHEMBL1101,Small molecule,BIPERIDEN
+Anticonvulsant,CHEMBL328560,Small molecule,SULTHIAME
+Sedative-Hypnotic,CHEMBL1102,Small molecule,GLUTETHIMIDE
+"Anti-Infective, Topical; Antiprotozoal (trichomonas, topical)",CHEMBL1103,Small molecule,FURAZOLIDONE
+Antidote (to curare principles); Diagnostic Aid (myasthenia gravis),CHEMBL1104,Small molecule,EDROPHONIUM
+Anti-Inflammatory,CHEMBL413965,Small molecule,FELBINAC
+,CHEMBL1106,Small molecule,EPINASTINE
+Antimalarial,CHEMBL1107,Small molecule,HALOFANTRINE
+Antipsychotic,CHEMBL1108,Small molecule,DROPERIDOL
+,CHEMBL94454,Small molecule,MIZOLASTINE
+,CHEMBL1109,Small molecule,SULFAPHENAZOLE
+Anti-Emetic,CHEMBL1110,Small molecule,ALOSETRON
+,CHEMBL94394,Small molecule,BUFEXAMAC
+Anticholinergic,CHEMBL316561,Small molecule,PROGLUMIDE
+,CHEMBL1111,Small molecule,AMBRISENTAN
+Relaxant (smooth muscle),CHEMBL98123,Small molecule,PAPAVERINE HYDROCHLORIDE
+Antipsychotic; Antischizophrenic,CHEMBL1112,Small molecule,ARIPIPRAZOLE
+Antidepressant,CHEMBL1113,Small molecule,AMOXAPINE
+Cholinergic,CHEMBL1115,Small molecule,PYRIDOSTIGMINE
+Anti-Estrogen,CHEMBL1116,Small molecule,RALOXIFENE HYDROCHLORIDE
+Antineoplastic,CHEMBL1117,Small molecule,IDARUBICIN
+Replenisher Adjunct (electrolyte),CHEMBL95889,Small molecule,BETAINE
+,CHEMBL1118,Small molecule,DESVENLAFAXINE
+Antidiarrheal; Anti-Ulcerative; Antacid,CHEMBL1120,Small molecule,BISMUTH SUBSALICYLATE
+,CHEMBL328190,Small molecule,LASOFOXIFENE
+,CHEMBL317052,Small molecule,REGADENOSON
+,CHEMBL329522,Small molecule,EXIFONE
+,CHEMBL99946,Small molecule,LEVOMILNACIPRAN
+,CHEMBL317094,Small molecule,IMIDAPRIL
+,CHEMBL100116,Small molecule,PENTAZOCINE
+Anticholinergic,CHEMBL1123,Small molecule,DICYCLOMINE
+Antibacterial,CHEMBL1126,Small molecule,PENICILLIN G SODIUM
+Antidote (to curare principles); Diagnostic Aid (myasthenia gravis),CHEMBL1128,Small molecule,EDROPHONIUM CHLORIDE
+Antiviral (ophthalmic),CHEMBL1129,Small molecule,TRIFLURIDINE
+Antipsoriatic,CHEMBL1131,Small molecule,ACITRETIN
+Anticholinergic,CHEMBL1133,Small molecule,OXYBUTYNIN CHLORIDE
+,CHEMBL1134,Small molecule,DECAMETHONIUM BROMIDE
+,CHEMBL1136,Small molecule,TELITHROMYCIN
+,CHEMBL1138,Small molecule,EZETIMIBE
+Inhibitor (platelet),CHEMBL1139,Small molecule,EPOPROSTENOL
+Vitamin (enzyme co-factor),CHEMBL1140,Small molecule,NIACINAMIDE
+,CHEMBL418995,Small molecule,AMINEPTINE
+,CHEMBL110458,Small molecule,MIGALASTAT
+Pharmaceutic Aid (flavor),CHEMBL108545,Small molecule,METHYL SALICYLATE
+Supplement (iodine); Expectorant; Antifungal,CHEMBL1141,Small molecule,POTASSIUM IODIDE
+Antihyperlipidemic,CHEMBL1144,Small molecule,PRAVASTATIN
+Antibacterial,CHEMBL1146,Small molecule,CEFAMANDOLE
+Diuretic,CHEMBL1148,Small molecule,TORSEMIDE
+Replenisher (carnitine),CHEMBL1149,Small molecule,LEVOCARNITINE
+Glucocorticoid,CHEMBL1152,Small molecule,PREDNISOLONE ACETATE
+Anti-Emetic,CHEMBL325109,Small molecule,CLEBOPRIDE
+Pharmaceutic Aid (emulsifying agent),CHEMBL112570,Small molecule,CHOLESTEROL
+Progestin,CHEMBL110691,Small molecule,CHLORMADINONE ACETATE
+Diagnostic Aid (pancreas function determination); Radioactive Agent,CHEMBL113178,Small molecule,SELENOMETHIONINE
+,CHEMBL325041,Small molecule,BORTEZOMIB
+Antihypertensive,CHEMBL1159,Small molecule,PINACIDIL
+Steroid (topical),CHEMBL1161,Small molecule,MOMETASONE FUROATE
+Progestin,CHEMBL1162,Small molecule,NORETHINDRONE
+,CHEMBL1163,Small molecule,ATAZANAVIR
+Antihypertensive; Enzyme Inhibitor (angiotensin-converting),CHEMBL1165,Small molecule,MOEXIPRIL
+Anticoagulant,CHEMBL1166,Small molecule,ARGATROBAN
+Antibacterial,CHEMBL1167,Small molecule,SPECTINOMYCIN
+Enzyme Inhibitor (angiotensin-converting); Antihypertensive,CHEMBL1168,Small molecule,RAMIPRIL
+,CHEMBL419213,Small molecule,LISINOPRIL
+Antibacterial (tuberculostatic),CHEMBL1169,Small molecule,AMINOSALICYLIC ACID
+Androgen,CHEMBL1170,Small molecule,TESTOSTERONE PROPIONATE
+,CHEMBL117287,Small molecule,PRUCALOPRIDE
+,CHEMBL1172,Small molecule,DESLORATADINE
+,CHEMBL333826,Small molecule,DEQUALINIUM
+Antidepressant,CHEMBL1175,Small molecule,DULOXETINE
+Stimulant (central),CHEMBL1177,Small molecule,PEMOLINE
+,CHEMBL119423,Small molecule,TISOPURINE
+,CHEMBL117785,Small molecule,TETRABENAZINE
+"Anti-Infective, Topical",CHEMBL71595,Small molecule,HYDROGEN PEROXIDE
+Vasodilator (peripheral); Cardiac Depressant; Miotic; Cholinergic,CHEMBL1184,Small molecule,ACETYLCHOLINE CHLORIDE
+Antimigraine,CHEMBL1185,Small molecule,ZOLMITRIPTAN
+Oxytocic,CHEMBL119443,Small molecule,ERGONOVINE
+Pharmaceutic Aid (solvent),CHEMBL1187,Small molecule,PHOSPHORIC ACID
+,CHEMBL121626,Small molecule,TOLFENAMIC ACID
+Cholinergic (ophthalmic),CHEMBL338975,Small molecule,PHYSOSTIGMINE SALICYLATE
+,CHEMBL121663,Small molecule,DEQUALINIUM CHLORIDE
+,CHEMBL1190,Small molecule,DECAMETHONIUM
+Neuromuscular Blocking Agent,CHEMBL339427,Small molecule,TUBOCURARINE
+,CHEMBL338802,Small molecule,SULFAGUANIDINE
+Antibacterial,CHEMBL1191,Small molecule,SULFAMETHIZOLE
+,CHEMBL1193,Small molecule,PHENIRAMINE
+Anesthetic (local),CHEMBL1194,Small molecule,PRILOCAINE
+Anesthetic (local),CHEMBL1195,Small molecule,PROPOXYCAINE
+"Anesthetic (topical, ophthalmic)",CHEMBL1196,Small molecule,PROPARACAINE
+,CHEMBL1197,Small molecule,HEXYLCAINE
+Anesthetic (topical),CHEMBL1198,Small molecule,PRAMOXINE
+Anesthetic (topical),CHEMBL1200,Small molecule,BENOXINATE
+Antipsychotic,CHEMBL1201,Small molecule,THIOTHIXENE
+Antidepressant,CHEMBL126224,Small molecule,IPRINDOLE
+Anesthetic (topical),CHEMBL127516,Small molecule,BUTAMBEN
+Antibacterial,CHEMBL1202,Small molecule,CIPROFLOXACIN HYDROCHLORIDE
+Antiviral,CHEMBL1205,Small molecule,NELFINAVIR MESYLATE
+Antiparkinsonian,CHEMBL1206,Small molecule,ETHOPROPAZINE
+Antibacterial,CHEMBL1208,Small molecule,CINOXACIN
+,CHEMBL132530,Small molecule,FORMESTANE
+,CHEMBL334966,Small molecule,CANGRELOR
+Antibacterial,CHEMBL1214,Small molecule,CARBENICILLIN
+Analgesic; Anti-Inflammatory,CHEMBL340978,Small molecule,BENOXAPROFEN
+Adrenergic (ophthalmic),CHEMBL1215,Small molecule,PHENYLEPHRINE
+,CHEMBL1218,Small molecule,RAMELTEON
+Anti-Ulcerative; Gastric Acid Pump Inhibitor,CHEMBL1219,Small molecule,RABEPRAZOLE
+Antiprotozoal,CHEMBL1220,Small molecule,TINIDAZOLE
+Antifungal,CHEMBL1221,Small molecule,SULCONAZOLE
+,CHEMBL135400,Small molecule,ZOPICLONE
+Antibacterial,CHEMBL1223,Small molecule,PENICILLIN G POTASSIUM
+Antihypertensive,CHEMBL136478,Small molecule,SODIUM NITROPRUSSIDE
+Antihistaminic,CHEMBL1224,Small molecule,ACRIVASTINE
+,CHEMBL344159,Small molecule,TOLVAPTAN
+Antirheumatic; Anti-Inflammatory,CHEMBL1228,Small molecule,OXYPHENBUTAZONE
+,CHEMBL1229,Small molecule,OSELTAMIVIR
+,CHEMBL139367,Small molecule,PERAMIVIR
+Analgesic; Anti-Inflammatory,CHEMBL341812,Small molecule,IBUFENAC
+Anticholinergic,CHEMBL1231,Small molecule,OXYBUTYNIN
+,CHEMBL1232,Small molecule,ERTAPENEM SODIUM
+Relaxant (skeletal muscle),CHEMBL1233,Small molecule,CARISOPRODOL
+Antidote (to iron poisoning); Chelating Agent,CHEMBL1234,Small molecule,DEFEROXAMINE MESYLATE
+Antihypertensive,CHEMBL1237,Small molecule,LISINOPRIL
+Anti-Acne,CHEMBL1238,Small molecule,AZELAIC ACID
+,CHEMBL1239,Small molecule,BENZYL BENZOATE
+Smoking Cessation Adjunct,CHEMBL3,Small molecule,NICOTINE
+Anti-Inflammatory,CHEMBL6,Small molecule,INDOMETHACIN
+Stimulant (central),CHEMBL405,Small molecule,AMPHETAMINE
+Vasodilator (coronary),CHEMBL6622,Small molecule,ISOSORBIDE DINITRATE
+Estrogen,CHEMBL411,Small molecule,DIETHYLSTILBESTROL
+Antihypertensive,CHEMBL267936,Small molecule,MECAMYLAMINE
+Cholinergic (ophthalmic),CHEMBL14,Small molecule,CARBACHOL
+Anticonvulsant,CHEMBL16,Small molecule,PHENYTOIN
+,CHEMBL6466,Small molecule,COUMARIN
+"Antihypertensive,Vasodilator (coronary)",CHEMBL23,Small molecule,DILTIAZEM
+Anti-Adrenergic (beta-receptor),CHEMBL24,Small molecule,ATENOLOL
+Analgesic; Antirheumatic; Antipyretic,CHEMBL25,Small molecule,ASPIRIN
+Antipsychotic; Sedative-Hypnotic,CHEMBL422,Small molecule,TRIFLUOPERAZINE
+Antidepressant,CHEMBL26,Small molecule,SULPIRIDE
+Antihypertensive; Anti-Anginal,CHEMBL423,Small molecule,BETAXOLOL
+Keratolytic,CHEMBL424,Small molecule,SALICYLIC ACID
+,CHEMBL444,Small molecule,BARBITAL
+Antipsychotic,CHEMBL42,Small molecule,CLOZAPINE
+Antidepressant,CHEMBL445,Small molecule,NORTRIPTYLINE
+Antibacterial,CHEMBL446,Small molecule,SULFAMETHAZINE
+Sedative-Hypnotic,CHEMBL447,Small molecule,SECOBARBITAL
+Sedative-Hypnotic,CHEMBL448,Small molecule,PENTOBARBITAL
+Sedative-Hypnotic,CHEMBL267894,Small molecule,AMOBARBITAL
+Sedative-Hypnotic,CHEMBL449,Small molecule,BUTABARBITAL
+,CHEMBL450,Small molecule,METHARBITAL
+"Sedative-Hypnotic,Tranquilizer (minor)",CHEMBL451,Small molecule,CHLORDIAZEPOXIDE
+Anticonvulsant,CHEMBL452,Small molecule,CLONAZEPAM
+Antibacterial,CHEMBL453,Small molecule,SULFISOXAZOLE
+,CHEMBL268869,Small molecule,SULFAMETHOXYPYRIDAZINE
+Sedative-Hypnotic,CHEMBL454,Small molecule,BUTALBITAL
+Antibacterial,CHEMBL455,Small molecule,SULFACETAMIDE
+Antineoplastic,CHEMBL43,Small molecule,AMSACRINE
+Antineoplastic,CHEMBL11359,Small molecule,CISPLATIN
+Antihypertensive,CHEMBL276832,Small molecule,HYDRALAZINE
+Stimulant (central),CHEMBL501,Small molecule,AMPHETAMINE SULFATE
+Antifungal,CHEMBL267345,Small molecule,AMPHOTERICIN B
+Stimulant (gastric secretory),CHEMBL90,Small molecule,HISTAMINE
+Antifungal,CHEMBL91,Small molecule,MICONAZOLE
+Antineoplastic,CHEMBL92,Small molecule,DOCETAXEL
+Inhibitor (5-lipoxygenase),CHEMBL93,Small molecule,ZILEUTON
+Cholinergic (ophthalmic),CHEMBL94,Small molecule,PHYSOSTIGMINE
+Cognition Adjuvant; Dementia Symptoms Treatment Adjunct,CHEMBL95,Small molecule,TACRINE
+Dementia Symptoms Treatment Adjunct; Inhibitor (acetylcholinesterase); Cognition Adjuvant; Alzheimer's Disease Treatment (adjunct),CHEMBL502,Small molecule,DONEPEZIL
+Inhibitor (HMG-CoA reductase); Antihyperlipidemic,CHEMBL503,Small molecule,LOVASTATIN
+Anti-Inflammatory; Antipyretic; Analgesic,CHEMBL12610,Small molecule,BENZYDAMINE
+Anti-Inflammatory (topical),CHEMBL504,Small molecule,DIMETHYL SULFOXIDE
+Antihistaminic,CHEMBL505,Small molecule,CHLORPHENIRAMINE
+Antimalarial,CHEMBL506,Small molecule,PRIMAQUINE
+Anti-Inflammatory,CHEMBL509,Small molecule,MECLOFENAMIC ACID
+Antihistaminic,CHEMBL511,Small molecule,PYRILAMINE
+Antipsychotic; Neuroleptic,CHEMBL12713,Small molecule,SERTINDOLE
+Antineoplastic,CHEMBL513,Small molecule,CARMUSTINE
+Antineoplastic,CHEMBL514,Small molecule,LOMUSTINE
+Antineoplastic,CHEMBL515,Small molecule,CHLORAMBUCIL
+Antihistaminic; Antipruritic,CHEMBL516,Small molecule,CYPROHEPTADINE
+Cardiotonic,CHEMBL12856,Small molecule,INAMRINONE
+Cardiac Depressant (anti-arrhythmic),CHEMBL517,Small molecule,DISOPYRAMIDE
+Oxytocic,CHEMBL412873,Small molecule,SPARTEINE
+,CHEMBL98,Small molecule,VORINOSTAT
+Antibacterial,CHEMBL267648,Small molecule,PEFLOXACIN
+Anti-Inflammatory,CHEMBL521,Small molecule,IBUPROFEN
+,CHEMBL13376,Small molecule,CLOMETACIN
+Sedative-Hypnotic,CHEMBL13280,Small molecule,FLUNITRAZEPAM
+,CHEMBL282724,Small molecule,SITAXENTAN
+Antibacterial (tuberculostatic),CHEMBL614,Small molecule,PYRAZINAMIDE
+Antiviral,CHEMBL282042,Small molecule,SAQUINAVIR MESYLATE
+Antineoplastic,CHEMBL20883,Small molecule,TEGAFUR
+Antibacterial,CHEMBL615,Small molecule,PENICILLIN V
+Antibacterial,CHEMBL617,Small molecule,CEPHALOTHIN
+,CHEMBL125,Small molecule,MILTEFOSINE
+Antibacterial,CHEMBL126,Small molecule,LINEZOLID
+Anticholinergic,CHEMBL620,Small molecule,CLIDINIUM
+Antibacterial,CHEMBL127,Small molecule,MEROPENEM
+Antidepressant,CHEMBL621,Small molecule,TRAZODONE
+Anti-Inflammatory,CHEMBL622,Small molecule,ETODOLAC
+Antihistaminic,CHEMBL22108,Small molecule,DIMETHINDENE
+Antidepressant,CHEMBL623,Small molecule,NEFAZODONE
+Anthelmintic,CHEMBL625,Small molecule,THIABENDAZOLE
+Antifungal,CHEMBL626,Small molecule,NAFTIFINE
+Analgesic,CHEMBL277474,Small molecule,ANTIPYRINE
+Sedative-Hypnotic,CHEMBL22097,Small molecule,LORMETAZEPAM
+Vasodilator,CHEMBL628,Small molecule,PENTOXIFYLLINE
+Antidepressant,CHEMBL629,Small molecule,AMITRIPTYLINE
+Disinfectant,CHEMBL21869,Small molecule,DIBROMSALAN
+Disinfectant,CHEMBL24944,Small molecule,TRIBROMSALAN
+Antimigraine,CHEMBL128,Small molecule,SUMATRIPTAN
+Cardiac Depressant (anti-arrhythmic),CHEMBL631,Small molecule,PROPAFENONE
+Glucocorticoid,CHEMBL632,Small molecule,BETAMETHASONE
+,CHEMBL633,Small molecule,AMIODARONE
+Analgesic (narcotic),CHEMBL634,Small molecule,ALFENTANIL
+Glucocorticoid,CHEMBL635,Small molecule,PREDNISONE
+,CHEMBL636,Small molecule,RIVASTIGMINE
+Antidepressant,CHEMBL637,Small molecule,VENLAFAXINE
+Antiviral,CHEMBL129,Small molecule,ZIDOVUDINE
+,CHEMBL638,Small molecule,VORICONAZOLE
+Anti-Asthmatic; Anti-Allergic,CHEMBL639,Small molecule,AZELASTINE
+Antibacterial; Antirickettsial,CHEMBL130,Small molecule,CHLORAMPHENICOL
+Cardiac Depressant (anti-arrhythmic),CHEMBL640,Small molecule,PROCAINAMIDE
+,CHEMBL641,Small molecule,ATOMOXETINE
+Anti-Adrenergic (beta-receptor),CHEMBL642,Small molecule,ACEBUTOLOL
+Antihistaminic; Anti-Emetic,CHEMBL643,Small molecule,PROMETHAZINE
+Glucocorticoid,CHEMBL131,Small molecule,PREDNISOLONE
+Antidepressant,CHEMBL644,Small molecule,TRIMIPRAMINE
+Antihypertensive (beta-blocker),CHEMBL645,Small molecule,BISOPROLOL
+Sedative-Hypnotic,CHEMBL646,Small molecule,TRIAZOLAM
+Adrenergic (alpha12-agonist),CHEMBL647,Small molecule,APRACLONIDINE
+"Anti-Emetic,Antihistaminic,Antinauseant",CHEMBL648,Small molecule,CYCLIZINE
+Antihypertensive (beta-blocker),CHEMBL434394,Small molecule,NEBIVOLOL
+Anti-Adrenergic (beta-receptor),CHEMBL649,Small molecule,NADOLOL
+Glucocorticoid,CHEMBL650,Small molecule,METHYLPREDNISOLONE
+Analgesic (narcotic),CHEMBL651,Small molecule,METHADONE
+Cardiac Depressant (anti-arrhythmic),CHEMBL652,Small molecule,FLECAINIDE
+Antihypertensive,CHEMBL134,Small molecule,CLONIDINE
+Antidepressant,CHEMBL654,Small molecule,MIRTAZAPINE
+"Anesthetic (injectable),Anesthetic (intravenous)",CHEMBL655,Small molecule,MIDAZOLAM
+Antipsychotic,CHEMBL22242,Small molecule,REMOXIPRIDE
+Analgesic (narcotic),CHEMBL656,Small molecule,OXYCODONE
+Estrogen,CHEMBL135,Small molecule,ESTRADIOL
+Antihistaminic,CHEMBL657,Small molecule,DIPHENHYDRAMINE
+"Analgesic,Analgesic (narcotic)",CHEMBL658,Small molecule,SUFENTANIL
+,CHEMBL659,Small molecule,GALANTAMINE
+Antiviral,CHEMBL660,Small molecule,AMANTADINE
+Sedative-Hypnotic,CHEMBL661,Small molecule,ALPRAZOLAM
+Antidepressant,CHEMBL21731,Small molecule,MAPROTILINE
+,CHEMBL904,Small molecule,DEXMETHYLPHENIDATE HYDROCHLORIDE
+Antimigraine,CHEMBL905,Small molecule,RIZATRIPTAN
+Cholinergic,CHEMBL54126,Small molecule,NEOSTIGMINE BROMIDE
+Antipsychotic,CHEMBL908,Small molecule,CHLORPROTHIXENE
+Sedative-Hypnotic,CHEMBL911,Small molecule,ZOLPIDEM
+Antihistaminic,CHEMBL914,Small molecule,FEXOFENADINE
+Anti-Allergic (prophylactic),CHEMBL915,Small molecule,NEDOCROMIL SODIUM
+Treatment of Unstable Angina,CHEMBL916,Small molecule,TIROFIBAN
+,CHEMBL53418,Small molecule,DANTHRON
+Antiviral; Antineoplastic,CHEMBL917,Small molecule,FLOXURIDINE
+Anticonvulsant,CHEMBL918,Small molecule,PHENACEMIDE
+Anticonvulsant,CHEMBL919,Small molecule,FOSPHENYTOIN SODIUM
+Anti-Anxiety Agent,CHEMBL54349,Small molecule,ALPIDEM
+Antiviral,CHEMBL922,Small molecule,ADEFOVIR DIPIVOXIL
+Antibacterial,CHEMBL161,Small molecule,CEFTRIAXONE
+Regulator (calcium),CHEMBL923,Small molecule,RISEDRONIC ACID
+"Bone Resorption Inhibitor; Osteoporosis Therapy Adjunct,Osteoporosis Therapy Adjunct,Osteoporosis Therapy Adjunct; Bone Resorption Inhibitor",CHEMBL924,Small molecule,ZOLEDRONIC ACID
+,CHEMBL264241,Small molecule,ANIDULAFUNGIN
+Amino Acid,CHEMBL925,Small molecule,TYROSINE
+Cardiotonic,CHEMBL926,Small molecule,DOBUTAMINE
+Antibacterial,CHEMBL927,Small molecule,CEFDINIR
+Amino Acid,CHEMBL54976,Small molecule,TRYPTOPHAN
+Relaxant (skeletal muscle),CHEMBL928,Small molecule,DANTROLENE SODIUM
+,CHEMBL298734,Small molecule,LONAFARNIB
+Antiviral,CHEMBL929,Small molecule,DELAVIRDINE MESYLATE
+,CHEMBL930,Small molecule,GLUTAMINE
+,CHEMBL56367,Small molecule,NIMESULIDE
+Anesthetic (inhalation),CHEMBL931,Small molecule,HALOTHANE
+Vasodilator (coronary),CHEMBL932,Small molecule,DIPYRIDAMOLE
+Diagnostic Aid (pituitary function determination),CHEMBL934,Small molecule,METYRAPONE
+Anti-Emetic,CHEMBL936,Small molecule,DIPHENIDOL
+Anthelmintic,CHEMBL937,Small molecule,DIETHYLCARBAMAZINE CITRATE
+,CHEMBL55643,Small molecule,COPPER
+Antiviral,CHEMBL163,Small molecule,RITONAVIR
+,CHEMBL939,Small molecule,GEFITINIB
+,CHEMBL55400,Small molecule,PROFLAVINE
+Anticonvulsant,CHEMBL940,Small molecule,GABAPENTIN
+,CHEMBL301267,Small molecule,ARTEMOTIL
+,CHEMBL291338,Small molecule,"3,3',4',5-TETRACHLOROSALICYLANILIDE"
+,CHEMBL58323,Small molecule,ERLOSAMIDE
+,CHEMBL941,Small molecule,IMATINIB
+,CHEMBL56564,Small molecule,TROPISETRON
+"Antidepressant; Antischizophrenic; Dopamine Agonist; Antiparkinsonian,Antiparkinsonian; Antischizophrenic; Dopamine Agonist; Antidepressant",CHEMBL301265,Small molecule,PRAMIPEXOLE
+Laxative,CHEMBL942,Small molecule,BISACODYL
+Anesthetic (local),CHEMBL944,Small molecule,CHLOROPROCAINE HYDROCHLORIDE
+Diuretic,CHEMBL945,Small molecule,AMILORIDE
+Antihistaminic,CHEMBL946,Small molecule,AZATADINE
+,CHEMBL58510,Small molecule,CHLOROQUINE PHOSPHATE
+Diagnostic Aid (radiopaque medium),CHEMBL951,Small molecule,IOPHENDYLATE
+"Antineuralgic, Specific Pain Syndromes, Topical; Analgesic (topical)",CHEMBL294199,Small molecule,CAPSAICIN
+Antidyskinetic,CHEMBL953,Small molecule,ENTACAPONE
+Antihypertensive; Diuretic,CHEMBL61593,Small molecule,CYCLOTHIAZIDE
+Anti-Inflammatory,CHEMBL956,Small molecule,SUPROFEN
+Antagonist (endothelin receptor),CHEMBL957,Small molecule,BOSENTAN
+Antiviral,CHEMBL959,Small molecule,RIMANTADINE
+,CHEMBL960,Small molecule,LEFLUNOMIDE
+,CHEMBL62193,Small molecule,SULFADIMETHOXINE
+Adrenergic (vasoconstrictor),CHEMBL61006,Small molecule,PHENYLPROPANOLAMINE
+Inhibitor (platelet),CHEMBL962,Small molecule,EPOPROSTENOL SODIUM
+Analgesic (narcotic),CHEMBL963,Small molecule,OXYMORPHONE
+Alcohol Deterrent,CHEMBL964,Small molecule,DISULFIRAM
+Cholinergic (ophthalmic),CHEMBL965,Small molecule,CARBACHOL
+Tranquilizer (minor),CHEMBL967,Small molecule,TEMAZEPAM
+Sedative-Hypnotic; Relaxant (muscle); Anticonvulsant,CHEMBL968,Small molecule,FLURAZEPAM
+Sedative-Hypnotic,CHEMBL969,Small molecule,PRAZEPAM
+Sedative-Hypnotic,CHEMBL970,Small molecule,HALAZEPAM
+Sedative-Hypnotic,CHEMBL971,Small molecule,PENTOBARBITAL SODIUM
+Antidyskinetic; Antiparkinsonian (in combination with levodopa/carbidopa),CHEMBL972,Small molecule,SELEGILINE
+,CHEMBL973,Small molecule,TERIFLUNOMIDE
+Detoxifying Agent,CHEMBL975,Small molecule,MESNA
+,CHEMBL64391,Small molecule,ITRACONAZOLE
+"Anti-Infective, Topical",CHEMBL64894,Small molecule,GENTIAN VIOLET
+Anthelmintic (veterinary),CHEMBL976,Small molecule,PRAZIQUANTEL
+"Adrenocortical Steroid,Glucocorticoid",CHEMBL977,Small molecule,HYDROCORTISONE HEMISUCCINATE
+Cholinergic,CHEMBL978,Small molecule,METHACHOLINE
+,CHEMBL435966,Small molecule,NIMORAZOLE
+Sedative-Hypnotic,CHEMBL979,Small molecule,MEPROBAMATE
+,CHEMBL64195,Small molecule,BECLAMIDE
+Expectorant,CHEMBL980,Small molecule,GUAIFENESIN
+,CHEMBL981,Small molecule,FENOFIBRIC ACID
+Antagonist (to narcotics),CHEMBL982,Small molecule,NALMEFENE
+Neuromuscular Blocking Agent,CHEMBL983,Small molecule,SUCCINYLCHOLINE CHLORIDE
+Neuromuscular Blocking Agent,CHEMBL984,Small molecule,MIVACURIUM CHLORIDE
+Diuretic,CHEMBL985,Small molecule,UREA
+,CHEMBL65375,Small molecule,TIPIRACIL HYDROCHLORIDE
+Antipsychotic,CHEMBL304902,Small molecule,CLOTHIAPINE
+Laxative,CHEMBL63857,Small molecule,PHENOLPHTHALEIN
+,CHEMBL305187,Small molecule,IFENPRODIL
+Vitamin (anti-xerophthalmic),CHEMBL986,Small molecule,RETINOL
+Antibacterial,CHEMBL65794,Small molecule,CEFPIROME
+Glucocorticoid,CHEMBL989,Small molecule,FLUOCINOLONE ACETONIDE
+Antifungal,CHEMBL990,Small molecule,BUTENAFINE
+,CHEMBL70246,Small molecule,ACEFYLLINE
+Antiviral,CHEMBL991,Small molecule,STAVUDINE
+Antihypertensive,CHEMBL995,Small molecule,LOSARTAN POTASSIUM
+Antibacterial,CHEMBL996,Small molecule,CEFOXITIN
+Antiviral,CHEMBL70046,Small molecule,SORIVUDINE
+Antihypercalcemic; Bone Resorption Inhibitor,CHEMBL997,Small molecule,IBANDRONIC ACID
+Antihistaminic,CHEMBL998,Small molecule,LORATADINE
+,CHEMBL71752,Small molecule,VINPOCETINE
+Antihistaminic,CHEMBL1000,Small molecule,CETIRIZINE
+Tranquilizer (minor),CHEMBL70418,Small molecule,CLOBAZAM
+Bronchodilator; Asthma Prophylactic,CHEMBL1002,Small molecule,LEVOSALBUTAMOL
+Inhibitor (beta-lactamase),CHEMBL1003,Small molecule,CLAVULANATE POTASSIUM
+Antihistaminic,CHEMBL1004,Small molecule,DOXYLAMINE
+Analgesic,CHEMBL1005,Small molecule,REMIFENTANIL
+,CHEMBL70927,Small molecule,DEFERIPRONE
+Anti-Inflammatory,CHEMBL302795,Small molecule,TENOXICAM
+,CHEMBL73451,Small molecule,MEQUITAZINE
+Protectant (topical); Radioprotector,CHEMBL1006,Small molecule,AMIFOSTINE
+Vasodilator,CHEMBL1008,Small molecule,BEPRIDIL
+Antiparkinsonian,CHEMBL1009,Small molecule,LEVODOPA
+Antibacterial,CHEMBL1010,Small molecule,CEFOTAXIME SODIUM
+,CHEMBL308954,Small molecule,ETRAVIRINE
+,CHEMBL306043,Small molecule,GOLD SODIUM THIOMALATE
+"Anti-Infective, Topical; Pharmaceutic Aid (preservative)",CHEMBL305906,Small molecule,CETYLPYRIDINIUM
+Antidepressant,CHEMBL306700,Small molecule,VILOXAZINE
+Antibacterial,CHEMBL1013,Small molecule,LORACARBEF
+Anti-Infective,CHEMBL74632,Small molecule,MOXALACTAM
+Adrenergic (vasoconstrictor),CHEMBL312448,Small molecule,XYLOMETAZOLINE
+,CHEMBL306823,Small molecule,SODIUM DICHLOROACETATE
+Antagonist (angiotensin II receptor); Antihypertensive,CHEMBL1014,Small molecule,CANDESARTAN CILEXETIL
+"Antimalarial,Deterrent (smoking)",CHEMBL170,Small molecule,QUININE
+,CHEMBL346235,Small molecule,DIAMTHAZOLE DIHYDROCHLORIDE
+,CHEMBL1301,Small molecule,HYDROXYSTILBAMIDINE
+,CHEMBL1303,Small molecule,ROTIGOTINE
+Diuretic,CHEMBL349803,Small molecule,PIRETANIDE
+Antihistaminic,CHEMBL1305,Small molecule,ANTAZOLINE
+Antifungal,CHEMBL1306,Small molecule,TERCONAZOLE
+Antidote (alcohol dehydrogenase inhibitor),CHEMBL1308,Small molecule,FOMEPIZOLE
+,CHEMBL350221,Small molecule,OXITRIPTAN
+Vasodilator (coronary),CHEMBL1311,Small molecule,ISOSORBIDE MONONITRATE
+,CHEMBL157138,Small molecule,LISURIDE
+,CHEMBL1314,Small molecule,TIOPRONIN
+Anti-Inflammatory,CHEMBL1316,Small molecule,CARPROFEN
+Serotonin Inhibitor,CHEMBL346977,Small molecule,FONAZINE
+,CHEMBL159226,Small molecule,MOXISYLYTE
+Antineoplastic,CHEMBL1321,Small molecule,PROCARBAZINE
+,CHEMBL1323,Small molecule,DARUNAVIR
+Antiparkinsonian,CHEMBL1324,Small molecule,TOLCAPONE
+,CHEMBL162036,Small molecule,BENORILATE
+Diagnostic Aid (gastric secretion indicator),CHEMBL1328,Small molecule,PENTAGASTRIN
+,CHEMBL1336,Small molecule,SORAFENIB
+Anthelmintic (veterinary),CHEMBL167150,Small molecule,TRICHLORFON
+Impotence Therapy,CHEMBL192,Small molecule,SILDENAFIL
+Ammonia Detoxicant; Diagnostic Aid (pituitary function determination),CHEMBL1485,Small molecule,ARGININE
+,CHEMBL398435,Small molecule,TICAGRELOR
+,CHEMBL1486,Small molecule,TENOFOVIR DISOPROXIL FUMARATE
+Inhibitor (HMG-CoA reductase),CHEMBL1487,Small molecule,ATORVASTATIN
+Antineoplastic,CHEMBL1488,Small molecule,URACIL MUSTARD
+Antineoplastic,CHEMBL1489,Small molecule,AZACITIDINE
+,CHEMBL251940,Small molecule,PERICIAZINE
+Anticholinergic; Antiparkinsonian,CHEMBL1490,Small molecule,TRIHEXYPHENIDYL
+Anticholinergic,CHEMBL253371,Small molecule,ALVERINE
+Antihypertensive; Anti-Anginal,CHEMBL1491,Small molecule,AMLODIPINE
+,CHEMBL400599,Small molecule,BENFLUOREX
+Expectorant; Mucolytic,CHEMBL253376,Small molecule,BROMHEXINE
+,CHEMBL254857,Small molecule,FIPEXIDE
+,CHEMBL1492,Small molecule,DIPHENYLPYRALINE
+Relaxant (smooth muscle),CHEMBL1493,Small molecule,FLAVOXATE
+Analgesic,CHEMBL255044,Small molecule,FLUPIRTINE
+,CHEMBL250270,Small molecule,LERCANIDIPINE
+,CHEMBL1495,Small molecule,OXYPHENCYCLIMINE
+,CHEMBL404849,Small molecule,SULOCTIDIL
+,CHEMBL252556,Small molecule,IDEBENONE
+,CHEMBL1496,Small molecule,ROSUVASTATIN
+Glucocorticoid,CHEMBL1497,Small molecule,BETAMETHASONE VALERATE
+,CHEMBL404422,Small molecule,BUTETHAL
+Antibacterial,CHEMBL398440,Small molecule,CHLOROXYLENOL
+Cardiotonic,CHEMBL254219,Small molecule,DIGITOXIN
+Glucocorticoid,CHEMBL1501,Small molecule,FLUOCINONIDE
+Analgesic (narcotic),CHEMBL398707,Small molecule,HYDROMORPHONE
+Vasodilator (coronary),CHEMBL193,Small molecule,NIFEDIPINE
+Anti-Ulcerative,CHEMBL1502,Small molecule,PANTOPRAZOLE
+"Antisecretory (gastric),Depressant (gastric acid secretory)",CHEMBL1503,Small molecule,OMEPRAZOLE
+Pharmaceutic Aid (flavor); Pharmaceutic Aid (tablet excipient),CHEMBL253582,Small molecule,SUCROSE
+Glucocorticoid,CHEMBL1504,Small molecule,TRIAMCINOLONE ACETONIDE
+,CHEMBL252518,Small molecule,ARTENIMOL
+Antimigraine,CHEMBL1505,Small molecule,ALMOTRIPTAN
+Antirickettsial; Antibacterial,CHEMBL1506,Small molecule,CHLORAMPHENICOL PALMITATE
+,CHEMBL1508,Small molecule,ESCITALOPRAM
+Aldosterone Antagonist,CHEMBL1509,Small molecule,DROSPIRENONE
+,CHEMBL1510,Small molecule,ELETRIPTAN
+Estrogen,CHEMBL1511,Small molecule,ESTRADIOL VALERATE
+Glucocorticoid,CHEMBL1512,Small molecule,FLUNISOLIDE
+Glucocorticoid,CHEMBL251634,Small molecule,FLUOCORTOLONE
+Antihypertensive (angiotensin II receptor antagonist),CHEMBL1513,Small molecule,IRBESARTAN
+Analgesic (narcotic),CHEMBL1514,Small molecule,LEVOMETHADYL ACETATE
+Antibacterial,CHEMBL249837,Small molecule,METHACYCLINE
+Thyroid Inhibitor,CHEMBL1515,Small molecule,METHIMAZOLE
+"Antibacterial,Antirickettsial; Antibacterial",CHEMBL1517,Small molecule,OXYTETRACYCLINE
+Thyroid Inhibitor,CHEMBL1518,Small molecule,PROPYLTHIOURACIL
+Cardiotonic,CHEMBL600325,Small molecule,PROSCILLARIDIN
+,CHEMBL1519,Small molecule,TRANDOLAPRIL
+,CHEMBL1520,Small molecule,VARDENAFIL
+Sedative-Hypnotic,CHEMBL1521,Small molecule,ZALEPLON
+,CHEMBL1522,Small molecule,ESZOPICLONE
+Appetite Suppressant (systemic),CHEMBL248702,Small molecule,DEXFENFLURAMINE
+Cardiotonic,CHEMBL249856,Small molecule,ENOXIMONE
+Ectoparasiticide,CHEMBL1525,Small molecule,PERMETHRIN
+,CHEMBL254328,Small molecule,ABIRATERONE
+,CHEMBL254316,Small molecule,RALTEGRAVIR
+,CHEMBL254468,Small molecule,FLUCICLOVINE F18
+,CHEMBL404108,Small molecule,LUMIRACOXIB
+Antipruritic (topical),CHEMBL256087,Small molecule,MENTHOL
+"Dental Caries Prophylactic,Radioactive Agent",CHEMBL1528,Small molecule,SODIUM FLUORIDE
+Anti-Emetic,CHEMBL1529,Small molecule,DIPHENIDOL HYDROCHLORIDE
+,CHEMBL256997,Small molecule,ATALUREN
+,CHEMBL255863,Small molecule,NILOTINIB
+,CHEMBL403664,Small molecule,BLEOMYCIN
+,CHEMBL259209,Small molecule,MILNACIPRAN
+,CHEMBL259571,Small molecule,TAPINAROF
+Progestin,CHEMBL1531,Small molecule,ETONOGESTREL
+,CHEMBL1532,Small molecule,QUINETHAZONE
+Progestin,CHEMBL1533,Small molecule,DESOGESTREL
+Vitamin (enzyme co-factor),CHEMBL1534,Small molecule,RIBOFLAVIN
+Androgen,CHEMBL258918,Small molecule,MESTEROLONE
+Antimalarial; Suppressant (lupus erythematosus),CHEMBL1535,Small molecule,HYDROXYCHLOROQUINE
+Vitamin (antirachitic),CHEMBL1536,Small molecule,ERGOCALCIFEROL
+Antibacterial,CHEMBL261772,Small molecule,MECLOCYCLINE SULFOSALICYLATE
+Antibacterial,CHEMBL1537,Small molecule,AZLOCILLIN
+,CHEMBL1538,Small molecule,TENOFOVIR DISOPROXIL
+Antibacterial,CHEMBL1539,Small molecule,SULFADOXINE
+Antiviral,CHEMBL1540,Small molecule,PENCICLOVIR
+Antibacterial,CHEMBL1541,Small molecule,CEFIXIME
+Immunosuppressant,CHEMBL1542,Small molecule,AZATHIOPRINE
+,CHEMBL260538,Small molecule,ULIPRISTAL ACETATE
+"Radioactive Agent,Thyroid Hormone",CHEMBL1544,Small molecule,LIOTHYRONINE
+,CHEMBL409153,Small molecule,ISAVUCONAZOLE
+,CHEMBL408513,Small molecule,BELINOSTAT
+,CHEMBL270190,Small molecule,ALVIMOPAN
+Adrenergic (ophthalmic),CHEMBL1546,Small molecule,HYDROXYAMPHETAMINE
+Vitamin (enzyme co-factor),CHEMBL1547,Small molecule,THIAMINE
+,CHEMBL271227,Small molecule,ABIRATERONE ACETATE
+"Antibacterial; Antiprotozoal,Antiprotozoal; Antibacterial",CHEMBL404520,Small molecule,CHLORTETRACYCLINE
+,CHEMBL1549,Small molecule,HYDROCORTISONE CYPIONATE
+Vitamin (prothrombogenic),CHEMBL1550,Small molecule,PHYTONADIONE
+,CHEMBL429910,Small molecule,DAPAGLIFLOZIN
+Anticholelithogenic,CHEMBL1551,Small molecule,URSODIOL
+,CHEMBL406393,Small molecule,DEOXYCHOLIC ACID
+,CHEMBL272427,Small molecule,TAURURSODIOL
+,CHEMBL1555,Small molecule,GALANTAMINE HYDROBROMIDE
+Acidifier (urlnary); Vitamin (antiscorbutic),CHEMBL196,Small molecule,ASCORBIC ACID
+Adrenergic,CHEMBL1557,Small molecule,DOPAMINE HYDROCHLORIDE
+Antihypertensive,CHEMBL1558,Small molecule,PRAZOSIN HYDROCHLORIDE
+Antifungal,CHEMBL1559,Small molecule,MICONAZOLE NITRATE
+,CHEMBL450895,Small molecule,NYSTATIN
+Enzyme Inhibitor (angiotensin-converting); Antihypertensive,CHEMBL1560,Small molecule,CAPTOPRIL
+Antipruritic,CHEMBL504760,Small molecule,CAMPHOR
+"Anticholinergic,Anticholinergic (ophthalmic)",CHEMBL517712,Small molecule,ATROPINE
+Inhibitor (alpha-glucosidase),CHEMBL1561,Small molecule,MIGLITOL
+Pharmaceutic Aid (preservative),CHEMBL502109,Small molecule,BENZALKONIUM CHLORIDE
+,CHEMBL508338,Small molecule,THIMEROSAL
+Antineoplastic,CHEMBL1563,Small molecule,DAUNORUBICIN HYDROCHLORIDE
+Analgesic,CHEMBL511142,Small molecule,BUPRENORPHINE
+,CHEMBL1564,Small molecule,DIPHENYLPYRALINE HYDROCHLORIDE
+Anesthetic (topical),CHEMBL529437,Small molecule,COCAINE HYDROCHLORIDE
+,CHEMBL471737,Small molecule,IVABRADINE
+,CHEMBL1567,Small molecule,SUNITINIB MALATE
+Antibacterial,CHEMBL506110,Small molecule,SULTAMICILLIN
+,CHEMBL501849,Small molecule,SIMEPREVIR
+,CHEMBL455186,Small molecule,TREOSULFAN
+Glucocorticoid,CHEMBL461332,Small molecule,FLUCLORONIDE
+,CHEMBL462547,Small molecule,URETHANE
+Antiviral,CHEMBL1569,Small molecule,AMANTADINE HYDROCHLORIDE
+Antihypertensive; Diuretic,CHEMBL517199,Small molecule,XIPAMIDE
+Antidiabetic,CHEMBL529888,Small molecule,GLIBORNURIDE
+,CHEMBL1570,Small molecule,SULFOXONE
+Antineoplastic,CHEMBL452231,Small molecule,TENIPOSIDE
+Antineoplastic,CHEMBL1571,Small molecule,TESTOLACTONE
+,CHEMBL460287,Small molecule,ETOGLUCID
+,CHEMBL501613,Small molecule,MEPARFYNOL
+Analgesic; Antipyretic,CHEMBL461522,Small molecule,DIPYRONE
+,CHEMBL462394,Small molecule,METRIZAMIDE
+Anticholinergic,CHEMBL516476,Small molecule,METHYLATROPINE NITRATE
+Antibacterial,CHEMBL1572,Small molecule,NETILMICIN
+"Anorexic,Appetite Suppressant (systemic)",CHEMBL1574,Small molecule,PHENTERMINE
+,CHEMBL1576,Small molecule,ETHINAMATE
+Antihypertensive,CHEMBL460291,Small molecule,LACIDIPINE
+Diuretic; Antihypertensive,CHEMBL1577,Small molecule,METHYCLOTHIAZIDE
+,CHEMBL447629,Small molecule,MITOBRONITOL
+Antihypertensive,CHEMBL475534,Small molecule,NITRENDIPINE
+Anticholinergic,CHEMBL1578,Small molecule,ANISOTROPINE METHYLBROMIDE
+Potentiator,CHEMBL1580,Small molecule,PENTOSTATIN
+"Antihypertensive,Enzyme Inhibitor (angiotensin-converting)",CHEMBL1581,Small molecule,PERINDOPRIL
+Antipsoriatic,CHEMBL515914,Small molecule,AZARIBINE
+Sedative-Hypnotic,CHEMBL455917,Small molecule,CHLORAL HYDRATE
+Antihypertensive,CHEMBL515606,Small molecule,CILAZAPRIL
+Antibacterial,CHEMBL1583,Small molecule,BACAMPICILLIN
+Antipsychotic,CHEMBL1584,Small molecule,PIPERACETAZINE
+Antineoplastic,CHEMBL1585,Small molecule,PIPOBROMAN
+Antihypertensive; Diuretic,CHEMBL1587,Small molecule,POLYTHIAZIDE
+,CHEMBL487253,Small molecule,BENDAMUSTINE
+,CHEMBL1588,Small molecule,THIAMINE
+Antidiabetic,CHEMBL1589,Small molecule,ACETOHEXAMIDE
+"Adrenergic (vasoconstrictor),Decongestant,Nasal Decongestant",CHEMBL1590,Small molecule,PSEUDOEPHEDRINE
+Antibacterial,CHEMBL1591,Small molecule,DEMECLOCYCLINE
+Enzyme Inhibitor (angiotensin-converting); Antihypertensive,CHEMBL1592,Small molecule,QUINAPRIL
+,CHEMBL444186,Small molecule,RAZOXANE
+Vitamin (enzyme co-factor),CHEMBL1594,Small molecule,PANTOTHENIC ACID
+Glucocorticoid,CHEMBL499915,Small molecule,CARBENOXOLONE
+Glucocorticoid,CHEMBL509924,Small molecule,DIFLUCORTOLONE
+Analgesic,CHEMBL1595,Small molecule,DIHYDROCODEINE
+,CHEMBL462605,Small molecule,PITOLISANT
+Antibacterial,CHEMBL1596,Small molecule,CARBENICILLIN INDANYL
+Antidote (to arsenic and gold and mercury poisoning),CHEMBL1597,Small molecule,DIMERCAPROL
+Antibacterial,CHEMBL1599,Small molecule,CEPHAPIRIN
+Antibacterial,CHEMBL1601,Small molecule,CEFONICID
+Antibacterial,CHEMBL1604,Small molecule,CEPHRADINE
+Antibacterial,CHEMBL1605,Small molecule,CEFTIBUTEN
+Anti-Amebic; Antirickettsial; Antibacterial,CHEMBL454950,Small molecule,TETRACYCLINE HYDROCHLORIDE
+Antineoplastic (DNA topoisomerase I Inhibitor),CHEMBL1607,Small molecule,TOPOTECAN HYDROCHLORIDE
+,CHEMBL461101,Small molecule,ELTROMBOPAG
+Analgesic,CHEMBL465026,Small molecule,NEFOPAM
+Antibacterial,CHEMBL474579,Small molecule,CEFOTETAN
+,CHEMBL514800,Small molecule,APREMILAST
+,CHEMBL1609,Small molecule,MANDELIC ACID
+Anticonvulsant,CHEMBL1611,Small molecule,PHENYTOIN SODIUM
+,CHEMBL473159,Small molecule,PHLOROGLUCINOL
+,CHEMBL512351,Small molecule,BETRIXABAN
+,CHEMBL473417,Small molecule,VISMODEGIB
+Pharmaceutic Aid (alkalizing agent); Analgesic,CHEMBL446061,Small molecule,TROLAMINE
+,CHEMBL491571,Small molecule,DORIPENEM
+Antineoplastic,CHEMBL359744,Small molecule,DOXORUBICIN HYDROCHLORIDE
+Analgesic,CHEMBL447868,Small molecule,SODIUM SALICYLATE
+,CHEMBL506569,Small molecule,LANATOSIDE C
+Cardiotonic,CHEMBL1614,Small molecule,DESLANOSIDE
+Emetic,CHEMBL1616,Small molecule,APOMORPHINE HYDROCHLORIDE
+,CHEMBL457299,Small molecule,MACROGOL
+Antibacterial,CHEMBL1617,Small molecule,RIFAXIMIN
+Antibacterial,CHEMBL1618,Small molecule,CEFAMANDOLE NAFATE
+Antineoplastic,CHEMBL1619,Small molecule,CLADRIBINE
+Antihistaminic,CHEMBL1620,Small molecule,DIPHENHYDRAMINE HYDROCHLORIDE
+,CHEMBL1621,Small molecule,PALIPERIDONE
+Vitamin (hematopoietic),CHEMBL1622,Small molecule,FOLIC ACID
+Anticholinergic,CHEMBL524004,Small molecule,MEPENZOLATE
+Anti-Emetic,CHEMBL1623,Small molecule,MECLIZINE
+Thyroid Hormone,CHEMBL1624,Small molecule,LEVOTHYROXINE
+Ultraviolet Screen,CHEMBL1625,Small molecule,OXYBENZONE
+Antihistaminic,CHEMBL1626,Small molecule,CLEMASTINE
+,CHEMBL521686,Small molecule,OLAPARIB
+,CHEMBL493287,Small molecule,GLUCOSAMINE
+,CHEMBL518520,Small molecule,RALTEGRAVIR POTASSIUM
+Anthelmintic,CHEMBL443605,Small molecule,HEXYLRESORCINOL
+,CHEMBL459324,Small molecule,DIACETYLMORPHINE
+,CHEMBL522038,Small molecule,XIMELAGATRAN
+Antibacterial,CHEMBL1632,Small molecule,CEPHALOTHIN SODIUM
+Anti-Asthmatic,CHEMBL1633,Small molecule,KETOTIFEN FUMARATE
+Vasodilator,CHEMBL466659,Small molecule,PENTAERYTHRITOL TETRANITRATE
+Antineoplastic,CHEMBL1637,Small molecule,GEMCITABINE HYDROCHLORIDE
+,CHEMBL1639,Small molecule,ALISKIREN
+,CHEMBL1640,Small molecule,TRYPAN BLUE
+Glucocorticoid,CHEMBL1641,Small molecule,HYDROCORTISONE PHOSPHORIC ACID
+,CHEMBL485253,Small molecule,METHYSERGIDE
+,CHEMBL1642,Small molecule,IMATINIB MESYLATE
+Antiviral,CHEMBL1643,Small molecule,RIBAVIRIN
+Antibacterial,CHEMBL1644,Small molecule,CEFADROXIL
+Estrogen,CHEMBL494753,Small molecule,ESTRONE SULFURIC ACID
+Diagnostic Aid (hepatic function determination); Diagnostic Aid (cardiac output determination),CHEMBL1646,Small molecule,INDOCYANINE GREEN
+Antagonist (calcium channel),CHEMBL1648,Small molecule,ISRADIPINE
+,CHEMBL493982,Small molecule,VORAPAXAR
+Glucocorticoid,CHEMBL1650,Small molecule,CORTISONE ACETATE
+,CHEMBL477772,Small molecule,PAZOPANIB
+,CHEMBL1652,Small molecule,AMBENONIUM
+Antineoplastic,CHEMBL501867,Small molecule,VINCRISTINE SULFATE
+,CHEMBL1653,Small molecule,PHENIRAMINE MALEATE
+,CHEMBL450449,Small molecule,TRABECTEDIN
+Regulator (calcium),CHEMBL1654,Small molecule,RISEDRONATE SODIUM
+Anti-Estrogen; Antineoplastic,CHEMBL1655,Small molecule,TOREMIFENE
+Keratolytic,CHEMBL1657,Small molecule,TAZAROTENE
+,CHEMBL1658,Small molecule,RETAPAMULIN
+Antihistaminic,CHEMBL1659,Small molecule,CHLORPHENIRAMINE MALEATE
+,CHEMBL453514,Small molecule,SPIRAMYCIN
+,CHEMBL507870,Small molecule,TELAVANCIN
+,CHEMBL499808,Small molecule,CASPOFUNGIN
+,CHEMBL501122,Small molecule,CEFTAROLINE FOSAMIL
+Antibacterial,CHEMBL1660,Small molecule,RIFAPENTINE
+,CHEMBL1661,Small molecule,LACTITOL
+,CHEMBL498847,Small molecule,SECNIDAZOLE
+,CHEMBL1663,Small molecule,PERFLUTREN
+,CHEMBL523299,Small molecule,UMECLIDINIUM BROMIDE
+,CHEMBL483254,Small molecule,PANOBINOSTAT
+Antimycotic,CHEMBL489411,Small molecule,AMOROLFINE
+,CHEMBL1664,Small molecule,FOSAMPRENAVIR
+"Anti-Infective, Topical",CHEMBL486696,Small molecule,DOMIPHEN BROMIDE
+,CHEMBL457547,Small molecule,MICAFUNGIN
+,CHEMBL1668,Small molecule,RESCINNAMINE
+,CHEMBL464982,Small molecule,GAMOLENIC ACID
+"Anti-Infective, Topical",CHEMBL459265,Small molecule,HEXAMETHYL PARAROSANILINE
+Antineoplastic,CHEMBL1670,Small molecule,MITOTANE
+Cardiac Depressant (anti-arrhythmic); Anti-Adrenergic (beta-receptor),CHEMBL1671,Small molecule,PROPRANOLOL HYDROCHLORIDE
+,CHEMBL1672,Small molecule,CEFPODOXIME
+,CHEMBL454446,Small molecule,CEFDITOREN PIVOXIL
+,CHEMBL1675,Small molecule,VITAMIN A PALMITATE
+,CHEMBL1676,Small molecule,FLUTICASONE FUROATE
+Cognition Adjuvant; Dementia Symptoms Treatment Adjunct,CHEMBL1677,Small molecule,TACRINE HYDROCHLORIDE
+Dementia Symptoms Treatment Adjunct; Inhibitor (acetylcholinesterase); Cognition Adjuvant; Alzheimer's Disease Treatment (adjunct),CHEMBL1678,Small molecule,DONEPEZIL HYDROCHLORIDE
+Antibacterial,CHEMBL507674,Small molecule,CEFOPERAZONE
+Antidote (to folic acid antagonists); Anti-Anemic (folate deficiency),CHEMBL1679,Small molecule,LEUCOVORIN
+Diagnostic Aid (intestinal function determination),CHEMBL502135,Small molecule,XYLOSE
+"Diagnostic Aid (renal function determination); Radioactive Agent,Radioactive Agent,Radioactive Agent; Diagnostic Aid (renal function determination)",CHEMBL1681,Small molecule,IODOHIPPURATE
+Pharmaceutic Aid (flavor); Pharmaceutic Aid (tablet excipient),CHEMBL1682,Small molecule,SORBITOL
+Glucocorticoid,CHEMBL1683,Small molecule,HYDROCORTISONE BUTYRATE
+Choleretic,CHEMBL514446,Small molecule,DEHYDROCHOLIC ACID
+,CHEMBL502182,Small molecule,ELAGOLIX SODIUM
+Antihypertensive; Diuretic,CHEMBL1684,Small molecule,BENDROFLUMETHIAZIDE
+Acidifier,CHEMBL503160,Small molecule,FUMARIC ACID
+,CHEMBL508102,Small molecule,CARBIMAZOLE
+Analgesic,CHEMBL1685,Small molecule,DEZOCINE
+,CHEMBL515408,Small molecule,MARIBAVIR
+,CHEMBL484785,Small molecule,CRISABOROLE
+,CHEMBL502835,Small molecule,NINTEDANIB
+Vasodilator (peripheral),CHEMBL1689,Small molecule,TOLAZOLINE HYDROCHLORIDE
+Antimalarial; Suppressant (lupus erythematosus),CHEMBL1690,Small molecule,HYDROXYCHLOROQUINE SULFATE
+,CHEMBL588046,Small molecule,QUININE HYDROCHLORIDE
+Antimalarial,CHEMBL535650,Small molecule,MEFLOQUINE HYDROCHLORIDE
+Antihypertensive; Anti-Anginal,CHEMBL1691,Small molecule,BETAXOLOL HYDROCHLORIDE
+Antihypertensive,CHEMBL542541,Small molecule,HYDRALAZINE HYDROCHLORIDE
+,CHEMBL544665,Small molecule,FINGOLIMOD HYDROCHLORIDE
+Antihistaminic; Serotonin Inhibitor,CHEMBL544428,Small molecule,MIANSERIN HYDROCHLORIDE
+Antidepressant,CHEMBL1692,Small molecule,IMIPRAMINE HYDROCHLORIDE
+Anorexic,CHEMBL1693,Small molecule,DIETHYLPROPION HYDROCHLORIDE
+Enzyme Inhibitor (angiotensin-converting),CHEMBL1694,Small molecule,BENAZEPRIL HYDROCHLORIDE
+Anticonvulsant,CHEMBL1695,Small molecule,TIAGABINE HYDROCHLORIDE
+Antidepressant,CHEMBL1696,Small molecule,DESIPRAMINE HYDROCHLORIDE
+Vasodilator (coronary),CHEMBL1697,Small molecule,DILTIAZEM HYDROCHLORIDE
+Antidepressant,CHEMBL1698,Small molecule,BUPROPION HYDROCHLORIDE
+,CHEMBL1699,Small molecule,MEMANTINE HYDROCHLORIDE
+Anti-Adrenergic (beta-receptor),CHEMBL1700,Small molecule,SOTALOL HYDROCHLORIDE
+Vasodilator,CHEMBL552659,Small molecule,FLUNARIZINE HYDROCHLORIDE
+Analgesic (narcotic),CHEMBL1701,Small molecule,MEPERIDINE HYDROCHLORIDE
+,CHEMBL1702,Small molecule,ATOMOXETINE HYDROCHLORIDE
+Antidiabetic,CHEMBL1703,Small molecule,METFORMIN HYDROCHLORIDE
+Antihypertensive,CHEMBL1705,Small molecule,CLONIDINE HYDROCHLORIDE
+Adrenergic (vasoconstrictor),CHEMBL1706,Small molecule,NAPHAZOLINE HYDROCHLORIDE
+Antiperistaltic,CHEMBL1707,Small molecule,LOPERAMIDE HYDROCHLORIDE
+Vasodilator,CHEMBL559180,Small molecule,ISOXSUPRINE HYDROCHLORIDE
+,CHEMBL1708,Small molecule,PAROXETINE HYDROCHLORIDE
+Antidepressant,CHEMBL1709,Small molecule,SERTRALINE HYDROCHLORIDE
+Antiviral,CHEMBL535396,Small molecule,RIMANTADINE HYDROCHLORIDE
+,CHEMBL537669,Small molecule,YOHIMBINE HYDROCHLORIDE
+Bronchodilator,CHEMBL1711,Small molecule,ISOPROTERENOL HYDROCHLORIDE
+Antipsychotic; Anti-Emetic,CHEMBL1713,Small molecule,CHLORPROMAZINE HYDROCHLORIDE
+,CHEMBL556578,Small molecule,MORPHINE HYDROCHLORIDE
+Anesthetic,CHEMBL1714,Small molecule,KETAMINE HYDROCHLORIDE
+Antidiabetic,CHEMBL1715,Small molecule,PIOGLITAZONE HYDROCHLORIDE
+Antihistaminic; Antipruritic,CHEMBL1716,Small molecule,CYPROHEPTADINE HYDROCHLORIDE
+Inhibitor (platelet),CHEMBL1717,Small molecule,TICLOPIDINE HYDROCHLORIDE
+Antagonist (to narcotics),CHEMBL1718,Small molecule,NALOXONE HYDROCHLORIDE
+Vasodilator (coronary),CHEMBL539770,Small molecule,TERODILINE HYDROCHLORIDE
+Anti-Allergic,CHEMBL1719,Small molecule,OLOPATADINE HYDROCHLORIDE
+Antinauseant; Anti-Emetic,CHEMBL1720,Small molecule,PALONOSETRON HYDROCHLORIDE
+Stimulant (central),CHEMBL1722,Small molecule,METHYLPHENIDATE HYDROCHLORIDE
+Antihypertensive (alpha-blocker),CHEMBL1723,Small molecule,ALFUZOSIN HYDROCHLORIDE
+Anticholinergic,CHEMBL1724,Small molecule,MEPENZOLATE BROMIDE
+Diagnostic Aid (radiopaque medium),CHEMBL1725,Small molecule,IOPROMIDE
+Vasodilator (coronary),CHEMBL1726,Small molecule,NISOLDIPINE
+Antibacterial,CHEMBL1727,Small molecule,CEPHALEXIN
+Antibacterial,CHEMBL1728,Small molecule,LOMEFLOXACIN HYDROCHLORIDE
+Stimulant (peristaltic),CHEMBL1729,Small molecule,CISAPRIDE
+Antibacterial,CHEMBL1730,Small molecule,CEFOTAXIME
+Antibacterial,CHEMBL1731,Small molecule,MEZLOCILLIN
+Anti-Adrenergic,CHEMBL1732,Small molecule,DIHYDROERGOTAMINE
+Antibacterial,CHEMBL564085,Small molecule,TROLEANDOMYCIN
+Antineoplastic,CHEMBL553025,Small molecule,VINORELBINE
+,CHEMBL539697,Small molecule,DABIGATRAN ETEXILATE
+,CHEMBL1734,Small molecule,SOLIFENACIN
+,CHEMBL551466,Small molecule,ACLIDINIUM BROMIDE
+Antiviral,CHEMBL1735,Small molecule,INDINAVIR SULFATE
+Antidote (to cyanide poisoning); Antimethemoglobinemic,CHEMBL550495,Small molecule,METHYLENE BLUE
+Diagnostic Aid (radiopaque medium),CHEMBL1736,Small molecule,METRIZOIC ACID
+Antihyperlipoproteinemic,CHEMBL557555,Small molecule,CIPROFIBRATE
+Antineoplastic,CHEMBL538943,Small molecule,VINORELBINE TARTRATE
+Impotence Therapy,CHEMBL1737,Small molecule,SILDENAFIL CITRATE
+,CHEMBL550348,Small molecule,DEFERASIROX
+Cardioprotectant,CHEMBL1738,Small molecule,DEXRAZOXANE
+Neuromuscular Blocking Agent,CHEMBL1739,Small molecule,METOCURINE IODIDE
+Antibacterial,CHEMBL1741,Small molecule,CLARITHROMYCIN
+,CHEMBL566534,Small molecule,ARTEMETHER
+,CHEMBL566315,Small molecule,OBETICHOLIC ACID
+,CHEMBL566752,Small molecule,FLORBETABEN F18
+,CHEMBL567597,Small molecule,ARTEMISININ
+Antihyperammonemic,CHEMBL1746,Small molecule,SODIUM PHENYLBUTYRATE
+,CHEMBL579205,Small molecule,FLUTEMETAMOL
+Antibacterial,CHEMBL1747,Small molecule,TOBRAMYCIN
+,CHEMBL569713,Small molecule,SCOPOLAMINE
+,CHEMBL571546,Small molecule,TIRBANIBULIN
+Pharmaceutic Aid (chelating agent); Chelating Agent (metal),CHEMBL1749,Small molecule,EDETATE DISODIUM
+,CHEMBL1750,Small molecule,CLOFARABINE
+Anti-Adrenergic (alpha-receptor); Bronchodilator,CHEMBL576127,Small molecule,FENSPIRIDE
+Cardiotonic,CHEMBL1751,Small molecule,DIGOXIN
+Bronchodilator,CHEMBL1752,Small molecule,DYPHYLLINE
+Antibacterial,CHEMBL1753,Small molecule,CLINDAMYCIN
+Stimulant (respiratory),CHEMBL1754,Small molecule,DOXAPRAM
+,CHEMBL1755,Small molecule,CONIVAPTAN
+Antineoplastic,CHEMBL1756,Small molecule,ESTRAMUSTINE PHOSPHATE
+Antibacterial,CHEMBL1757,Small molecule,FOSFOMYCIN
+Bronchodilator,CHEMBL1760,Small molecule,TERBUTALINE
+Antiparkinsonian; Relaxant (skeletal muscle),CHEMBL1761,Small molecule,PROCYCLIDINE HYDROCHLORIDE
+Cardiac Depressant (anti-arrhythmic),CHEMBL1762,Small molecule,TOCAINIDE
+Antihypertensive; Diuretic,CHEMBL1763,Small molecule,HYDROFLUMETHIAZIDE
+Analgesic,CHEMBL1764,Small molecule,LEVOMEPROMAZINE
+Anti-Inflammatory,CHEMBL1766,Small molecule,DESOXIMETASONE
+Cholinergic,CHEMBL1768,Small molecule,BETHANECHOL CHLORIDE
+Anesthetic (local),CHEMBL1769,Small molecule,PROPOXYCAINE HYDROCHLORIDE
+Biological Response Modifier,CHEMBL1770,Small molecule,LEVAMISOLE HYDROCHLORIDE
+Vitamin (antiscorbutic),CHEMBL591665,Small molecule,SODIUM ASCORBATE
+Amino Acid,CHEMBL590540,Small molecule,CYSTINE
+Inhibitor (platelet),CHEMBL1771,Small molecule,CLOPIDOGREL
+Antineoplastic,CHEMBL1773,Small molecule,CAPECITABINE
+,CHEMBL589586,Small molecule,MONOMETHYL FUMARATE
+,CHEMBL601719,Small molecule,CRIZOTINIB
+,CHEMBL605846,Small molecule,OLODATEROL
+Relaxant (skeletal muscle),CHEMBL607710,Small molecule,CHLORPHENESIN CARBAMATE
+Antibacterial,CHEMBL606260,Small molecule,CARBENICILLIN DISODIUM
+Nutrient,CHEMBL604608,Small molecule,FRUCTOSE
+,CHEMBL608533,Small molecule,MIDOSTAURIN
+,CHEMBL607400,Small molecule,BRIVARACETAM
+Antibacterial,CHEMBL43708,Small molecule,IMIPENEM
+,CHEMBL1079742,Small molecule,ERLOTINIB HYDROCHLORIDE
+Relaxant (skeletal muscle),CHEMBL1079604,Small molecule,METAXALONE
+Disinfectant,CHEMBL1076347,Small molecule,TRICLOCARBAN
+,CHEMBL1086863,Small molecule,FLUDEOXYGLUCOSE
+,CHEMBL1078261,Small molecule,PROPIVERINE
+,CHEMBL1077896,Small molecule,ROPIVACAINE
+Anti-Inflammatory,CHEMBL1089221,Small molecule,BENDAZAC
+,CHEMBL1088977,Small molecule,ADEMETIONINE
+,CHEMBL1089318,Small molecule,OPICAPONE
+,CHEMBL1089641,Small molecule,TRYPAN BLUE
+,CHEMBL1092067,Small molecule,FLUDEOXYGLUCOSE F 18
+Diagnostic Aid (cystoscopy),CHEMBL1091250,Small molecule,INDIGOTINDISULFONATE
+,CHEMBL1096562,Small molecule,METHYL AMINOLEVULINATE
+Antineoplastic,CHEMBL1096882,Small molecule,FLUDARABINE PHOSPHATE
+Diagnostic Aid (radiopaque medium),CHEMBL1097620,Small molecule,IOTHALAMATE SODIUM
+Bronchodilator,CHEMBL1094966,Small molecule,PIRBUTEROL
+,CHEMBL1096885,Small molecule,VALRUBICIN
+,CHEMBL1094636,Small molecule,NIRAPARIB
+Bronchodilator,CHEMBL1095607,Small molecule,REPROTEROL
+Cardiac Depressant (anti-arrhythmic); Anti-Adrenergic,CHEMBL1095292,Small molecule,BRETYLIUM TOSYLATE
+Antibacterial,CHEMBL1095283,Small molecule,CARBENICILLIN PHENYL
+Antibacterial,CHEMBL1095930,Small molecule,CEFUROXIME AXETIL
+Detoxifying Agent,CHEMBL1098319,Small molecule,MESNA
+,CHEMBL1098285,Small molecule,DISTIGMINE BROMIDE
+,CHEMBL1095777,Small molecule,INDACATEROL
+,CHEMBL1097279,Small molecule,CANGRELOR TETRASODIUM
+Antihypertensive; Aldosterone Antagonist,CHEMBL1095097,Small molecule,EPLERENONE
+Inhibitor (decarboxylase),CHEMBL1096979,Small molecule,BENSERAZIDE
+"Diagnostic Aid (radioactive, vascular disorders); Radioactive Agent,Radioactive Agent",CHEMBL1098659,Small molecule,WATER
+,CHEMBL1096146,Small molecule,PONESIMOD
+,CHEMBL1083659,Small molecule,SUVOREXANT
+Inhibitor (platelet),CHEMBL1083385,Small molecule,CLOPIDOGREL BISULFATE
+,CHEMBL1083993,Small molecule,AMIODARONE HYDROCHLORIDE
+,CHEMBL1086440,Small molecule,TRICLABENDAZOLE
+,CHEMBL1082407,Small molecule,ENZALUTAMIDE
+Bronchodilator,CHEMBL1082607,Small molecule,SALMETEROL XINAFOATE
+,CHEMBL1084172,Small molecule,VILANTEROL TRIFENATATE
+Anti-Inflammatory,CHEMBL1159650,Small molecule,CLOBETASOL PROPIONATE
+,CHEMBL1159717,Small molecule,TULOBUTEROL
+"Pharmaceutic Aid (solvent and source of ammonia),Radioactive Agent; Diagnostic Aid (cardiac imaging); Diagnostic Aid (liver imaging)",CHEMBL1160819,Small molecule,"AMMONIA SOLUTION, STRONG"
+Antidote (to cyanide poisoning),CHEMBL1161681,Small molecule,NITROUS ACID
+,CHEMBL1165342,Small molecule,VINCAMINE
+"Diagnostic Aid (radiopaque medium),Radioactive Agent",CHEMBL1165268,Small molecule,IODIPAMIDE
+,CHEMBL1164729,Small molecule,FEBUXOSTAT
+,CHEMBL1171837,Small molecule,PONATINIB
+,CHEMBL1173655,Small molecule,AFATINIB
+,CHEMBL1173055,Small molecule,RUCAPARIB
+Anesthetic (local),CHEMBL1179047,Small molecule,CHLOROPROCAINE
+,CHEMBL1180003,Small molecule,CETRIMIDE
+Anticholinergic,CHEMBL1180725,Small molecule,PROPANTHELINE
+Neuromuscular Blocking Agent,CHEMBL1182833,Small molecule,MIVACURIUM
+,CHEMBL1183349,Small molecule,ISAVUCONAZONIUM
+,CHEMBL1183717,Small molecule,ALMITRINE
+,CHEMBL1184360,Small molecule,DIAMTHAZOLE
+,CHEMBL1185568,Small molecule,DITHIAZANINE
+,CHEMBL1186579,Small molecule,METHYLNALTREXONE
+Anticholinergic,CHEMBL1186610,Small molecule,ANISOTROPINE
+"Anti-Infective, Topical",CHEMBL1187011,Small molecule,DOMIPHEN
+Pharmaceutic Aid (preservative),CHEMBL1187417,Small molecule,BENZALKONIUM
+Anticholinergic,CHEMBL1187724,Small molecule,METHYLATROPINE
+,CHEMBL1187833,Small molecule,UMECLIDINIUM
+Anti-Allergic,CHEMBL1189432,Small molecule,OLOPATADINE
+Antinauseant; Anti-Emetic,CHEMBL1189679,Small molecule,PALONOSETRON
+,CHEMBL1194325,Small molecule,ACLIDINIUM
+Anorexic,CHEMBL1194666,Small molecule,DIETHYLPROPION
+Vasodilator,CHEMBL1197051,Small molecule,ISOXSUPRINE
+,CHEMBL1198857,Small molecule,VILANTEROL
+Cardiac Depressant (anti-arrhythmic); Anti-Adrenergic,CHEMBL1199080,Small molecule,BRETYLIUM
+,CHEMBL1199307,Small molecule,DISTIGMINE
+,CHEMBL1199324,Small molecule,FOSAPREPITANT
+Antibacterial,CHEMBL1200321,Small molecule,SULFISOXAZOLE DIOLAMINE
+,CHEMBL1200322,Small molecule,ESCITALOPRAM OXALATE
+Anti-Adrenergic (beta-receptor); Anti-Adrenergic (alpha-receptor),CHEMBL1200323,Small molecule,LABETALOL HYDROCHLORIDE
+Vasodilator,CHEMBL1200326,Small molecule,NICARDIPINE HYDROCHLORIDE
+Antidepressant,CHEMBL1200328,Small molecule,DULOXETINE HYDROCHLORIDE
+Antispasmodic,CHEMBL1200329,Small molecule,TIZANIDINE HYDROCHLORIDE
+Cholinergic (ophthalmic),CHEMBL1200330,Small molecule,PILOCARPINE HYDROCHLORIDE
+Antibacterial,CHEMBL1200331,Small molecule,FOSFOMYCIN TROMETHAMINE
+Antidepressant,CHEMBL1200332,Small molecule,PROTRIPTYLINE HYDROCHLORIDE
+Radioactive Agent,CHEMBL1200333,Small molecule,TECHNETIUM TC 99M PYROPHOSPHATE
+Androgen,CHEMBL1200335,Small molecule,TESTOSTERONE ENANTHATE
+Antihypertensive,CHEMBL1200338,Small molecule,PINACIDIL
+Adrenergic (ophthalmic),CHEMBL1200339,Small molecule,PHENYLEPHRINE HYDROCHLORIDE
+,CHEMBL1200340,Small molecule,OSELTAMIVIR PHOSPHATE
+Cardiac Depressant (anti-arrhythmic),CHEMBL1200341,Small molecule,INDECAINIDE HYDROCHLORIDE
+Glucocorticoid,CHEMBL1200342,Small molecule,PARAMETHASONE ACETATE
+Antihypertensive,CHEMBL1200343,Small molecule,PERINDOPRIL ERBUMINE
+,CHEMBL1200345,Small molecule,SODIUM SUCCINATE
+"Diagnostic Aid (paramagnetic, brain disorders, spine disorders)",CHEMBL1200346,Small molecule,GADODIAMIDE
+Anticholinergic,CHEMBL1200347,Small molecule,ISOPROPAMIDE IODIDE
+Antifungal,CHEMBL1200348,Small molecule,SULCONAZOLE NITRATE
+,CHEMBL1200350,Small molecule,IODIPAMIDE SODIUM
+Antibacterial,CHEMBL1200351,Small molecule,SULFADIAZINE SODIUM
+,CHEMBL1200353,Small molecule,MEGLUMINE METRIZOATE
+,CHEMBL1200354,Small molecule,SODIUM TETRADECYL SULFATE
+Antibacterial,CHEMBL1200356,Small molecule,CYCLACILLIN
+Anti-Infective,CHEMBL1200357,Small molecule,MOXALACTAM DISODIUM
+Antihyperammonemic,CHEMBL1200358,Small molecule,SODIUM PHENYLACETATE
+Antibacterial,CHEMBL1200359,Small molecule,SULFAMETER
+Radioactive Agent; Diagnostic Aid,CHEMBL1200360,Small molecule,IOFETAMINE HYDROCHLORIDE I 123
+Diagnostic Aid (renal function determination),CHEMBL1200365,Small molecule,AMINOHIPPURATE SODIUM
+Antibacterial,CHEMBL1200366,Small molecule,CEPHALEXIN HYDROCHLORIDE
+Cholinergic (ophthalmic),CHEMBL1200367,Small molecule,ECHOTHIOPHATE IODIDE
+Diagnostic Aid (pancreas function determination),CHEMBL1200368,Small molecule,BENTIROMIDE
+Keratolytic,CHEMBL1200370,Small molecule,BENZOYL PEROXIDE
+,CHEMBL1200374,Small molecule,EXEMESTANE
+Chelating Agent (metal),CHEMBL1200375,Small molecule,EDETATE CALCIUM DISODIUM
+Glucocorticoid,CHEMBL1200376,Small molecule,BETAMETHASONE BENZOATE
+,CHEMBL1200377,Small molecule,AMPHETAMINE ASPARTATE
+Adrenergic (alpha12-agonist),CHEMBL1200379,Small molecule,APRACLONIDINE HYDROCHLORIDE
+Antiviral,CHEMBL1200380,Small molecule,ACYCLOVIR SODIUM
+Ammonia Detoxicant,CHEMBL1200381,Small molecule,ARGININE HYDROCHLORIDE
+Vasodilator,CHEMBL1200382,Small molecule,BEPRIDIL HYDROCHLORIDE
+Antiparkinsonian,CHEMBL1200383,Small molecule,BENZTROPINE MESYLATE
+Glucocorticoid,CHEMBL1200384,Small molecule,BETAMETHASONE DIPROPIONATE
+Stimulant (cardiac),CHEMBL1200385,Small molecule,ARBUTAMINE HYDROCHLORIDE
+Glucocorticoid,CHEMBL1200386,Small molecule,PREDNICARBATE
+,CHEMBL1200387,Small molecule,AMPHETAMINE ADIPATE
+Antibacterial,CHEMBL1200388,Small molecule,CLOXACILLIN SODIUM
+Alkalizer,CHEMBL1200391,Small molecule,TROMETHAMINE
+Antihistaminic,CHEMBL1200392,Small molecule,DOXYLAMINE SUCCINATE
+Antibacterial,CHEMBL1200393,Small molecule,GREPAFLOXACIN HYDROCHLORIDE
+Antihistaminic; Relaxant (skeletal muscle),CHEMBL1200395,Small molecule,ORPHENADRINE CITRATE
+Anesthetic (local),CHEMBL1200396,Small molecule,BUPIVACAINE HYDROCHLORIDE
+Antifungal,CHEMBL1200397,Small molecule,BUTENAFINE HYDROCHLORIDE
+Antifungal,CHEMBL1200398,Small molecule,BUTOCONAZOLE NITRATE
+Tranquilizer (minor),CHEMBL1200399,Small molecule,BUSPIRONE HYDROCHLORIDE
+Immunosuppressant,CHEMBL1200400,Small molecule,AZATHIOPRINE SODIUM
+Antihypertensive; Anti-Anginal,CHEMBL1200402,Small molecule,AMLODIPINE BESYLATE
+Bronchodilator,CHEMBL1200405,Small molecule,BITOLTEROL MESYLATE
+Anti-Emetic,CHEMBL1200406,Small molecule,DIMENHYDRINATE
+Anesthetic (local),CHEMBL1200409,Small molecule,LIDOCAINE HYDROCHLORIDE
+Antineoplastic,CHEMBL1200410,Small molecule,PROCARBAZINE HYDROCHLORIDE
+Antiparkinsonian (D2 receptor agonist),CHEMBL1200411,Small molecule,ROPINIROLE HYDROCHLORIDE
+Androgen,CHEMBL1200412,Small molecule,NANDROLONE PHENPROPIONATE
+Adrenergic (vasoconstrictor),CHEMBL1200413,Small molecule,TETRAHYDROZOLINE HYDROCHLORIDE
+Radioactive Agent; Diagnostic Aid (skeletal imaging),CHEMBL1200415,Small molecule,TECHNETIUM TC 99M OXIDRONATE
+Cardiotonic,CHEMBL1200418,Small molecule,DOBUTAMINE HYDROCHLORIDE
+Antipsychotic,CHEMBL1200419,Small molecule,MOLINDONE HYDROCHLORIDE
+Anesthetic (injectable),CHEMBL1200420,Small molecule,MIDAZOLAM HYDROCHLORIDE
+Radioactive Agent,CHEMBL1200421,Small molecule,TECHNETIUM TC 99M MEBROFENIN
+Diagnostic Aid (radiopaque medium),CHEMBL1200423,Small molecule,METRIZOATE SODIUM
+,CHEMBL1200424,Small molecule,PENTETATE ZINC TRISODIUM
+Antihypertensive,CHEMBL1200425,Small molecule,PARGYLINE HYDROCHLORIDE
+Relaxant (smooth muscle),CHEMBL1200426,Small molecule,METHIXENE HYDROCHLORIDE
+,CHEMBL1200430,Small molecule,ESTRADIOL ACETATE
+Diagnostic Aid,CHEMBL1200431,Small molecule,GADOPENTETATE DIMEGLUMINE
+Antihypertensive,CHEMBL1200432,Small molecule,METHYLDOPATE HYDROCHLORIDE
+Bronchodilator,CHEMBL1200434,Small molecule,OXTRIPHYLLINE
+Androgen,CHEMBL1200436,Small molecule,OXANDROLONE
+Cardiac Depressant (anti-arrhythmic),CHEMBL1200437,Small molecule,QUINIDINE GLUCONATE
+Antifungal,CHEMBL1200438,Small molecule,TIOCONAZOLE
+Radioactive Agent; Diagnostic Aid (renal function determination),CHEMBL1200439,Small molecule,IODOHIPPURATE SODIUM I 123
+Anesthetic (local),CHEMBL1200440,Small molecule,MEPIVACAINE HYDROCHLORIDE
+,CHEMBL1200443,Small molecule,MERETHOXYLLINE PROCAINE
+Bronchodilator,CHEMBL1200444,Small molecule,PIRBUTEROL ACETATE
+Antihistaminic,CHEMBL1200446,Small molecule,TRIPELENNAMINE HYDROCHLORIDE
+Osteoporosis Treatment And Prevention; Paget's Disease Treatment,CHEMBL1200448,Small molecule,TILUDRONATE DISODIUM
+Glucocorticoid,CHEMBL1200449,Small molecule,TRIAMCINOLONE DIACETATE
+Diagnostic Aid; Radioactive Agent,CHEMBL1200452,Small molecule,INDIUM IN 111 OXYQUINOLINE
+,CHEMBL1200453,Small molecule,DOCOSANOL
+Diagnostic Aid (radiopaque medium),CHEMBL1200455,Small molecule,IOHEXOL
+"Diagnostic Aid (paramagnetic, brain disorders, spine disorders)",CHEMBL1200457,Small molecule,GADOVERSETAMIDE
+Alkalizer,CHEMBL1200458,Small molecule,POTASSIUM CITRATE
+Regulator (calcium),CHEMBL1200459,Small molecule,"POTASSIUM PHOSPHATE, DIBASIC"
+,CHEMBL1200460,Small molecule,FERRIC AMMONIUM CITRATE
+Antihypotensive,CHEMBL1200461,Small molecule,MIDODRINE HYDROCHLORIDE
+,CHEMBL1200463,Small molecule,OXAPROZIN POTASSIUM
+"Anesthetic (topical, ophthalmic)",CHEMBL1200464,Small molecule,PROPARACAINE HYDROCHLORIDE
+Tranquilizer (minor),CHEMBL1200467,Small molecule,HYDROXYZINE PAMOATE
+Pediculicide,CHEMBL1200468,Small molecule,MALATHION
+Antipsychotic,CHEMBL1200469,Small molecule,PROMAZINE HYDROCHLORIDE
+,CHEMBL1200470,Small molecule,ESOMEPRAZOLE SODIUM
+Sedative-Hypnotic,CHEMBL1200472,Small molecule,QUAZEPAM
+Anticholinergic (ophthalmic),CHEMBL1200473,Small molecule,CYCLOPENTOLATE HYDROCHLORIDE
+Antibacterial,CHEMBL1200474,Small molecule,DEMECLOCYCLINE HYDROCHLORIDE
+,CHEMBL1200475,Small molecule,DAUNORUBICIN CITRATE
+,CHEMBL1200477,Small molecule,ALLOPURINOL SODIUM
+Anesthetic (topical),CHEMBL1200478,Small molecule,DYCLONINE HYDROCHLORIDE
+Anticholinergic,CHEMBL1200479,Small molecule,DICYCLOMINE HYDROCHLORIDE
+Antibacterial,CHEMBL1200482,Small molecule,CEFOPERAZONE SODIUM
+Anorexic,CHEMBL1200483,Small molecule,PHENMETRAZINE HYDROCHLORIDE
+,CHEMBL1200485,Small molecule,SORAFENIB TOSYLATE
+Diuretic,CHEMBL1200487,Small molecule,ETHACRYNATE SODIUM
+,CHEMBL1200491,Small molecule,EPINASTINE HYDROCHLORIDE
+Antidepressant,CHEMBL1200492,Small molecule,NEFAZODONE HYDROCHLORIDE
+Antifungal,CHEMBL1200493,Small molecule,NAFTIFINE HYDROCHLORIDE
+Antihypertensive,CHEMBL1200494,Small molecule,GUANFACINE HYDROCHLORIDE
+Glucocorticoid,CHEMBL1200495,Small molecule,HYDROCORTISONE SODIUM SUCCINATE
+Antinauseant,CHEMBL1200497,Small molecule,CYCLIZINE LACTATE
+Antibacterial,CHEMBL1200498,Small molecule,ALATROFLOXACIN MESYLATE
+Glucocorticoid,CHEMBL1200500,Small molecule,BECLOMETHASONE DIPROPIONATE
+Enzyme Inhibitor (prolactin),CHEMBL1200503,Small molecule,BROMOCRIPTINE MESYLATE
+Antibacterial,CHEMBL1200506,Small molecule,ERYTHROMYCIN LACTOBIONATE
+Diagnostic Aid (radiopaque medium),CHEMBL1200508,Small molecule,IOXAGLATE MEGLUMINE
+Antibacterial,CHEMBL1200510,Small molecule,ERYTHROMYCIN STEARATE
+Cholinergic (ophthalmic),CHEMBL1200514,Small molecule,DEMECARIUM BROMIDE
+,CHEMBL1200515,Small molecule,DESERPIDINE
+Anti-Adrenergic,CHEMBL1200517,Small molecule,DIHYDROERGOTAMINE MESYLATE
+,CHEMBL1200521,Small molecule,ALMOTRIPTAN MALATE
+Sunscreen,CHEMBL1200522,Small molecule,AVOBENZONE
+Antibacterial (systemic),CHEMBL1200523,Small molecule,CEFAZOLIN SODIUM
+Neuromuscular Blocking Agent,CHEMBL1200527,Small molecule,ATRACURIUM BESYLATE
+Supplement (trace mineral),CHEMBL1200528,Small molecule,CHROMIC CHLORIDE
+Radioactive Agent,CHEMBL1200529,Small molecule,COBALTOUS CHLORIDE CO 57
+Antibacterial,CHEMBL1200530,Small molecule,CEFOXITIN SODIUM
+Analgesic (narcotic),CHEMBL1200531,Small molecule,ALFENTANIL HYDROCHLORIDE
+Antipruritic,CHEMBL1200532,Small molecule,METHDILAZINE HYDROCHLORIDE
+Antihypertensive; Enzyme Inhibitor (angiotensin-converting),CHEMBL1200534,Small molecule,MOEXIPRIL HYDROCHLORIDE
+Diagnostic Aid (radiopaque medium); Radioactive Agent,CHEMBL1200535,Small molecule,THALLOUS CHLORIDE TL 201
+Glucocorticoid,CHEMBL1200538,Small molecule,BETAMETHASONE ACETATE
+,CHEMBL1200541,Small molecule,AMBENONIUM CHLORIDE
+Adrenocortical Steroid (salt-regulating),CHEMBL1200542,Small molecule,DESOXYCORTICOSTERONE ACETATE
+,CHEMBL1200543,Small molecule,ANILERIDINE PHOSPHATE
+Antibacterial,CHEMBL1200544,Small molecule,CEPHALEXIN
+Anti-Inflammatory (topical),CHEMBL1200545,Small molecule,DIFLORASONE DIACETATE
+Supplement (trace mineral),CHEMBL1200548,Small molecule,MANGANESE CHLORIDE
+Neuromuscular Blocking Agent,CHEMBL1200549,Small molecule,RAPACURONIUM BROMIDE
+Antihistaminic,CHEMBL1200550,Small molecule,ANTAZOLINE PHOSPHATE
+Supplement (trace mineral),CHEMBL1200553,Small molecule,CUPRIC CHLORIDE
+Supplement (trace mineral),CHEMBL1200557,Small molecule,MANGANESE SULFATE
+,CHEMBL1200559,Small molecule,LACTIC ACID
+Antihypertensive,CHEMBL1200560,Small molecule,GUANABENZ ACETATE
+Antihypertensive,CHEMBL1200561,Small molecule,DOXAZOSIN MESYLATE
+Glucocorticoid,CHEMBL1200562,Small molecule,HYDROCORTISONE VALERATE
+Inhibitor (HMG-CoA reductase); Antihyperlipidemic,CHEMBL1200563,Small molecule,CERIVASTATIN SODIUM
+,CHEMBL1200569,Small molecule,"CAFFEINE, CITRATED"
+Diagnostic Aid (radiopaque medium),CHEMBL1200570,Small molecule,MEGLUMINE
+Diagnostic Aid (paramagnetic),CHEMBL1200571,Small molecule,GADOBENATE DIMEGLUMINE
+Pharmaceutic Aid (sorbent),CHEMBL1200572,Small molecule,MAGNESIUM OXIDE
+"Pharmaceutic Aid (tonicity agent),Radioactive Agent",CHEMBL1200574,Small molecule,SODIUM CHLORIDE
+Relaxant (smooth muscle),CHEMBL1200578,Small molecule,THEOPHYLLINE SODIUM GLYCINATE
+,CHEMBL1200580,Small molecule,SULFOXONE SODIUM
+Diagnostic Aid (radiopaque medium),CHEMBL1200581,Small molecule,DIATRIZOATE SODIUM
+Antineoplastic,CHEMBL1200582,Small molecule,AMINOLEVULINIC ACID HYDROCHLORIDE
+,CHEMBL1200584,Small molecule,AMINOSALICYLATE POTASSIUM
+Androgen,CHEMBL1200585,Small molecule,OXYMETHOLONE
+Anesthetic (local),CHEMBL1200586,Small molecule,PRILOCAINE HYDROCHLORIDE
+Antibacterial,CHEMBL1200588,Small molecule,CLINDAMYCIN HYDROCHLORIDE
+Antibacterial,CHEMBL1200589,Small molecule,CEFOTIAM HYDROCHLORIDE
+Adrenocortical Steroid (salt-regulating),CHEMBL1200592,Small molecule,DESOXYCORTICOSTERONE PIVALATE
+Diagnostic Aid (paramagnetic),CHEMBL1200593,Small molecule,GADOTERIDOL
+Anorexic,CHEMBL1200595,Small molecule,CHLORPHENTERMINE HYDROCHLORIDE
+Antiseborrheic,CHEMBL1200596,Small molecule,CHLOROXINE
+,CHEMBL1200597,Small molecule,ETIDOCAINE HYDROCHLORIDE
+Estrogen,CHEMBL1200598,Small molecule,DIETHYLSTILBESTROL DIPHOSPHATE
+,CHEMBL1200599,Small molecule,DIFENOXIN HYDROCHLORIDE
+Glucocorticoid,CHEMBL1200600,Small molecule,FLUOROMETHOLONE
+Antimigraine,CHEMBL1200601,Small molecule,NARATRIPTAN HYDROCHLORIDE
+Anticholinergic,CHEMBL1200604,Small molecule,TROPICAMIDE
+Cardiac Depressant (anti-arrhythmic),CHEMBL1200606,Small molecule,MEXILETINE HYDROCHLORIDE
+,CHEMBL1200607,Small molecule,PERFLEXANE
+,CHEMBL1200609,Small molecule,PAROXETINE MESYLATE
+Antibacterial,CHEMBL1200610,Small molecule,LORACARBEF
+Anesthetic (local),CHEMBL1200612,Small molecule,DIBUCAINE HYDROCHLORIDE
+Anti-Inflammatory,CHEMBL1200613,Small molecule,TOLMETIN SODIUM
+Diagnostic Aid (radiopaque medium),CHEMBL1200614,Small molecule,IOVERSOL
+Antihypertensive; Diuretic,CHEMBL1200616,Small molecule,CHLOROTHIAZIDE SODIUM
+Anti-Inflammatory,CHEMBL1200617,Small molecule,RIMEXOLONE
+Antihistaminic,CHEMBL1200618,Small molecule,FEXOFENADINE HYDROCHLORIDE
+,CHEMBL1200621,Small molecule,GEMIFLOXACIN MESYLATE
+,CHEMBL1200622,Small molecule,PARICALCITOL
+Anabolic,CHEMBL1200623,Small molecule,ETHYLESTRENOL
+Progestin,CHEMBL1200624,Small molecule,ETHYNODIOL DIACETATE
+Antineoplastic; Radioactive Agent,CHEMBL1200625,Small molecule,STRONTIUM CHLORIDE SR 89
+Disinfectant,CHEMBL1200627,Small molecule,PROPIOLACTONE
+Antibacterial,CHEMBL1200628,Small molecule,VANCOMYCIN HYDROCHLORIDE
+Neuromuscular Blocking Agent,CHEMBL1200629,Small molecule,VECURONIUM BROMIDE
+Amino Acid,CHEMBL1200630,Small molecule,CYSTEINE HYDROCHLORIDE
+,CHEMBL1200632,Small molecule,CLINDAMYCIN PALMITATE HYDROCHLORIDE
+,CHEMBL1200635,Small molecule,HYDROCORTAMATE HYDROCHLORIDE
+Relaxant (muscle),CHEMBL1200636,Small molecule,CYCLOBENZAPRINE HYDROCHLORIDE
+Antihistaminic,CHEMBL1200638,Small molecule,DEXBROMPHENIRAMINE MALEATE
+Radioactive Agent,CHEMBL1200639,Small molecule,TECHNETIUM TC 99M GLUCEPTATE
+Hematinic,CHEMBL1200640,Small molecule,FERROUS FUMARATE
+Neuromuscular Blocking Agent,CHEMBL1200641,Small molecule,CISATRACURIUM BESYLATE
+Antifungal,CHEMBL1200647,Small molecule,CANDICIDIN
+Antibacterial,CHEMBL1200649,Small molecule,QUINUPRISTIN
+Antibacterial (ophthalmic),CHEMBL1200656,Small molecule,NATAMYCIN
+Antihypertensive,CHEMBL1200659,Small molecule,ENALAPRIL MALEATE
+Diuretic,CHEMBL1200660,Small molecule,ISOSORBIDE
+,CHEMBL1200661,Small molecule,UNOPROSTONE ISOPROPYL
+,CHEMBL1200662,Small molecule,HEMIN
+Radioactive Agent,CHEMBL1200663,Small molecule,TECHNETIUM TC 99M LIDOFENIN
+,CHEMBL1200664,Small molecule,POTASSIUM LACTATE
+Antiperistaltic,CHEMBL1200665,Small molecule,DIPHENOXYLATE HYDROCHLORIDE
+Antipsoriatic,CHEMBL1200666,Small molecule,CALCIPOTRIENE
+"Radioactive Agent,Replenisher (calcium)",CHEMBL1200668,Small molecule,CALCIUM CHLORIDE
+Antibacterial,CHEMBL1200672,Small molecule,CEFPIRAMIDE SODIUM
+"Diagnostic Aid; Radioactive Agent; Gas, Medicinal",CHEMBL1200673,Small molecule,XENON XE 127
+Anti-Estrogen; Antineoplastic,CHEMBL1200675,Small molecule,TOREMIFENE CITRATE
+Radioactive Agent,CHEMBL1200676,Small molecule,CHROMIC PHOSPHATE P 32
+,CHEMBL1200678,Small molecule,ATAZANAVIR SULFATE
+Astringent; Dentin Desensitizer,CHEMBL1200679,Small molecule,ZINC CHLORIDE
+Antifungal; Antiseborrheic,CHEMBL1200680,Small molecule,SELENIUM SULFIDE
+Anti-Asthmatic (leukotriene antagonist),CHEMBL1200681,Small molecule,MONTELUKAST SODIUM
+"Anesthesia, Adjunct To",CHEMBL1200682,Small molecule,SODIUM OXYBATE
+Radioactive Agent,CHEMBL1200685,Small molecule,XENON XE 133
+,CHEMBL1200686,Small molecule,PIMECROLIMUS
+Antibacterial,CHEMBL1200688,Small molecule,ERYTHROMYCIN ETHYLSUCCINATE
+,CHEMBL1200689,Small molecule,NITRIC OXIDE
+,CHEMBL1200691,Small molecule,MAGNESIUM ACETATE
+Supplement (trace mineral),CHEMBL1200693,Small molecule,MANGANESE CHLORIDE
+Anesthetic (inhalation),CHEMBL1200694,Small molecule,SEVOFLURANE
+Adrenergic (vasoconstrictor),CHEMBL1200695,Small molecule,PHENYLPROPANOLAMINE HYDROCHLORIDE
+,CHEMBL1200696,Small molecule,POTASSIUM PERCHLORATE
+Radioactive Agent,CHEMBL1200698,Small molecule,PENTETATE CALCIUM TRISODIUM YB 169
+Antibacterial,CHEMBL1200699,Small molecule,DOXYCYCLINE
+Antibacterial,CHEMBL1200701,Small molecule,DICLOXACILLIN SODIUM
+Sedative-Hypnotic,CHEMBL1200703,Small molecule,CHLORDIAZEPOXIDE HYDROCHLORIDE
+Adrenergic (ophthalmic),CHEMBL1200705,Small molecule,HYDROXYAMPHETAMINE HYDROBROMIDE
+Antacid,CHEMBL1200706,Small molecule,ALUMINUM HYDROXIDE
+,CHEMBL1200707,Small molecule,BENZQUINAMIDE HYDROCHLORIDE
+Scabicide,CHEMBL1200709,Small molecule,CROTAMITON
+Antidepressant,CHEMBL1200710,Small molecule,CLOMIPRAMINE HYDROCHLORIDE
+,CHEMBL1200711,Small molecule,OMEGA-3-ACID ETHYL ESTERS
+,CHEMBL1200712,Small molecule,EVANS BLUE
+,CHEMBL1200714,Small molecule,CHLORMEZANONE
+,CHEMBL1200715,Small molecule,HEXYLCAINE HYDROCHLORIDE
+Laxative; Antacid,CHEMBL1200718,Small molecule,"MAGNESIA, [MILK OF]"
+Antineoplastic,CHEMBL1200721,Small molecule,ESTRAMUSTINE PHOSPHATE SODIUM
+Neuromuscular Blocking Agent,CHEMBL1200722,Small molecule,PIPECURONIUM BROMIDE
+Adrenergic (vasoconstrictor),CHEMBL1200724,Small molecule,PSEUDOEPHEDRINE HYDROCHLORIDE
+,CHEMBL1200725,Small molecule,SERTACONAZOLE NITRATE
+"Diagnostic Aid (radioactive, cardiac disease); Radioactive Agent",CHEMBL1200727,Small molecule,RUBIDIUM CHLORIDE RB 82
+,CHEMBL1200728,Small molecule,GUANIDINE HYDROCHLORIDE
+Antirickettsial; Antibacterial,CHEMBL1200729,Small molecule,CHLORAMPHENICOL SODIUM SUCCINATE
+"Radioactive Agent,Replenisher (electrolyte)",CHEMBL1200731,Small molecule,POTASSIUM CHLORIDE
+Glucocorticoid,CHEMBL1200732,Small molecule,AMCINONIDE
+Anesthetic,CHEMBL1200733,Small molecule,DESFLURANE
+,CHEMBL1200734,Small molecule,FOSAMPRENAVIR CALCIUM
+,CHEMBL1200735,Small molecule,MOXIFLOXACIN HYDROCHLORIDE
+Antacid,CHEMBL1200736,Small molecule,MAGNESIUM CARBONATE
+Pulmonary Surfactant,CHEMBL1200737,Small molecule,COLFOSCERIL PALMITATE
+Diagnostic Aid (radiopaque medium),CHEMBL1200743,Small molecule,IOXAGLATE SODIUM
+Radioactive Agent,CHEMBL1200744,Small molecule,SODIUM FLUORIDE F 18
+Vasodilator (coronary),CHEMBL1200745,Small molecule,OXPRENOLOL HYDROCHLORIDE
+Antipruritic (topical),CHEMBL1200747,Small molecule,AMMONIUM LACTATE
+Inhibitor (decarboxylase),CHEMBL1200748,Small molecule,CARBIDOPA
+,CHEMBL1200749,Small molecule,LEVOBUPIVACAINE HYDROCHLORIDE
+Antihistaminic; Anti-Emetic,CHEMBL1200750,Small molecule,PROMETHAZINE HYDROCHLORIDE
+Antineoplastic,CHEMBL1200751,Small molecule,MERCAPTOPURINE
+Vitamin (enzyme co-factor),CHEMBL1200756,Small molecule,PYRIDOXINE HYDROCHLORIDE
+Neuromuscular Blocking Agent,CHEMBL1200757,Small molecule,PANCURONIUM BROMIDE
+Antibacterial,CHEMBL1200758,Small molecule,AMPICILLIN SODIUM
+Hematinic,CHEMBL1200830,Small molecule,FERROUS SULFATE
+Enzyme Inhibitor (angiotensin-converting),CHEMBL1200831,Small molecule,SPIRAPRIL HYDROCHLORIDE
+,CHEMBL1200832,Small molecule,TERBINAFINE HYDROCHLORIDE
+Antiglaucoma Agent,CHEMBL1200833,Small molecule,DIPIVEFRIN HYDROCHLORIDE
+Radioactive Agent,CHEMBL1200835,Small molecule,TECHNETIUM TC 99M ETIDRONATE
+Antifungal,CHEMBL1200836,Small molecule,OXICONAZOLE NITRATE
+Anti-Adrenergic (beta-receptor),CHEMBL1200837,Small molecule,LEVOBETAXOLOL HYDROCHLORIDE
+Diagnostic Aid (radiopaque medium),CHEMBL1200839,Small molecule,DIATRIZOATE MEGLUMINE
+Anesthetic (local),CHEMBL1200841,Small molecule,PROCAINE HYDROCHLORIDE
+Oxytocic,CHEMBL1200843,Small molecule,METHYLERGONOVINE MALEATE
+Anti-Inflammatory (topical),CHEMBL1200845,Small molecule,HALCINONIDE
+Progestin,CHEMBL1200848,Small molecule,HYDROXYPROGESTERONE CAPROATE
+Antiviral,CHEMBL1200850,Small molecule,GANCICLOVIR SODIUM
+Anticholinergic,CHEMBL1200851,Small molecule,HOMATROPINE METHYLBROMIDE
+Antibacterial,CHEMBL1200852,Small molecule,PENICILLIN V POTASSIUM
+Progestin,CHEMBL1200853,Small molecule,DYDROGESTERONE
+Antipsychotic,CHEMBL1200854,Small molecule,FLUPHENAZINE DECANOATE
+Antibacterial,CHEMBL1200855,Small molecule,TICARCILLIN DISODIUM
+Radioactive Agent,CHEMBL1200857,Small molecule,TECHNETIUM TC 99M TETROFOSMIN
+Diagnostic Aid (lymphangiography),CHEMBL1200859,Small molecule,ISOSULFAN BLUE
+Pharmaceutic Aid (buffering agent),CHEMBL1200861,Small molecule,TARTARIC ACID
+Antihypertensive,CHEMBL1200862,Small molecule,METYROSINE
+,CHEMBL1200863,Small molecule,MELPHALAN HYDROCHLORIDE
+Anti-Inflammatory (topical),CHEMBL1200865,Small molecule,LOTEPREDNOL ETABONATE
+Blood Substitute,CHEMBL1200866,Small molecule,PERFLUBRON
+Antibacterial (tuberculostatic),CHEMBL1200868,Small molecule,PHENYL AMINOSALICYLATE
+Antibacterial,CHEMBL1200869,Small molecule,METRONIDAZOLE HYDROCHLORIDE
+Anti-Adrenergic (beta-receptor),CHEMBL1200870,Small molecule,TIMOLOL MALEATE
+Anti-Adrenergic,CHEMBL1200873,Small molecule,PHENTOLAMINE MESYLATE
+Diagnostic Aid (diabetes),CHEMBL1200874,Small molecule,"TOLBUTAMIDE SODIUM, STERILE"
+Relaxant (smooth muscle),CHEMBL1200875,Small molecule,FLAVOXATE HYDROCHLORIDE
+Glucocorticoid,CHEMBL1200877,Small molecule,FLUMETHASONE PIVALATE
+Glucocorticoid,CHEMBL1200878,Small molecule,TRIAMCINOLONE HEXACETONIDE
+Anticoagulant,CHEMBL1200879,Small molecule,WARFARIN SODIUM
+,CHEMBL1200880,Small molecule,DIPHEMANIL METHYLSULFATE
+Antibacterial,CHEMBL1200881,Small molecule,MINOCYCLINE HYDROCHLORIDE
+Detergent,CHEMBL1200883,Small molecule,THONZONIUM BROMIDE
+Anti-Emetic,CHEMBL1200885,Small molecule,ALOSETRON HYDROCHLORIDE
+Anti-Emetic,CHEMBL1200887,Small molecule,TRIMETHOBENZAMIDE HYDROCHLORIDE
+Analgesic (narcotic),CHEMBL1200890,Small molecule,OXYCODONE HYDROCHLORIDE
+,CHEMBL1200891,Small molecule,OXYPHENCYCLIMINE HYDROCHLORIDE
+,CHEMBL1200893,Small molecule,PROTOKYLOL HYDROCHLORIDE
+Antidepressant,CHEMBL1200895,Small molecule,PHENELZINE SULFATE
+Oxytocic; Prostaglandin,CHEMBL1200896,Small molecule,DINOPROST TROMETHAMINE
+"Diagnostic Aid (radiopaque medium, cholecystographic)",CHEMBL1200899,Small molecule,TYROPANOATE SODIUM
+Antimalarial,CHEMBL1200901,Small molecule,HALOFANTRINE HYDROCHLORIDE
+Sedative-Hypnotic,CHEMBL1200903,Small molecule,SECOBARBITAL SODIUM
+Antidyskinetic; Antiparkinsonian (in combination with levodopa/carbidopa),CHEMBL1200904,Small molecule,SELEGILINE HYDROCHLORIDE
+,CHEMBL1200906,Small molecule,OXYPHENONIUM BROMIDE
+Adrenocortical Suppressant,CHEMBL1200907,Small molecule,TRILOSTANE
+Anti-Inflammatory (topical),CHEMBL1200908,Small molecule,HALOBETASOL PROPIONATE
+Glucocorticoid,CHEMBL1200909,Small molecule,PREDNISOLONE TEBUTATE
+Antibacterial,CHEMBL1200910,Small molecule,SULFISOXAZOLE ACETYL
+Appetite Suppressant (systemic),CHEMBL1200912,Small molecule,PHENTERMINE HYDROCHLORIDE
+Benign Prostatic Hyperplasia Therapy Agent,CHEMBL1200914,Small molecule,TAMSULOSIN HYDROCHLORIDE
+Sedative-Hypnotic; Antipsychotic,CHEMBL1200916,Small molecule,THIORIDAZINE HYDROCHLORIDE
+Bronchodilator,CHEMBL1200920,Small molecule,ISOETHARINE HYDROCHLORIDE
+Antihypertensive,CHEMBL1200922,Small molecule,MEBUTAMATE
+Diagnostic Aid (hepatobiliary function determination); Radioactive Agent,CHEMBL1200923,Small molecule,TECHNETIUM TC 99M DISOFENIN
+Pharmaceutic Aid (buffering agent),CHEMBL1200925,Small molecule,"POTASSIUM PHOSPHATE, MONOBASIC"
+Antihistaminic,CHEMBL1200927,Small molecule,DEXCHLORPHENIRAMINE MALEATE
+,CHEMBL1200928,Small molecule,ZINC ACETATE
+Astringent (ophthalmic),CHEMBL1200929,Small molecule,ZINC SULFATE
+Anti-Ulcerative; Gastric Acid Pump Inhibitor,CHEMBL1200930,Small molecule,RABEPRAZOLE SODIUM
+Radioactive Agent; Diagnostic Aid (skeletal imaging),CHEMBL1200931,Small molecule,TECHNETIUM TC 99M MEDRONATE
+Diagnostic Aid (radiopaque medium),CHEMBL1200932,Small molecule,IOPAMIDOL
+Relaxant (skeletal muscle); Synergist (succinylcholine),CHEMBL1200933,Small molecule,HEXAFLUORENIUM BROMIDE
+Progestin,CHEMBL1200934,Small molecule,NORGESTIMATE
+,CHEMBL1200935,Small molecule,DARIFENACIN HYDROBROMIDE
+Antibacterial,CHEMBL1200936,Small molecule,PENICILLIN G PROCAINE
+Antibacterial,CHEMBL1200937,Small molecule,DALFOPRISTIN
+Acidifier; Diuretic,CHEMBL1200939,Small molecule,AMMONIUM CHLORIDE
+Anti-Emetic,CHEMBL1200940,Small molecule,METOCLOPRAMIDE HYDROCHLORIDE
+Vitamin (enzyme co-factor),CHEMBL1200941,Small molecule,THIAMINE HYDROCHLORIDE
+,CHEMBL1200943,Small molecule,MERSALYL
+Synergist (penicillin/cephalosporin); Inhibitor (beta-lactamase),CHEMBL1200944,Small molecule,SULBACTAM SODIUM
+Chelating Agent (plutonium),CHEMBL1200945,Small molecule,PENTETATE CALCIUM TRISODIUM
+Androgen,CHEMBL1200946,Small molecule,NANDROLONE DECANOATE
+,CHEMBL1200947,Small molecule,METIPRANOLOL HYDROCHLORIDE
+Antidepressant,CHEMBL1200948,Small molecule,TRIMIPRAMINE MALEATE
+,CHEMBL1200949,Small molecule,BETAZOLE HYDROCHLORIDE
+Anticholinergic,CHEMBL1200950,Small molecule,CLIDINIUM BROMIDE
+Antipsychotic,CHEMBL1200951,Small molecule,FLUPHENAZINE ENANTHATE
+Stimulant (central),CHEMBL1200952,Small molecule,METHAMPHETAMINE HYDROCHLORIDE
+Glucocorticoid,CHEMBL1200953,Small molecule,HYDROCORTISONE PROBUTATE
+,CHEMBL1200955,Small molecule,MYCOPHENOLATE MOFETIL HYDROCHLORIDE
+Antipruritic,CHEMBL1200959,Small molecule,METHDILAZINE
+Antihistaminic,CHEMBL1200961,Small molecule,BROMPHENIRAMINE MALEATE
+Antibacterial,CHEMBL1200962,Small molecule,CEFEPIME HYDROCHLORIDE
+,CHEMBL1200963,Small molecule,BIMATOPROST
+Antidepressant,CHEMBL1200964,Small molecule,AMITRIPTYLINE HYDROCHLORIDE
+Antibacterial,CHEMBL1200965,Small molecule,BACAMPICILLIN HYDROCHLORIDE
+Antihistaminic,CHEMBL1200967,Small molecule,BROMODIPHENHYDRAMINE HYDROCHLORIDE
+Glucocorticoid,CHEMBL1200968,Small molecule,HYDROCORTISONE SODIUM PHOSPHATE
+,CHEMBL1200969,Small molecule,DUTASTERIDE
+Antiparkinsonian,CHEMBL1200970,Small molecule,ETHOPROPAZINE HYDROCHLORIDE
+Antibacterial,CHEMBL1200971,Small molecule,CEPHALOGLYCIN
+Antitussive,CHEMBL1200972,Small molecule,CHLOPHEDIANOL HYDROCHLORIDE
+Estrogen,CHEMBL1200973,Small molecule,ESTRADIOL CYPIONATE
+Antihistaminic,CHEMBL1200974,Small molecule,CARBINOXAMINE MALEATE
+Glucocorticoid,CHEMBL1200975,Small molecule,CLOCORTOLONE PIVALATE
+Antineoplastic,CHEMBL1200976,Small molecule,IDARUBICIN HYDROCHLORIDE
+,CHEMBL1200977,Small molecule,MILRINONE LACTATE
+Cholinergic,CHEMBL1200979,Small molecule,DEXPANTHENOL
+Estrogen,CHEMBL1200980,Small molecule,ESTROPIPATE
+Antineoplastic,CHEMBL1200981,Small molecule,EPIRUBICIN HYDROCHLORIDE
+Sedative-Hypnotic,CHEMBL1200982,Small molecule,BUTABARBITAL SODIUM
+Regulator (calcium),CHEMBL1200983,Small molecule,GALLIUM NITRATE
+Antihypertensive; Anti-Anginal,CHEMBL1200984,Small molecule,AMLODIPINE MALEATE
+Antipsychotic,CHEMBL1200986,Small molecule,HALOPERIDOL DECANOATE
+Antihypertensive,CHEMBL1200987,Small molecule,EPROSARTAN MESYLATE
+,CHEMBL1200988,Small molecule,METHANTHELINE BROMIDE
+Anti-Inflammatory (topical),CHEMBL1200989,Small molecule,ALCLOMETASONE DIPROPIONATE
+Antibacterial,CHEMBL1200991,Small molecule,CARBENICILLIN INDANYL SODIUM
+Neuromuscular Blocking Agent,CHEMBL1200993,Small molecule,GALLAMINE TRIETHIODIDE
+Diagnostic Aid (radiopaque medium); Radioactive Agent,CHEMBL1200994,Small molecule,GALLIUM CITRATE GA 67
+,CHEMBL1201000,Small molecule,NITROFURANTOIN SODIUM
+Antineoplastic,CHEMBL1201001,Small molecule,MECHLORETHAMINE HYDROCHLORIDE
+Anti-Adrenergic (beta-receptor),CHEMBL1201002,Small molecule,CARTEOLOL HYDROCHLORIDE
+,CHEMBL1201003,Small molecule,ELETRIPTAN HYDROBROMIDE
+Antibacterial,CHEMBL1201005,Small molecule,CEFONICID SODIUM
+Antihistaminic,CHEMBL1201006,Small molecule,PYRILAMINE MALEATE
+Adrenocortical Steroid (salt-regulating),CHEMBL1201010,Small molecule,FLUDROCORTISONE ACETATE
+Enzyme Inhibitor (angiotensin-converting); Antihypertensive,CHEMBL1201011,Small molecule,QUINAPRIL HYDROCHLORIDE
+Glucocorticoid,CHEMBL1201012,Small molecule,FLURANDRENOLIDE
+Anti-Inflammatory (gastrointestinal),CHEMBL1201013,Small molecule,OLSALAZINE SODIUM
+Glucocorticoid,CHEMBL1201014,Small molecule,PREDNISOLONE SODIUM PHOSPHATE
+Astringent,CHEMBL1201015,Small molecule,ALUMINUM ACETATE
+Antibacterial,CHEMBL1201016,Small molecule,CEFPODOXIME PROXETIL
+Antibacterial,CHEMBL1201018,Small molecule,CEFACLOR
+Antibacterial,CHEMBL1201019,Small molecule,CEFTIZOXIME SODIUM
+Cardiac Depressant (anti-arrhythmic),CHEMBL1201020,Small molecule,DISOPYRAMIDE PHOSPHATE
+Analgesic (urinary tract),CHEMBL1201022,Small molecule,PHENAZOPYRIDINE HYDROCHLORIDE
+,CHEMBL1201023,Small molecule,ORPHENADRINE HYDROCHLORIDE
+Anticholinergic,CHEMBL1201027,Small molecule,GLYCOPYRROLATE
+Antimigraine,CHEMBL1201032,Small molecule,RIZATRIPTAN BENZOATE
+Diagnostic Aid (radiopaque medium),CHEMBL1201033,Small molecule,IPODATE SODIUM
+Anticholinergic; Antiparkinsonian,CHEMBL1201035,Small molecule,BIPERIDEN HYDROCHLORIDE
+Antineoplastic; Antiprotozoal,CHEMBL1201037,Small molecule,EFLORNITHINE HYDROCHLORIDE
+Antifungal,CHEMBL1201038,Small molecule,ACRISORCIN
+Antihypertensive; Diuretic,CHEMBL1201039,Small molecule,BENZTHIAZIDE
+Antibacterial,CHEMBL1201041,Small molecule,AZLOCILLIN SODIUM
+Bone Resorption Inhibitor,CHEMBL1201042,Small molecule,ETIDRONATE DISODIUM
+Antibacterial,CHEMBL1201043,Small molecule,CEPHAPIRIN SODIUM
+Antiglaucoma Agent; Psychotropic; Adrenergic (alpha-blocking); Neuroleptic,CHEMBL1201044,Small molecule,DAPIPRAZOLE HYDROCHLORIDE
+,CHEMBL1201045,Small molecule,ACETRIZOATE SODIUM
+Antibacterial,CHEMBL1201046,Small molecule,CEFORANIDE
+Analgesic (narcotic),CHEMBL1201047,Small molecule,ANILERIDINE HYDROCHLORIDE
+Antineoplastic,CHEMBL1201048,Small molecule,DROMOSTANOLONE PROPIONATE
+Antifungal,CHEMBL1201049,Small molecule,ECONAZOLE NITRATE
+Anti-Allergic; Inhibitor (mediator release),CHEMBL1201050,Small molecule,PEMIROLAST POTASSIUM
+Antagonist (to histamine-H2 receptors),CHEMBL1201051,Small molecule,CIMETIDINE HYDROCHLORIDE
+Antipsychotic,CHEMBL1201052,Small molecule,MESORIDAZINE BESYLATE
+Diagnostic Aid (pancreas function determination); Radioactive Agent,CHEMBL1201054,Small molecule,SELENOMETHIONINE SE 75
+Antibacterial,CHEMBL1201056,Small molecule,SULFACYTINE
+Enzyme Inhibitor,CHEMBL1201057,Small molecule,CILASTATIN SODIUM
+Replenisher (electrolyte),CHEMBL1201058,Small molecule,POTASSIUM ACETATE
+,CHEMBL1201059,Small molecule,CHLOROGUANIDE HYDROCHLORIDE
+,CHEMBL1201060,Small molecule,LOXAPINE HYDROCHLORIDE
+Bronchodilator; Asthma Prophylactic,CHEMBL1201061,Small molecule,LEVALBUTEROL HYDROCHLORIDE
+Cardiac Depressant (anti-arrhythmic),CHEMBL1201063,Small molecule,PROPAFENONE HYDROCHLORIDE
+Anti-Inflammatory,CHEMBL1201064,Small molecule,FLUOROMETHOLONE ACETATE
+Anesthetic (intravenous),CHEMBL1201065,Small molecule,THIAMYLAL SODIUM
+Antidepressant,CHEMBL1201066,Small molecule,VENLAFAXINE HYDROCHLORIDE
+Antiparkinsonian; Anticholinergic,CHEMBL1201067,Small molecule,BIPERIDEN LACTATE
+,CHEMBL1201068,Small molecule,PROPIOMAZINE HYDROCHLORIDE
+Antibacterial,CHEMBL1201071,Small molecule,TETRACYCLINE PHOSPHATE COMPLEX
+Diagnostic Aid,CHEMBL1201073,Small molecule,SUCCIMER
+Diagnostic Aid,CHEMBL1201075,Small molecule,IOXILAN
+Radioactive Agent,CHEMBL1201078,Small molecule,INDIUM IN 111 CHLORIDE
+,CHEMBL1201080,Small molecule,TRIMETHOPRIM HYDROCHLORIDE
+Glucocorticoid,CHEMBL1201081,Small molecule,METHYLPREDNISOLONE SODIUM SUCCINATE
+Antidepressant,CHEMBL1201082,Small molecule,FLUOXETINE HYDROCHLORIDE
+Diagnostic Aid (thyroid function determination); Radioactive Agent,CHEMBL1201083,Small molecule,SODIUM IODIDE I 123
+Diagnostic Aid (thyroid function determination); Radioactive Agent; Antineoplastic,CHEMBL1201084,Small molecule,SODIUM IODIDE I 131
+Dopamine Agonist; Antidyskinetic; Antihyperprolactinemic,CHEMBL1201087,Small molecule,CABERGOLINE
+Antihistaminic,CHEMBL1201089,Small molecule,DIPHENHYDRAMINE CITRATE
+,CHEMBL1201093,Small molecule,METHYL AMINOLEVULINATE HYDROCHLORIDE
+Radioactive Agent,CHEMBL1201094,Small molecule,COBALTOUS CHLORIDE CO 60
+Radioactive Agent; Diagnostic Aid (renal function determination),CHEMBL1201095,Small molecule,CHLORMERODRIN HG 197
+Radioactive Agent,CHEMBL1201096,Small molecule,KRYPTON KR 81M
+Antibacterial,CHEMBL1201098,Small molecule,CEFOTETAN DISODIUM
+Antitussive; Analgesic (narcotic),CHEMBL1201099,Small molecule,CODEINE PHOSPHATE
+Androgen,CHEMBL1201101,Small molecule,TESTOSTERONE CYPIONATE
+Antipsychotic,CHEMBL1201102,Small molecule,TRIFLUPROMAZINE HYDROCHLORIDE
+,CHEMBL1201103,Small molecule,METHOXAMINE HYDROCHLORIDE
+Antibacterial (urinary),CHEMBL1201104,Small molecule,METHENAMINE HIPPURATE
+,CHEMBL1201108,Small molecule,CONIVAPTAN HYDROCHLORIDE
+Anti-Inflammatory,CHEMBL1201109,Small molecule,DESONIDE
+Antiviral,CHEMBL1201110,Small molecule,VALACYCLOVIR HYDROCHLORIDE
+Antineoplastic,CHEMBL1201112,Small molecule,NELARABINE
+Anti-Adrenergic (beta-receptor),CHEMBL1201115,Small molecule,ESMOLOL HYDROCHLORIDE
+Antibacterial,CHEMBL1201116,Small molecule,HETACILLIN
+Relaxant (skeletal muscle),CHEMBL1201117,Small molecule,METHOCARBAMOL
+Antibacterial,CHEMBL1201118,Small molecule,CEFMETAZOLE SODIUM
+Thyroid Hormone,CHEMBL1201119,Small molecule,LIOTHYRONINE SODIUM
+Analgesic,CHEMBL1201120,Small molecule,REMIFENTANIL HYDROCHLORIDE
+Antibacterial,CHEMBL1201121,Small molecule,HETACILLIN POTASSIUM
+Analgesic,CHEMBL1201124,Small molecule,KETOROLAC TROMETHAMINE
+Diagnostic Aid (radiopaque medium),CHEMBL1201125,Small molecule,IOTHALAMATE MEGLUMINE
+,CHEMBL1201127,Small molecule,DARUNAVIR ETHANOLATE
+Antineoplastic,CHEMBL1201129,Small molecule,DECITABINE
+Replenisher Adjunct (electrolyte),CHEMBL1201130,Small molecule,BETAINE HYDROCHLORIDE
+,CHEMBL1201131,Small molecule,PIPERONYL BUTOXIDE
+Antagonist (to narcotics); Analgesic,CHEMBL1201132,Small molecule,NALBUPHINE HYDROCHLORIDE
+,CHEMBL1201134,Small molecule,LUBIPROSTONE
+Protectant (topical),CHEMBL1201136,Small molecule,TITANIUM DIOXIDE
+Antidote (to folic acid antagonists); Anti-Anemic (folate deficiency),CHEMBL1201138,Small molecule,LEUCOVORIN CALCIUM
+Antineoplastic,CHEMBL1201139,Small molecule,MEGESTROL ACETATE
+,CHEMBL1201141,Small molecule,IBUPROFEN LYSINE
+Antiparkinsonian,CHEMBL1201142,Small molecule,RASAGILINE MESYLATE
+Progestin,CHEMBL1201146,Small molecule,NORETHINDRONE ACETATE
+Ultraviolet Screen,CHEMBL1201147,Small molecule,OCTOCRYLENE
+,CHEMBL1201148,Small molecule,MEPREDNISONE
+,CHEMBL1201149,Small molecule,NALTREXONE HYDROCHLORIDE
+Antimigraine,CHEMBL1201150,Small molecule,SUMATRIPTAN SUCCINATE
+Estrogen,CHEMBL1201151,Small molecule,MESTRANOL
+,CHEMBL1201152,Small molecule,NALMEFENE HYDROCHLORIDE
+Bronchodilator,CHEMBL1201153,Small molecule,ISOETHARINE MESYLATE
+Antipsychotic; Anti-Emetic,CHEMBL1201154,Small molecule,PROCHLORPERAZINE EDISYLATE
+Tranquilizer (minor),CHEMBL1201155,Small molecule,LOXAPINE SUCCINATE
+Antidepressant,CHEMBL1201156,Small molecule,NORTRIPTYLINE HYDROCHLORIDE
+,CHEMBL1201159,Small molecule,FENTANYL HYDROCHLORIDE
+"Anti-Infective, Topical",CHEMBL1201161,Small molecule,MAFENIDE ACETATE
+Carbonic Anhydrase Inhibitor,CHEMBL1201162,Small molecule,DORZOLAMIDE HYDROCHLORIDE
+Analgesic (narcotic),CHEMBL1201163,Small molecule,SUFENTANIL CITRATE
+Estrogen,CHEMBL1201165,Small molecule,QUINESTROL
+,CHEMBL1201167,Small molecule,CARVEDILOL PHOSPHATE
+Antidepressant,CHEMBL1201168,Small molecule,ISOCARBOXAZID
+Antimanic,CHEMBL1201170,Small molecule,LITHIUM CITRATE
+Anesthetic (topical),CHEMBL1201171,Small molecule,PRAMOXINE HYDROCHLORIDE
+Diagnostic Aid (radiopaque medium),CHEMBL1201172,Small molecule,IODAMIDE MEGLUMINE
+Glucocorticoid,CHEMBL1201173,Small molecule,MEDRYSONE
+,CHEMBL1201174,Small molecule,SITAGLIPTIN PHOSPHATE
+Anti-Adrenergic (beta-receptor),CHEMBL1201177,Small molecule,LEVOBUNOLOL HYDROCHLORIDE
+,CHEMBL1201178,Small molecule,LISDEXAMFETAMINE DIMESYLATE
+,CHEMBL1201179,Small molecule,LAPATINIB DITOSYLATE
+,CHEMBL1201180,Small molecule,DICLOFENAC EPOLAMINE
+,CHEMBL1201182,Small molecule,TEMSIROLIMUS
+,CHEMBL1201186,Small molecule,BISMUTH SUBCITRATE POTASSIUM
+,CHEMBL1201187,Small molecule,MARAVIROC
+Radioactive Agent; Diagnostic Aid (cardiac imaging); Diagnostic Aid (liver imaging),CHEMBL1201189,Small molecule,AMMONIA N 13
+,CHEMBL1201190,Small molecule,LEVOCETIRIZINE DIHYDROCHLORIDE
+,CHEMBL1201191,Small molecule,LEVOCETIRIZINE
+,CHEMBL1201192,Small molecule,ARMODAFINIL
+,CHEMBL1201193,Small molecule,LEVOBUPIVACAINE
+Antibacterial,CHEMBL1201195,Small molecule,CEFMETAZOLE
+,CHEMBL1201196,Small molecule,SERTACONAZOLE
+Antibacterial,CHEMBL1201197,Small molecule,ALATROFLOXACIN
+Anti-Allergic; Inhibitor (mediator release),CHEMBL1201198,Small molecule,PEMIROLAST
+Stimulant (central),CHEMBL1201201,Small molecule,METHAMPHETAMINE
+Antiparkinsonian,CHEMBL1201203,Small molecule,BENZTROPINE
+Antibacterial,CHEMBL1201204,Small molecule,CEFPIRAMIDE
+Neuromuscular Blocking Agent,CHEMBL1201206,Small molecule,PIPECURONIUM
+Glucocorticoid,CHEMBL1201207,Small molecule,BETAMETHASONE PHOSPHORIC ACID
+Anorexic,CHEMBL1201208,Small molecule,PHENMETRAZINE
+Sedative (pre-anesthetic),CHEMBL1201210,Small molecule,PROPIOMAZINE
+Antihypotensive,CHEMBL1201212,Small molecule,MIDODRINE
+Bronchodilator,CHEMBL1201213,Small molecule,ISOETHARINE
+Antiglaucoma Agent; Psychotropic; Adrenergic (alpha-blocking); Neuroleptic,CHEMBL1201216,Small molecule,DAPIPRAZOLE
+Anesthetic (topical),CHEMBL1201217,Small molecule,DYCLONINE
+Antibacterial,CHEMBL1201218,Small molecule,CEFAMANDOLE NAFATE
+Neuromuscular Blocking Agent,CHEMBL1201219,Small molecule,VECURONIUM
+"Diagnostic Aid (radiopaque medium),Radioactive Agent",CHEMBL1201220,Small molecule,DIATRIZOIC ACID
+,CHEMBL1201222,Small molecule,LISDEXAMFETAMINE
+Antibacterial,CHEMBL1201224,Small molecule,CEFMENOXIME
+"Anti-Infective, Topical",CHEMBL1201225,Small molecule,IODINE
+,CHEMBL1201227,Small molecule,CYCRIMINE
+Cholinergic (ophthalmic),CHEMBL1201229,Small molecule,DEMECARIUM
+Glucocorticoid,CHEMBL1201231,Small molecule,PREDNISOLONE PHOSPHORIC ACID
+Anticholinergic,CHEMBL1201232,Small molecule,ISOPROPAMIDE
+Antihypertensive,CHEMBL1201233,Small molecule,METHYLDOPATE
+Adrenergic (vasoconstrictor),CHEMBL1201234,Small molecule,MEPHENTERMINE
+Anticholinergic,CHEMBL1201235,Small molecule,METHYLHOMATROPINE
+Inhibitor (decarboxylase),CHEMBL1201236,Small molecule,CARBIDOPA
+Anti-Adrenergic (beta-receptor),CHEMBL1201237,Small molecule,LEVOBUNOLOL
+Diagnostic Aid (radiopaque medium),CHEMBL1201239,Small molecule,IODAMIDE
+Cardiac Depressant (anti-arrhythmic),CHEMBL1201242,Small molecule,INDECAINIDE
+Diagnostic Aid (radiopaque medium),CHEMBL1201243,Small molecule,IPODATE
+Neuromuscular Blocking Agent,CHEMBL1201244,Small molecule,ROCURONIUM
+Antihistaminic,CHEMBL1201245,Small molecule,BROMODIPHENHYDRAMINE
+Neuromuscular Blocking Agent,CHEMBL1201248,Small molecule,CISATRACURIUM
+Anti-Emetic,CHEMBL1201250,Small molecule,BENZQUINAMIDE
+Stimulant (cardiac),CHEMBL1201251,Small molecule,ARBUTAMINE
+Anti-Emetic,CHEMBL1201256,Small molecule,TRIMETHOBENZAMIDE
+Antihypertensive,CHEMBL1201260,Small molecule,BETHANIDINE
+"Diagnostic Aid (radiopaque medium, cholecystographic)",CHEMBL1201261,Small molecule,TYROPANOIC ACID
+"Adrenergic (ophthalmic),Antiglaucoma Agent",CHEMBL1201262,Small molecule,DIPIVEFRIN
+,CHEMBL1201263,Small molecule,HYDROCORTAMATE
+,CHEMBL1201264,Small molecule,METHANTHELINE
+"Adrenocortical Steroid,Glucocorticoid",CHEMBL1201265,Small molecule,METHYLPREDNISOLONE HEMISUCCINATE
+Anti-Asthmatic; Anti-Allergic,CHEMBL1201266,Small molecule,LODOXAMIDE
+Anorexic,CHEMBL1201269,Small molecule,CHLORPHENTERMINE
+Antibacterial (urinary),CHEMBL1201270,Small molecule,METHENAMINE
+Antinauseant,CHEMBL1201271,Small molecule,BUCLIZINE
+,CHEMBL1201273,Small molecule,PROTOKYLOL
+Anti-Adrenergic (beta-receptor),CHEMBL1201274,Small molecule,LEVOBETAXOLOL
+,CHEMBL1201275,Small molecule,ISOSULFAN BLUE
+Antirickettsial; Antibacterial,CHEMBL1201281,Small molecule,CHLORAMPHENICOL SUCCINIC ACID
+,CHEMBL1201284,Small molecule,CINACALCET
+,CHEMBL1201286,Small molecule,OXYPHENONIUM
+Antihistaminic,CHEMBL1201287,Small molecule,DEXBROMPHENIRAMINE
+Relaxant (skeletal muscle),CHEMBL1201288,Small molecule,DANTROLENE
+,CHEMBL1201289,Small molecule,CLINDAMYCIN PALMITATE
+Diagnostic Aid (radiopaque medium),CHEMBL1201291,Small molecule,IOXAGLIC ACID
+,CHEMBL1201293,Small molecule,ACAMPROSATE
+Antiperistaltic,CHEMBL1201294,Small molecule,DIPHENOXYLATE
+Bronchodilator,CHEMBL1201295,Small molecule,BITOLTEROL
+"Diagnostic Aid (radiopaque medium),Radioactive Agent",CHEMBL1201300,Small molecule,IOTHALAMIC ACID
+,CHEMBL1201301,Small molecule,MANGAFODIPIR
+Glucocorticoid,CHEMBL1201302,Small molecule,DEXAMETHASONE PHOSPHORIC ACID
+Anthelmintic,CHEMBL1201303,Small molecule,PYRVINIUM
+,CHEMBL1201304,Small molecule,INDOCYANINE GREEN
+Radioactive Agent; Diagnostic Aid,CHEMBL1201308,Small molecule,IOFETAMINE
+Antitussive,CHEMBL1201313,Small molecule,CHLOPHEDIANOL
+Antiviral,CHEMBL1201314,Small molecule,VALGANCICLOVIR
+Sedative-Hypnotic,CHEMBL1201317,Small molecule,TRICLOFOS
+Adrenergic,CHEMBL1201319,Small molecule,METARAMINOL
+,CHEMBL1201320,Small molecule,ESOMEPRAZOLE
+Antiperistaltic,CHEMBL1201321,Small molecule,DIFENOXIN
+Detergent,CHEMBL1201322,Small molecule,THONZONIUM
+,CHEMBL1201323,Small molecule,BETAZOLE
+,CHEMBL1201325,Small molecule,HEXOCYCLIUM
+,CHEMBL1201327,Small molecule,ACETRIZOIC ACID
+Antipsychotic,CHEMBL1201328,Small molecule,CARPHENAZINE
+Antihypertensive,CHEMBL1201329,Small molecule,TRIMETHAPHAN
+Anticholinergic,CHEMBL1201335,Small molecule,GLYCOPYRRONIUM
+Anticonvulsant,CHEMBL1201336,Small molecule,FOSPHENYTOIN
+Anticholinergic (ophthalmic),CHEMBL1201338,Small molecule,CYCLOPENTOLATE
+,CHEMBL1201340,Small molecule,DIPHEMANIL
+Cholinergic (ophthalmic),CHEMBL1201341,Small molecule,ECHOTHIOPHATE
+Relaxant (smooth muscle),CHEMBL1201342,Small molecule,METHIXENE
+,CHEMBL1201345,Small molecule,TETRADECYL SULFURIC ACID
+Anti-Inflammatory (gastrointestinal),CHEMBL1201346,Small molecule,BALSALAZIDE
+Analgesic (narcotic),CHEMBL1201347,Small molecule,ANILERIDINE
+Vitamin (prothrombogenic),CHEMBL1201348,Small molecule,MENADIOL DIPHOSPHORIC ACID
+Relaxant (skeletal muscle); Synergist (succinylcholine),CHEMBL1201349,Small molecule,HEXAFLUORENIUM
+Neuromuscular Blocking Agent,CHEMBL1201352,Small molecule,RAPACURONIUM
+Antihistaminic,CHEMBL1201353,Small molecule,DEXCHLORPHENIRAMINE
+,CHEMBL1201354,Small molecule,TRIDIHEXETHYL
+Oxytocic,CHEMBL1201356,Small molecule,METHYLERGONOVINE
+Diagnostic Aid (radiopaque medium),CHEMBL1201458,Small molecule,ETHIODIZED OIL
+,CHEMBL1201525,Small molecule,TECHNETIUM TC-99M POLYPHOSPHATE KIT
+Anti-Inflammatory (interstitial cystitis),CHEMBL1201516,Small molecule,PENTOSAN POLYSULFATE SODIUM
+,CHEMBL1201531,Small molecule,VERATRUM VIRIDE ROOT
+Smoking Cessation Adjunct,CHEMBL1201536,Small molecule,NICOTINE POLACRILEX
+,CHEMBL1201480,Small molecule,POLYTETRAFLUOROETHYLENE
+,CHEMBL1201444,Small molecule,CRYPTENAMINE ACETATES
+,CHEMBL1201454,Small molecule,ALSEROXYLON
+Antitussive,CHEMBL1201461,Small molecule,DEXTROMETHORPHAN POLISTIREX
+Antitussive,CHEMBL1201463,Small molecule,CODEINE POLISTIREX
+Antitussive,CHEMBL1201470,Small molecule,HYDROCODONE POLISTIREX
+,CHEMBL1201477,Small molecule,POLYESTRADIOL PHOSPHATE
+,CHEMBL1201486,Small molecule,QUINIDINE POLYGALACTURONATE
+Adrenergic (vasoconstrictor),CHEMBL1201535,Small molecule,PHENYLPROPANOLAMINE POLISTIREX
+,CHEMBL1201625,Small molecule,CHOLESTYRAMINE
+Antihyperphosphatemic,CHEMBL1201492,Small molecule,SEVELAMER HYDROCHLORIDE
+Antibacterial,CHEMBL1201469,Small molecule,GRAMICIDIN
+,CHEMBL1201517,Small molecule,PERFLUOROPOLYMETHYLISOPROPYL ETHER
+Pharmaceutic Necessity,CHEMBL1201485,Small molecule,SOYBEAN OIL
+Antibacterial,CHEMBL1201441,Small molecule,COLISTIMETHATE SODIUM
+,CHEMBL1201479,Small molecule,POLYETHYLENE GLYCOL 3350
+Antihistaminic,CHEMBL1201659,Small molecule,CHLORPHENIRAMINE POLISTIREX
+,CHEMBL1201466,Small molecule,"ESTROGENS, CONJUGATED SYNTHETIC A"
+Ion-Exchange Resin (potassium),CHEMBL1201484,Small molecule,SODIUM POLYSTYRENE SULFONATE
+,CHEMBL1201658,Small molecule,ALKAVERVIR
+Estrogen,CHEMBL1201468,Small molecule,"ESTROGENS, ESTERIFIED"
+Antihyperlipidemic,CHEMBL1201473,Small molecule,COLESEVELAM HYDROCHLORIDE
+,CHEMBL1201603,Small molecule,CRYPTENAMINE TANNATES
+,CHEMBL1201467,Small molecule,"SYNTHETIC CONJUGATED ESTROGENS, B"
+Antineoplastic,CHEMBL1201481,Small molecule,PORFIMER SODIUM
+Nasal Decongestant,CHEMBL1201483,Small molecule,PSEUDOEPHEDRINE POLISTIREX
+,CHEMBL1201493,Small molecule,SIMETHICONE-CELLULOSE
+Immunomodulator,CHEMBL1201507,Small molecule,GLATIRAMER ACETATE
+Estrogen,CHEMBL1201649,Small molecule,"ESTROGENS, CONJUGATED"
+,CHEMBL1201728,Small molecule,DESVENLAFAXINE SUCCINATE
+,CHEMBL1201729,Small molecule,DRONEDARONE HYDROCHLORIDE
+,CHEMBL1201731,Small molecule,NEBIVOLOL HYDROCHLORIDE
+,CHEMBL1201733,Small molecule,PAZOPANIB HYDROCHLORIDE
+,CHEMBL1201734,Small molecule,BENDAMUSTINE HYDROCHLORIDE
+,CHEMBL1201735,Small molecule,BUPROPION HYDROBROMIDE
+,CHEMBL1201740,Small molecule,NILOTINIB HYDROCHLORIDE MONOHYDRATE
+,CHEMBL1201743,Small molecule,SAXAGLIPTIN HYDROCHLORIDE
+,CHEMBL1201745,Small molecule,CHOLINE FENOFIBRATE
+,CHEMBL1201746,Small molecule,PRALATREXATE
+,CHEMBL1201747,Small molecule,ALCAFTADINE
+,CHEMBL1201748,Small molecule,CABAZITAXEL
+Anti-Inflammatory,CHEMBL1201749,Small molecule,DIFLUPREDNATE
+,CHEMBL1201752,Small molecule,IXABEPILONE
+,CHEMBL1201753,Small molecule,PITAVASTATIN
+,CHEMBL1201754,Small molecule,RUFINAMIDE
+,CHEMBL1201758,Small molecule,BEPOTASTINE
+,CHEMBL1201759,Small molecule,BEPOTASTINE BESYLATE
+,CHEMBL1201760,Small molecule,BESIFLOXACIN
+,CHEMBL1201761,Small molecule,BESIFLOXACIN HYDROCHLORIDE
+,CHEMBL1201764,Small molecule,FESOTERODINE
+,CHEMBL1201765,Small molecule,FESOTERODINE FUMARATE
+,CHEMBL1201766,Small molecule,FOSPROPOFOL
+,CHEMBL1201770,Small molecule,METHYLNALTREXONE BROMIDE
+,CHEMBL1201772,Small molecule,PRASUGREL
+,CHEMBL1201773,Small molecule,PRASUGREL HYDROCHLORIDE
+,CHEMBL1201774,Small molecule,SAPROPTERIN
+,CHEMBL1201775,Small molecule,SAPROPTERIN DIHYDROCHLORIDE
+,CHEMBL1201776,Small molecule,TAPENTADOL
+,CHEMBL1201777,Small molecule,TAPENTADOL HYDROCHLORIDE
+Diagnostic Aid (penicillin sensitivity),CHEMBL1201779,Small molecule,BENZYLPENICILLOYL POLYLYSINE
+,CHEMBL1201780,Small molecule,CARGLUMIC ACID
+,CHEMBL1201782,Small molecule,FOSAPREPITANT DIMEGLUMINE
+,CHEMBL1201784,Small molecule,HEXAMINOLEVULINATE
+,CHEMBL1201785,Small molecule,HEXAMINOLEVULINATE HYDROCHLORIDE
+Pharmaceutic Aid (surfactant),CHEMBL1201786,Small molecule,LAPYRIUM
+Pharmaceutic Aid (surfactant),CHEMBL1201787,Small molecule,LAPYRIUM CHLORIDE
+Vitamin,CHEMBL1201794,Small molecule,RIBOFLAVIN 5'-PHOSPHATE
+,CHEMBL1201798,Small molecule,SEVELAMER
+,CHEMBL1201799,Small molecule,SEVELAMER CARBONATE
+,CHEMBL1201863,Small molecule,DEXLANSOPRAZOLE
+,CHEMBL1201864,Small molecule,DIENOGEST
+Anti-Inflammatory,CHEMBL1201891,Small molecule,DEFLAZACORT
+Anti-Adrenergic (beta-receptor); Antihypertensive,CHEMBL1204165,Small molecule,DILEVALOL HYDROCHLORIDE
+,CHEMBL1206690,Small molecule,PARECOXIB
+,CHEMBL1208155,Small molecule,ELAGOLIX
+,CHEMBL1208422,Small molecule,ROSE BENGAL FREE ACID
+Antidote (to cyanide poisoning),CHEMBL1208642,Small molecule,THIOSULFURIC ACID
+Relaxant (smooth muscle),CHEMBL1208646,Small molecule,THEOPHYLLINE GLYCINATE
+Oxytocic,CHEMBL1213135,Small molecule,ERGONOVINE MALEATE
+Cholinergic (ophthalmic),CHEMBL1213136,Small molecule,PILOCARPINE NITRATE
+,CHEMBL1213165,Small molecule,DOLUTEGRAVIR SODIUM
+,CHEMBL1213250,Small molecule,CEFTOLOZANE SULFATE
+Tranquilizer (minor),CHEMBL1213252,Small molecule,CLORAZEPIC ACID
+Analgesic,CHEMBL1213351,Small molecule,PROPOXYPHENE
+,CHEMBL1214124,Small molecule,PERAMPANEL
+Antibacterial,CHEMBL1214185,Small molecule,ROXITHROMYCIN
+Pharmaceutic Aid (tablet coating agent); Pharmaceutic Aid (tablet binder),CHEMBL1222250,Small molecule,DEXTROSE
+,CHEMBL1229211,Small molecule,DOLUTEGRAVIR
+,CHEMBL1229517,Small molecule,VEMURAFENIB
+,CHEMBL1229846,Small molecule,PHENOXYETHANOL
+Stimulant (central and respiratory),CHEMBL1229908,Small molecule,ETHAMIVAN
+,CHEMBL1229937,Small molecule,DIHYDROXYACETONE
+,CHEMBL1230314,Small molecule,ESTETROL
+,CHEMBL1231052,Small molecule,ARSENIC
+,CHEMBL1231574,Small molecule,LEVOMEFOLIC ACID
+,CHEMBL1231723,Small molecule,POLIDOCANOL
+Hemostatic,CHEMBL1232131,Small molecule,DOBESILIC ACID
+,CHEMBL1232801,Small molecule,FOLINIC ACID
+Radioactive Agent,CHEMBL1233877,Small molecule,KRYPTON
+Anesthetic (inhalation),CHEMBL1234579,Small molecule,NITROUS OXIDE
+"Gas, Medicinal",CHEMBL1234886,Small molecule,OXYGEN
+"Diagnostic Aid; Radioactive Agent; Gas, Medicinal,Radioactive Agent",CHEMBL1236802,Small molecule,XENON
+,CHEMBL1237021,Small molecule,LURASIDONE
+Analgesic,CHEMBL1237044,Small molecule,TRAMADOL
+Antineoplastic,CHEMBL1237054,Small molecule,PLICAMYCIN
+Analgesic (narcotic),CHEMBL1237055,Small molecule,HYDROMORPHONE HYDROCHLORIDE
+,CHEMBL1237061,Small molecule,PITAVASTATIN CALCIUM
+Analgesic,CHEMBL1237065,Small molecule,TRAMADOL HYDROCHLORIDE
+Replenisher (calcium),CHEMBL1237066,Small molecule,CALCIUM GLUCEPTATE
+,CHEMBL1237070,Small molecule,MICAFUNGIN SODIUM
+,CHEMBL1237072,Small molecule,DIRITHROMYCIN
+Anti-Emetic,CHEMBL1237080,Small molecule,GRANISETRON HYDROCHLORIDE
+Antihypertensive,CHEMBL1237082,Small molecule,MECAMYLAMINE HYDROCHLORIDE
+Neuromuscular Blocking Agent,CHEMBL1237099,Small molecule,DOXACURIUM CHLORIDE
+Antihistaminic,CHEMBL1237102,Small molecule,LEVOCABASTINE HYDROCHLORIDE
+Analgesic,CHEMBL1237104,Small molecule,PROPOXYPHENE HYDROCHLORIDE
+Oxytocic,CHEMBL1237105,Small molecule,CARBOPROST TROMETHAMINE
+,CHEMBL1237111,Small molecule,TECHNETIUM TC 99M BICISATE
+,CHEMBL1237119,Small molecule,TREPROSTINIL
+Oxytocic,CHEMBL1237122,Small molecule,CARBOPROST
+Neuromuscular Blocking Agent,CHEMBL1237123,Small molecule,DOXACURIUM
+,CHEMBL1237132,Small molecule,CLEVIDIPINE
+Antidepressant,CHEMBL1237135,Small molecule,MAPROTILINE HYDROCHLORIDE
+,CHEMBL1241951,Small molecule,LETERMOVIR
+,CHEMBL1254682,Small molecule,LEVALLORPHAN
+Anesthetic (local),CHEMBL1255654,Small molecule,TETRACAINE HYDROCHLORIDE
+,CHEMBL1255739,Small molecule,METHAPYRILENE HYDROCHLORIDE
+,CHEMBL1255800,Small molecule,FIDAXOMICIN
+,CHEMBL1255943,Small molecule,GLUTAMIC ACID HYDROCHLORIDE
+Anti-Urolithic (cystine calculi),CHEMBL1256137,Small molecule,CYSTEAMINE HYDROCHLORIDE
+Antipyretic; Analgesic; Anti-Inflammatory,CHEMBL1256391,Small molecule,PIRFENIDONE
+Adrenergic (vasoconstrictor),CHEMBL1256400,Small molecule,XYLOMETAZOLINE HYDROCHLORIDE
+,CHEMBL1256696,Small molecule,CARBETAPENTANE CITRATE
+Bronchodilator,CHEMBL1256786,Small molecule,FORMOTEROL
+Antitussive,CHEMBL1256818,Small molecule,DEXTROMETHORPHAN HYDROBROMIDE
+,CHEMBL1256819,Small molecule,ANTAZOLINE HYDROCHLORIDE
+,CHEMBL1256841,Small molecule,NIALAMIDE
+Antidepressant,CHEMBL1256842,Small molecule,NOMIFENSINE MALEATE
+,CHEMBL1256901,Small molecule,BUTYLSCOPOLAMINE BROMIDE
+Adrenergic (ophthalmic),CHEMBL1256958,Small molecule,EPINEPHRINE BITARTRATE
+,CHEMBL1256987,Small molecule,FUSIDATE SODIUM
+,CHEMBL1257015,Small molecule,PICOTAMIDE
+,CHEMBL1257040,Small molecule,TRIFLUOPERAZINE HYDROCHLORIDE
+,CHEMBL1257051,Small molecule,TEDIZOLID
+,CHEMBL1257073,Small molecule,TECOVIRIMAT
+,CHEMBL1259059,Small molecule,SOFOSBUVIR
+,CHEMBL1269025,Small molecule,EDOXABAN
+,CHEMBL1276308,Small molecule,MIFEPRISTONE
+,CHEMBL1287853,Small molecule,FEDRATINIB
+,CHEMBL1289494,Small molecule,TIVOZANIB
+,CHEMBL1289601,Small molecule,LENVATINIB
+,CHEMBL1289926,Small molecule,AXITINIB
+,CHEMBL1314751,Small molecule,PROCHLORPERAZINE MALEATE
+,CHEMBL1315867,Small molecule,TERBUTALINE SULFATE
+,CHEMBL1318287,Small molecule,PENTOLINIUM TARTRATE
+Expectorant; Mucolytic,CHEMBL1319139,Small molecule,BROMHEXINE HYDROCHLORIDE
+Anticholinergic,CHEMBL1319362,Small molecule,HOMATROPINE HYDROBROMIDE
+,CHEMBL1322884,Small molecule,PHENOTHRIN
+Ultraviolet Screen,CHEMBL1323699,Small molecule,PADIMATE O
+Anti-Emetic,CHEMBL1324714,Small molecule,CYCLIZINE HYDROCHLORIDE
+,CHEMBL1329455,Small molecule,MOLSIDOMINE
+,CHEMBL1329567,Small molecule,XAMOTEROL FUMARATE
+,CHEMBL1330729,Small molecule,CLENBUTEROL HYDROCHLORIDE
+,CHEMBL1330792,Small molecule,ACETARSONE
+Anticholinergic,CHEMBL1331216,Small molecule,HYOSCYAMINE
+Vasodilator (coronary),CHEMBL1334033,Small molecule,PERHEXILINE MALEATE
+Disinfectant,CHEMBL1334078,Small molecule,SODIUM HYPOCHLORITE
+,CHEMBL1334860,Small molecule,DILOXANIDE FUROATE
+,CHEMBL1354199,Small molecule,METHSCOPOLAMINE BROMIDE
+,CHEMBL1357648,Small molecule,AMODIAQUINE HYDROCHLORIDE
+,CHEMBL1364144,Small molecule,METHYLPREDNISOLONE ACETATE
+,CHEMBL1364551,Small molecule,MINAPRINE HYDROCHLORIDE
+,CHEMBL1367605,Small molecule,RITODRINE HYDROCHLORIDE
+Relaxant (smooth muscle),CHEMBL1370561,Small molecule,AMINOPHYLLINE
+Aldosterone Antagonist,CHEMBL1371200,Small molecule,CANRENOATE POTASSIUM
+,CHEMBL1371770,Small molecule,PIRIBEDIL
+Vasodilator,CHEMBL1372950,Small molecule,NICERGOLINE
+Antihypertensive,CHEMBL1373254,Small molecule,CYCLOPENTHIAZIDE
+Antitussive,CHEMBL1374379,Small molecule,BENZONATATE
+,CHEMBL1375743,Small molecule,ZIPRASIDONE HYDROCHLORIDE
+,CHEMBL1378024,Small molecule,PROTIONAMIDE
+"Anti-Infective, Topical",CHEMBL1382627,Small molecule,"SULFADIAZINE, SILVER"
+Diuretic,CHEMBL1398126,Small molecule,AMILORIDE HYDROCHLORIDE
+,CHEMBL1401367,Small molecule,PIPENZOLATE BROMIDE
+Laxative,CHEMBL1402684,Small molecule,OXYPHENISATIN ACETATE
+Analgesic,CHEMBL1407915,Small molecule,NEFOPAM HYDROCHLORIDE
+Anticholinergic,CHEMBL1408594,Small molecule,ALVERINE CITRATE
+Sedative-Hypnotic,CHEMBL1410743,Small molecule,PARALDEHYDE
+,CHEMBL1410808,Small molecule,CRESOL
+Antibacterial,CHEMBL1411731,Small molecule,TALAMPICILLIN HYDROCHLORIDE
+,CHEMBL1411979,Small molecule,METHAPYRILENE
+Antineoplastic,CHEMBL1417019,Small molecule,MITOXANTRONE HYDROCHLORIDE
+,CHEMBL1418176,Small molecule,METHANDROSTENOLONE
+,CHEMBL1434513,Small molecule,NOREPINEPHRINE BITARTRATE
+Pharmaceutic Aid (antimicrobial agent),CHEMBL1439973,Small molecule,CHLOROBUTANOL
+,CHEMBL1441059,Small molecule,ALBUTEROL SULFATE
+Antidepressant,CHEMBL1442422,Small molecule,DIBENZEPIN
+Relaxant (smooth muscle),CHEMBL1446650,Small molecule,MEBEVERINE HYDROCHLORIDE
+Vasodilator,CHEMBL1446813,Small molecule,BETAHISTINE HYDROCHLORIDE
+"Anti-Infective, Topical",CHEMBL1447476,Small molecule,BITHIONOLATE SODIUM
+Radioactive Agent,CHEMBL1447815,Small molecule,INDIUM CHLORIDE
+,CHEMBL1448187,Small molecule,FLUPHENAZINE HYDROCHLORIDE
+Anti-Infective,CHEMBL1449676,Small molecule,ORNIDAZOLE
+,CHEMBL1451116,Small molecule,IODOFORM
+,CHEMBL1452696,Small molecule,FEPRAZONE
+"Repellant, Arthropod",CHEMBL1453317,Small molecule,DIETHYLTOLUAMIDE
+Pharmaceutic Aid (acidifying agent),CHEMBL1455497,Small molecule,MALIC ACID
+Aldosterone Antagonist,CHEMBL1463345,Small molecule,CANRENONE
+,CHEMBL1472989,Small molecule,BISOPROLOL FUMARATE
+,CHEMBL1474889,Small molecule,CLOBUTINOL
+,CHEMBL1474963,Small molecule,BENZARONE
+"Stool Softener,Stool Softener; Pharmaceutic Aid (surfactant)",CHEMBL1477036,Small molecule,DOCUSATE
+Analgesic,CHEMBL1477274,Small molecule,MEPTAZINOL HYDROCHLORIDE
+,CHEMBL1479848,Small molecule,ACETOMENAPHTHONE
+,CHEMBL1480987,Small molecule,CYCLANDELATE
+"Anti-Infective, Topical",CHEMBL1484251,Small molecule,CHLORHEXIDINE HYDROCHLORIDE
+,CHEMBL1491306,Small molecule,BENZYLTHIOURACIL
+Antidepressant,CHEMBL1492500,Small molecule,DOTHIEPIN
+,CHEMBL1511957,Small molecule,PIPERIDOLATE HYDROCHLORIDE
+,CHEMBL1512677,Small molecule,AMYLMETACRESOL
+Hemostatic,CHEMBL1514715,Small molecule,ETHAMSYLATE
+,CHEMBL1516474,Small molecule,TEGASEROD MALEATE
+Adrenergic,CHEMBL1523964,Small molecule,EPHEDRINE SULFATE
+,CHEMBL1524273,Small molecule,PHTHALYLSULFATHIAZOLE
+Antibacterial,CHEMBL1525826,Small molecule,SULFALENE
+Anti-Inflammatory; Antipyretic; Analgesic,CHEMBL1528134,Small molecule,BENZYDAMINE HYDROCHLORIDE
+,CHEMBL1528839,Small molecule,PHENFORMIN HYDROCHLORIDE
+,CHEMBL1530428,Small molecule,DEXAMETHASONE ACETATE
+,CHEMBL1533310,Small molecule,HISTAMINE DIHYDROCHLORIDE
+Vasodilator,CHEMBL1534525,Small molecule,MIBEFRADIL DIHYDROCHLORIDE
+,CHEMBL1551365,Small molecule,ETHYL NITRITE [SPIRIT]
+,CHEMBL1560089,Small molecule,XANTHINOL NIACINATE
+,CHEMBL1562610,Small molecule,MECLOFENAMATE SODIUM
+Anti-Inflammatory,CHEMBL1565476,Small molecule,APAZONE
+,CHEMBL1567328,Small molecule,OMEPRAZOLE MAGNESIUM
+,CHEMBL1568057,Small molecule,METAPROTERENOL SULFATE
+,CHEMBL1568276,Small molecule,NAFCILLIN SODIUM
+,CHEMBL1568698,Small molecule,GANAXOLONE
+Anti-Inflammatory; Analgesic,CHEMBL1569487,Small molecule,LORNOXICAM
+Antifungal; Antibacterial,CHEMBL1571863,Small molecule,ISOCONAZOLE
+,CHEMBL1590946,Small molecule,CEFSULODIN SODIUM
+,CHEMBL1592101,Small molecule,BISMUTH SUBGALLATE
+Antihypertensive,CHEMBL1593558,Small molecule,DEBRISOQUIN SULFATE
+Antitussive,CHEMBL1593906,Small molecule,LEVOPROPOXYPHENE NAPSYLATE
+Anthelmintic,CHEMBL1599768,Small molecule,PYRANTEL PAMOATE
+,CHEMBL1601669,Small molecule,ALFACALCIDOL
+,CHEMBL1607273,Small molecule,CETIRIZINE HYDROCHLORIDE
+Antirickettsial; Antibacterial,CHEMBL1607480,Small molecule,OXYTETRACYCLINE HYDROCHLORIDE
+,CHEMBL1614637,Small molecule,PHENETHICILLIN
+,CHEMBL1614701,Small molecule,SELUMETINIB
+Antipsychotic,CHEMBL1615350,Small molecule,CLOMACRAN
+,CHEMBL1615369,Small molecule,DABIGATRAN ETEXILATE MESYLATE
+,CHEMBL1615371,Small molecule,LEVOMEFOLATE CALCIUM
+,CHEMBL1615372,Small molecule,LURASIDONE HYDROCHLORIDE
+,CHEMBL1615374,Small molecule,VILAZODONE HYDROCHLORIDE
+Antihistaminic,CHEMBL1615438,Small molecule,LEVOCABASTINE
+,CHEMBL1615439,Small molecule,PHENDIMETRAZINE
+Diagnostic Aid (radiopaque medium),CHEMBL1615487,Small molecule,IODOXAMIC ACID
+Radioactive Agent; Diagnostic Aid,CHEMBL1615779,Small molecule,IOBENGUANE I 131
+Disinfectant,CHEMBL1616046,Small molecule,HYPOCHLOROUS ACID
+Aldosterone Antagonist,CHEMBL1616951,Small molecule,CANRENOATE
+Anticholinergic,CHEMBL1618018,Small molecule,HOMATROPINE
+,CHEMBL1618102,Small molecule,BUTYLSCOPOLAMINE
+,CHEMBL1619528,Small molecule,PIPENZOLATE
+Antibacterial,CHEMBL1619785,Small molecule,TALAMPICILLIN
+Bronchodilator,CHEMBL1621597,Small molecule,IPRATROPIUM
+,CHEMBL1623992,Small molecule,PIPERIDOLATE
+,CHEMBL1624126,Small molecule,XANTHINOL
+,CHEMBL1625607,Small molecule,MEBHYDROLIN
+Anthelmintic,CHEMBL1626223,Small molecule,PYRANTEL
+,CHEMBL1626570,Small molecule,HEXOCYCLIUM METHYLSULFATE
+,CHEMBL1627367,Small molecule,FLUOROESTRADIOL
+Antidepressant,CHEMBL1628227,Small molecule,DOXEPIN
+Diagnostic Aid (corneal trauma indicator),CHEMBL1628233,Small molecule,FLUORESCEIN SODIUM
+Antidepressant,CHEMBL1628234,Small molecule,DOXEPIN HYDROCHLORIDE
+Antibacterial,CHEMBL1628385,Small molecule,PROCAINE BENZYLPENICILLIN
+,CHEMBL1628502,Small molecule,GABAPENTIN ENACARBIL
+,CHEMBL1628504,Small molecule,RILPIVIRINE HYDROCHLORIDE
+,CHEMBL1631694,Small molecule,FEXINIDAZOLE
+,CHEMBL1644030,Small molecule,POTASSIUM BROMIDE
+,CHEMBL1644694,Small molecule,SODIUM BROMIDE
+"Diagnostic Aid (thyroid function determination); Radioactive Agent,Diagnostic Aid (thyroid function determination); Radioactive Agent; Antineoplastic,Radioactive Agent; Diagnostic Aid (thyroid function determination),Supplement (iodine)",CHEMBL1644695,Small molecule,SODIUM IODIDE
+,CHEMBL1650559,Small molecule,PLAZOMICIN
+,CHEMBL1650619,Small molecule,PYRITHIONE
+Antibacterial,CHEMBL1650818,Small molecule,AMDINOCILLIN PIVOXIL
+Antineoplastic,CHEMBL1651906,Small molecule,STREPTOZOCIN
+Antifungal,CHEMBL1651990,Small molecule,FENTICONAZOLE
+Expectorant,CHEMBL1651998,Small molecule,TERPIN
+,CHEMBL1673148,Small molecule,BEPHENIUM HYDROXYNAPHTHOATE
+,CHEMBL1683544,Small molecule,ERIBULIN MESYLATE
+,CHEMBL1683590,Small molecule,ERIBULIN
+,CHEMBL1689063,Small molecule,AVIBACTAM
+,CHEMBL1689772,Small molecule,OMADACYCLINE
+,CHEMBL1697686,Small molecule,CLOFOREX
+Antibacterial,CHEMBL1697708,Small molecule,MEZLOCILLIN SODIUM
+Glucocorticoid,CHEMBL1697717,Small molecule,CARBENOXOLONE SODIUM
+,CHEMBL1697733,Small molecule,ACETYLCARNITINE
+,CHEMBL1697737,Small molecule,CLOTIAZEPAM
+,CHEMBL1697744,Small molecule,ERDOSTEINE
+,CHEMBL1697751,Small molecule,ISAXONINE PHOSPHATE
+Antihypertensive; Diuretic,CHEMBL1697760,Small molecule,MUZOLIMINE
+,CHEMBL1697768,Small molecule,SODIUM PICOSULFATE
+,CHEMBL1697782,Small molecule,METHYLPREDNISOLONE ACEPONATE
+Antidiabetic,CHEMBL1697838,Small molecule,GLYMIDINE
+,CHEMBL1697841,Small molecule,ISOMETHEPTENE
+,CHEMBL1697843,Small molecule,METILDIGOXIN
+,CHEMBL1697844,Small molecule,NICOFURANOSE
+,CHEMBL1697851,Small molecule,THIOPROPAZATE
+,CHEMBL1697856,Small molecule,BUCETIN
+,CHEMBL1705709,Small molecule,SODIUM FEREDETATE
+,CHEMBL1707007,Small molecule,GLUCOSAMINE HYDROCHLORIDE
+Antidepressant,CHEMBL1711280,Small molecule,DOTHIEPIN HYDROCHLORIDE
+,CHEMBL1712842,Small molecule,MEPAZINE ACETATE
+,CHEMBL1722209,Small molecule,TOLTERODINE TARTRATE
+,CHEMBL1723241,Small molecule,SULFACETAMIDE SODIUM
+,CHEMBL1725730,Small molecule,LEVOMEPROMAZINE MALEATE
+,CHEMBL1727605,Small molecule,BISMUTH SUBCARBONATE
+,CHEMBL1738797,Small molecule,ALECTINIB
+Antitussive,CHEMBL1738990,Small molecule,LEVOPROPOXYPHENE
+,CHEMBL1740513,Small molecule,ISAXONINE
+,CHEMBL1740659,Small molecule,FURSULTIAMINE
+,CHEMBL1741134,Small molecule,PICOSULFURIC ACID
+,CHEMBL1742423,Small molecule,BILASTINE
+Anti-Adrenergic (beta-receptor),CHEMBL1742424,Small molecule,CELIPROLOL HYDROCHLORIDE
+,CHEMBL1742471,Small molecule,EBROTIDINE
+,CHEMBL1744033,Small molecule,BISMUTH SUBCITRATE
+,CHEMBL1744447,Small molecule,ROSUVASTATIN CALCIUM
+,CHEMBL1770248,Small molecule,ERTUGLIFLOZIN
+,CHEMBL1774461,Small molecule,FLORBETAPIR F 18
+Antihypertensive,CHEMBL1788132,Small molecule,LOFEXIDINE HYDROCHLORIDE
+,CHEMBL1788385,Small molecule,TILBROQUINOL
+,CHEMBL1788386,Small molecule,TETRAMETHRIN
+,CHEMBL1788403,Small molecule,BIOALLETHRIN
+,CHEMBL1789842,Small molecule,INDACATEROL MALEATE
+,CHEMBL1789941,Small molecule,RUXOLITINIB
+Antagonist (to histamine-H2 receptors),CHEMBL1790041,Small molecule,RANITIDINE
+,CHEMBL1795071,Small molecule,RUXOLITINIB PHOSPHATE
+"Gases, Diluent for",CHEMBL1796997,Small molecule,HELIUM
+,CHEMBL1800159,Small molecule,RELUGOLIX
+Disinfectant,CHEMBL1801800,Small molecule,METABROMSALAN
+,CHEMBL1834657,Small molecule,INFIGRATINIB PHOSPHATE
+,CHEMBL1852688,Small molecule,INFIGRATINIB
+,CHEMBL1863513,Small molecule,INGENOL MEBUTATE
+Progestin,CHEMBL1868702,Small molecule,GESTRINONE
+Antihistaminic,CHEMBL1870768,Small molecule,DIMETHINDENE MALEATE
+,CHEMBL1873475,Small molecule,IBRUTINIB
+,CHEMBL1874750,Small molecule,CINEPAZIDE
+Appetite Suppressant (systemic),CHEMBL1887891,Small molecule,DEXFENFLURAMINE HYDROCHLORIDE
+,CHEMBL1888176,Small molecule,TROSPIUM
+,CHEMBL1889140,Small molecule,ROPIVACAINE HYDROCHLORIDE
+,CHEMBL1889436,Small molecule,OUABAIN
+,CHEMBL1898387,Small molecule,MEXENONE
+,CHEMBL1900528,Small molecule,TIOTROPIUM
+Stool Softener; Pharmaceutic Aid (surfactant),CHEMBL1905872,Small molecule,DOCUSATE SODIUM
+Antihypertensive (vasodilator),CHEMBL1908307,Small molecule,FLOSEQUINAN
+Prostaglandin,CHEMBL1908315,Small molecule,GEMEPROST
+Dental Caries Prophylactic,CHEMBL1908359,Small molecule,SODIUM MONOFLUOROPHOSPHATE
+,CHEMBL1908360,Small molecule,EVEROLIMUS
+Antidote (to folic acid antagonists),CHEMBL1908361,Small molecule,LEVOLEUCOVORIN CALCIUM
+,CHEMBL1908362,Small molecule,GADOFOSVESET TRISODIUM
+,CHEMBL1908370,Small molecule,FINAFLOXACIN
+,CHEMBL1908373,Small molecule,ONAPRISTONE
+Anthelmintic,CHEMBL1908377,Small molecule,PYRVINIUM PAMOATE
+,CHEMBL1908391,Small molecule,MASITINIB
+Antidote (to folic acid antagonists),CHEMBL1908841,Small molecule,LEVOLEUCOVORIN
+,CHEMBL1908843,Small molecule,GADOFOSVESET
+,CHEMBL1908906,Small molecule,FLORBETABEN
+,CHEMBL1908917,Small molecule,FLUCICLOVINE
+,CHEMBL1908919,Small molecule,FLORBETAPIR
+Radioactive Agent,CHEMBL1909055,Small molecule,COBALTOUS CHLORIDE
+,CHEMBL1909072,Small molecule,PIPAMAZINE
+,CHEMBL1909079,Small molecule,STANNOUS FLUORIDE
+,CHEMBL1909282,Small molecule,FENCLOZIC ACID
+,CHEMBL1909283,Small molecule,MEBANAZINE
+,CHEMBL1909285,Small molecule,NITREFAZOLE
+,CHEMBL1909286,Small molecule,PHENOXYPROPAZINE
+,CHEMBL1909288,Small molecule,TRIACETYLDIPHENOLISATIN
+,CHEMBL1909289,Small molecule,XENAZOIC ACID
+,CHEMBL1909298,Small molecule,PINAVERIUM BROMIDE
+,CHEMBL1909324,Small molecule,PINAVERIUM
+,CHEMBL1945778,Small molecule,IOFLUPANE
+,CHEMBL1946170,Small molecule,REGORAFENIB
+Antibacterial,CHEMBL1950576,Small molecule,DIHYDROSTREPTOMYCIN
+,CHEMBL1951071,Small molecule,ARFORMOTEROL TARTRATE
+,CHEMBL1951095,Small molecule,ERAVACYCLINE
+,CHEMBL1963681,Small molecule,AVANAFIL
+,CHEMBL1963683,Small molecule,TAFLUPROST
+,CHEMBL1983268,Small molecule,ENTRECTINIB
+Anticonvulsant,CHEMBL1983350,Small molecule,STIRIPENTOL
+,CHEMBL1985928,Small molecule,METHOXYPHENAMINE HYDROCHLORIDE
+Vasodilator,CHEMBL1987462,Small molecule,BAMETHAN
+,CHEMBL1998966,Small molecule,PIFOXIME
+,CHEMBL2000813,Small molecule,RIMITEROL HYDROBROMIDE
+"Anti-Infective, Topical; Pharmaceutic Aid (preservative)",CHEMBL2003538,Small molecule,CETYLPYRIDINIUM CHLORIDE
+,CHEMBL2004297,Small molecule,SULFIRAM
+,CHEMBL2005186,Small molecule,BELUMOSUDIL
+,CHEMBL2009089,Small molecule,SELENIOUS ACID
+,CHEMBL2010412,Small molecule,ACRIFLAVINE
+,CHEMBL2010507,Small molecule,METHOXYPHENAMINE
+,CHEMBL2010601,Small molecule,IVACAFTOR
+,CHEMBL2021422,Small molecule,FOSPROPOFOL DISODIUM
+Anticonvulsant; Replenisher (electrolyte); Laxative,CHEMBL2021423,Small molecule,MAGNESIUM SULFATE ANHYDROUS
+,CHEMBL2021424,Small molecule,POTASSIUM SULFATE
+,CHEMBL2021430,Small molecule,DEXAMETHASONE SODIUM PHOSPHATE
+,CHEMBL2023895,Small molecule,HYDROXYSTILBAMIDINE ISETHIONATE
+,CHEMBL2023898,Small molecule,DACLATASVIR
+,CHEMBL2024517,Small molecule,CARIPRAZINE HYDROCHLORIDE
+,CHEMBL2028019,Small molecule,CARIPRAZINE
+,CHEMBL2028661,Small molecule,AZILSARTAN MEDOXOMIL
+,CHEMBL2028663,Small molecule,DABRAFENIB
+,CHEMBL2035187,Small molecule,PACRITINIB
+,CHEMBL2040682,Small molecule,CICLESONIDE
+,CHEMBL2042122,Small molecule,FLUTEMETAMOL F 18
+,CHEMBL2043437,Small molecule,GLASDEGIB
+,CHEMBL2048028,Small molecule,LIFITEGRAST
+,CHEMBL2048484,Small molecule,CANAGLIFLOZIN
+,CHEMBL2062163,Small molecule,PHENDIMETRAZINE TARTRATE
+Adrenergic (ophthalmic),CHEMBL2062257,Small molecule,BRIMONIDINE TARTRATE
+,CHEMBL2062259,Small molecule,VARENICLINE TARTRATE
+Adrenergic,CHEMBL2062262,Small molecule,METARAMINOL BITARTRATE
+,CHEMBL2062263,Small molecule,CYSTEAMINE BITARTRATE
+,CHEMBL2062264,Small molecule,PHENYLEPHRINE BITARTRATE
+Analgesic,CHEMBL2062266,Small molecule,DIHYDROCODEINE BITARTRATE
+,CHEMBL2062276,Small molecule,LEVALLORPHAN TARTRATE
+,CHEMBL2062335,Small molecule,METOPROLOL TARTRATE
+,CHEMBL2063090,Small molecule,GRAZOPREVIR
+,CHEMBL2064032,Small molecule,VONOPRAZAN FUMARATE
+,CHEMBL2068237,Small molecule,CISPLATIN
+,CHEMBL2068408,Small molecule,SILICATE
+,CHEMBL2068723,Small molecule,CALCIUM METRIZOATE
+,CHEMBL2068724,Small molecule,ACAMPROSATE CALCIUM
+Diagnostic Aid (radiopaque medium),CHEMBL2068725,Small molecule,IPODATE CALCIUM
+Replenisher (electrolyte),CHEMBL2068884,Small molecule,SODIUM GLUCONATE
+,CHEMBL2079130,Small molecule,VONOPRAZAN
+Androgen,CHEMBL2079587,Small molecule,STANOZOLOL
+,CHEMBL2079699,Small molecule,SODIUM STIBOGLUCONATE
+,CHEMBL2095207,Small molecule,CHOLINE C-11
+,CHEMBL2095208,Small molecule,COBICISTAT
+,CHEMBL2095209,Small molecule,ICOSAPENT ETHYL
+,CHEMBL2095211,Small molecule,LORCASERIN HYDROCHLORIDE
+,CHEMBL2095212,Small molecule,MIRABEGRON
+,CHEMBL2095223,Small molecule,CHLOROQUINE SULPHATE
+,CHEMBL2096629,Small molecule,PRUSSIAN BLUE INSOLUBLE
+Tranquilizer (minor),CHEMBL2096631,Small molecule,CLORAZEPATE DIPOTASSIUM
+Antacid,CHEMBL2096633,Small molecule,MAGNESIUM TRISILICATE
+Diagnostic Aid (blood volume determination); Radioactive Agent,CHEMBL2096634,Small molecule,SODIUM CHROMATE CR 51
+,CHEMBL2096635,Small molecule,UREA C 14
+,CHEMBL2096637,Small molecule,PYRETHRINS
+Radioactive Agent,CHEMBL2096641,Small molecule,SODIUM PERTECHNETATE TC 99M
+,CHEMBL2096642,Small molecule,INAMRINONE LACTATE
+Antibacterial (tuberculostatic),CHEMBL2096646,Small molecule,AMINOSALICYLATE SODIUM
+,CHEMBL2096647,Small molecule,LANTHANUM CARBONATE
+,CHEMBL2096648,Small molecule,UREA C 13
+Antidote (to cyanide poisoning),CHEMBL2096650,Small molecule,SODIUM THIOSULFATE
+,CHEMBL2096651,Small molecule,MANGAFODIPIR TRISODIUM
+Radioactive Agent; Diagnostic Aid (pernicious anemia),CHEMBL2096655,Small molecule,CYANOCOBALAMIN CO 57
+Radioactive Agent,CHEMBL2096656,Small molecule,TECHNETIUM TC 99M PENTETATE
+Radioactive Agent; Antineoplastic,CHEMBL2096660,Small molecule,SAMARIUM SM 153 LEXIDRONAM PENTASODIUM
+Antihypertensive,CHEMBL2097081,Small molecule,NITROPRUSSIDE
+Anti-Inflammatory; Analgesic,CHEMBL2103736,Small molecule,FENOPROFEN CALCIUM
+Vitamin (hematopoietic),CHEMBL2103737,Small molecule,HYDROXOCOBALAMIN
+Antimanic,CHEMBL2103738,Small molecule,LITHIUM CITRATE
+"Anti-Allergic; Antihistaminic, H1-Receptor; Asthma Prophylactic",CHEMBL2103739,Small molecule,EMEDASTINE DIFUMARATE
+,CHEMBL2103740,Small molecule,GADOXETATE DISODIUM
+Thyroid Hormone,CHEMBL2103741,Small molecule,LEVOTHYROXINE SODIUM
+Supplement (trace mineral),CHEMBL2103742,Small molecule,MANGANESE SULFATE
+,CHEMBL2103743,Small molecule,TOFACITINIB CITRATE
+Analgesic (narcotic),CHEMBL2103744,Small molecule,MORPHINE SULFATE
+,CHEMBL2103745,Small molecule,SAXAGLIPTIN
+,CHEMBL2103772,Small molecule,RACECADOTRIL
+Menopausal Symptoms Suppressant,CHEMBL2103774,Small molecule,TIBOLONE
+,CHEMBL2103795,Small molecule,AZILSARTAN KAMEDOXOMIL
+,CHEMBL2103800,Small molecule,COLESTILAN CHLORIDE
+,CHEMBL2103802,Small molecule,DAPAGLIFLOZIN PROPYLENE GLYCOL
+,CHEMBL2103822,Small molecule,TASIMELTEON
+,CHEMBL2103827,Small molecule,DROXIDOPA
+,CHEMBL2103830,Small molecule,FOSTAMATINIB
+,CHEMBL2103837,Small molecule,TAFAMIDIS
+,CHEMBL2103846,Small molecule,ULIPRISTAL
+,CHEMBL2103854,Small molecule,OMADACYCLINE TOSYLATE
+,CHEMBL2103855,Small molecule,TELOTRISTAT
+,CHEMBL2103868,Small molecule,CABOZANTINIB S-MALATE
+,CHEMBL2103870,Small molecule,LUMACAFTOR
+,CHEMBL2103872,Small molecule,CEFTOLOZANE
+,CHEMBL2103873,Small molecule,MACITENTAN
+,CHEMBL2103875,Small molecule,TRAMETINIB
+,CHEMBL2103877,Small molecule,EFINACONAZOLE
+,CHEMBL2103883,Small molecule,AVATROMBOPAG
+,CHEMBL2103929,Small molecule,LYMECYCLINE
+Ultraviolet Screen,CHEMBL2104045,Small molecule,CINOXATE
+,CHEMBL2104095,Small molecule,CHOLINE SALICYLATE
+Diagnostic Aid (pernicious anemia); Radioactive Agent,CHEMBL2104118,Small molecule,CYANOCOBALAMIN CO 60
+Antipsychotic,CHEMBL2104136,Small molecule,CLOMACRAN PHOSPHATE
+,CHEMBL2104251,Small molecule,ENBUCRILATE
+Antidepressant,CHEMBL2104287,Small molecule,DIBENZEPIN HYDROCHLORIDE
+Tranquilizer (minor),CHEMBL2104356,Small molecule,KETAZOLAM
+,CHEMBL2104381,Small molecule,CYANOCOBALAMIN CO 58
+Antiparasitic (veterinary),CHEMBL2104415,Small molecule,MOXIDECTIN
+,CHEMBL2104445,Small molecule,TRITOQUALINE
+Progestin,CHEMBL2104489,Small molecule,ANAGESTONE ACETATE
+,CHEMBL2104537,Small molecule,AMOPROXAN
+Replenisher (calcium),CHEMBL2104594,Small molecule,CALCIUM GLUBIONATE
+,CHEMBL2104607,Small molecule,NIKETHAMIDE
+Pharmaceutic Aid (surfactant),CHEMBL2104613,Small molecule,OCTOXYNOL 9
+Bronchodilator,CHEMBL2104771,Small molecule,REPROTEROL HYDROCHLORIDE
+Stimulant (central),CHEMBL2104793,Small molecule,PYROVALERONE HYDROCHLORIDE
+,CHEMBL2104973,Small molecule,LEVOMEPROMAZINE HYDROCHLORIDE
+,CHEMBL2104993,Small molecule,VORTIOXETINE
+,CHEMBL2105002,Small molecule,ISOAMINILE
+Diagnostic Aid (cystoscopy),CHEMBL2105023,Small molecule,INDIGOTINDISULFONATE SODIUM
+Diuretic,CHEMBL2105131,Small molecule,MEFRUSIDE
+,CHEMBL2105224,Small molecule,PHOLCODINE
+,CHEMBL2105233,Small molecule,PROXIBARBAL
+,CHEMBL2105248,Small molecule,POTASSIUM BITARTRATE
+Anesthetic (intravenous),CHEMBL2105345,Small molecule,PROPANIDID
+,CHEMBL2105395,Small molecule,OSPEMIFENE
+,CHEMBL2105420,Small molecule,TAUROLIDINE
+,CHEMBL2105458,Small molecule,THENALIDINE
+Scabicide,CHEMBL2105487,Small molecule,"SULFUR, PRECIPITATED"
+,CHEMBL2105527,Small molecule,TETRAZEPAM
+,CHEMBL2105581,Small molecule,VERALIPRIDE
+,CHEMBL2105611,Small molecule,TACALCITOL
+,CHEMBL2105612,Small molecule,PROPICILLIN
+Anticonvulsant,CHEMBL2105613,Small molecule,DIVALPROEX SODIUM
+Expectorant,CHEMBL2105614,Small molecule,TERPIN HYDRATE
+,CHEMBL2105618,Small molecule,ALLYLESTRENOL
+,CHEMBL2105637,Small molecule,DELAFLOXACIN
+,CHEMBL2105638,Small molecule,DELAFLOXACIN MEGLUMINE
+,CHEMBL2105662,Small molecule,LOMITAPIDE MESYLATE
+,CHEMBL2105669,Small molecule,TEDIZOLID PHOSPHATE
+,CHEMBL2105675,Small molecule,TAFAMIDIS MEGLUMINE
+,CHEMBL2105680,Small molecule,RIFAMYCIN SODIUM
+,CHEMBL2105682,Small molecule,EDOXABAN TOSYLATE
+,CHEMBL2105684,Small molecule,SELUMETINIB SULFATE
+,CHEMBL2105689,Small molecule,LULICONAZOLE
+,CHEMBL2105695,Small molecule,TELOTRISTAT ETHYL
+,CHEMBL2105700,Small molecule,BEDAQUILINE FUMARATE
+,CHEMBL2105704,Small molecule,LENVATINIB MESYLATE
+,CHEMBL2105708,Small molecule,PONATINIB HYDROCHLORIDE
+,CHEMBL2105712,Small molecule,AFATINIB DIMALEATE
+,CHEMBL2105717,Small molecule,CABOZANTINIB
+,CHEMBL2105719,Small molecule,DACOMITINIB
+,CHEMBL2105720,Small molecule,LESINURAD
+,CHEMBL2105722,Small molecule,NOMEGESTROL
+,CHEMBL2105729,Small molecule,DABRAFENIB MESYLATE
+,CHEMBL2105732,Small molecule,LEVOMILNACIPRAN HYDROCHLORIDE
+,CHEMBL2105737,Small molecule,SONIDEGIB
+,CHEMBL2105740,Small molecule,SITAXENTAN SODIUM
+,CHEMBL2105741,Small molecule,TRAMETINIB DIMETHYL SULFOXIDE
+,CHEMBL2105743,Small molecule,OLODATEROL HYDROCHLORIDE
+,CHEMBL2105745,Small molecule,GLYCEROL PHENYLBUTYRATE
+,CHEMBL2105748,Small molecule,PRUCALOPRIDE SUCCINATE
+,CHEMBL2105749,Small molecule,SAMIDORPHAN L-MALATE
+,CHEMBL2105755,Small molecule,NALDEMEDINE
+,CHEMBL2105756,Small molecule,TIVOZANIB HYDROCHLORIDE
+,CHEMBL2105758,Small molecule,AVATROMBOPAG MALEATE
+,CHEMBL2105759,Small molecule,BARICITINIB
+,CHEMBL2105760,Small molecule,BREXPIPRAZOLE
+,CHEMBL2105774,Small molecule,PREDNISOLONE STEAGLATE
+Expectorant,CHEMBL2105827,Small molecule,"GLYCEROL, IODINATED"
+Glucocorticoid,CHEMBL2105842,Small molecule,CORTIVAZOL
+Cholinergic (ophthalmic),CHEMBL2105891,Small molecule,PHYSOSTIGMINE SULFATE
+Diagnostic Aid (radiopaque medium),CHEMBL2105897,Small molecule,BARIUM SULFATE
+,CHEMBL2105904,Small molecule,BARBITAL SODIUM
+Sedative-Hypnotic,CHEMBL2105941,Small molecule,AMOBARBITAL SODIUM
+,CHEMBL2105950,Small molecule,AMOXICILLIN SODIUM
+,CHEMBL2105970,Small molecule,AMMONIUM BENZOATE
+,CHEMBL2105972,Small molecule,AMBUTONIUM BROMIDE
+,CHEMBL2105980,Small molecule,CHLORPHENOXAMINE HYDROCHLORIDE
+Antibacterial,CHEMBL2105996,Small molecule,CARBENICILLIN PHENYL SODIUM
+Antibacterial,CHEMBL2106076,Small molecule,CEFPIROME SULFATE
+Replenisher (calcium),CHEMBL2106111,Small molecule,CALCIUM LACTATE
+Replenisher (calcium),CHEMBL2106119,Small molecule,CALCIUM GLUCONATE
+,CHEMBL2106122,Small molecule,EMEPRONIUM BROMIDE
+Supplement (calcium),CHEMBL2106123,Small molecule,CALCIUM CITRATE
+Cardiac Depressant (anti-arrhythmic),CHEMBL2106155,Small molecule,ENCAINIDE HYDROCHLORIDE
+,CHEMBL2106191,Small molecule,CALCIUM DOBESILATE
+,CHEMBL2106195,Small molecule,DEXMEDETOMIDINE HYDROCHLORIDE
+Anorexic,CHEMBL2106217,Small molecule,FENFLURAMINE HYDROCHLORIDE
+,CHEMBL2106313,Small molecule,LACHESINE CHLORIDE
+Radioactive Agent,CHEMBL2106318,Small molecule,IOTHALAMATE SODIUM I 125
+Astringent,CHEMBL2106388,Small molecule,CALCIUM HYDROXIDE
+,CHEMBL2106419,Small molecule,LERCANIDIPINE HYDROCHLORIDE
+Antipsychotic,CHEMBL2106439,Small molecule,PIPOTIAZINE PALMITATE
+,CHEMBL2106441,Small molecule,NOXYTIOLIN
+Antidepressant,CHEMBL2106483,Small molecule,VILOXAZINE HYDROCHLORIDE
+,CHEMBL2106556,Small molecule,CYCLOBARBITAL CALCIUM
+Antidepressant,CHEMBL2106574,Small molecule,DAPOXETINE HYDROCHLORIDE
+,CHEMBL2106615,Small molecule,BAZEDOXIFENE ACETATE
+,CHEMBL2106627,Small molecule,DIACETYLMORPHINE HYDROCHLORIDE
+Vasodilator,CHEMBL2106636,Small molecule,BAMETHAN SULFATE
+Antidepressant,CHEMBL2106638,Small molecule,LOFEPRAMINE HYDROCHLORIDE
+Radioactive Agent,CHEMBL2106640,Small molecule,FERROUS CITRATE FE 59
+,CHEMBL2106643,Small molecule,MYCOPHENOLATE SODIUM
+,CHEMBL2106660,Small molecule,ACEFYLLINE PIPERAZINE
+Adrenergic,CHEMBL2106678,Small molecule,ETAFEDRINE HYDROCHLORIDE
+Anticholinergic,CHEMBL2106739,Small molecule,POLDINE METHYLSULFATE
+,CHEMBL2106794,Small molecule,NAFTAZONE
+Progestin,CHEMBL2106825,Small molecule,MEDROGESTONE
+,CHEMBL2106829,Small molecule,METHAQUALONE HYDROCHLORIDE
+Analgesic,CHEMBL2106915,Small molecule,METHOPHOLINE
+Anesthetic (intravenous),CHEMBL2106922,Small molecule,MIDAZOLAM MALEATE
+,CHEMBL2106939,Small molecule,POLIHEXANIDE
+Pharmaceutic Necessity,CHEMBL2106975,Small molecule,POTASSIUM BICARBONATE
+Replenisher (electrolyte),CHEMBL2106978,Small molecule,POTASSIUM GLUCONATE
+Antibacterial,CHEMBL2106988,Small molecule,PENAMECILLIN
+,CHEMBL2107004,Small molecule,QUINESTRADOL
+Antidepressant,CHEMBL2107011,Small molecule,OXYPERTINE
+,CHEMBL2107062,Small molecule,PHENETURIDE
+,CHEMBL2107067,Small molecule,TESTOSTERONE UNDECANOATE
+Radioactive Agent,CHEMBL2107074,Small molecule,TECHNETIUM TC 99M EXAMETAZIME
+,CHEMBL2107124,Small molecule,PROTHIPENDYL HYDROCHLORIDE
+Replenisher (magnesium),CHEMBL2107145,Small molecule,MAGNESIUM GLUCONATE
+Laxative,CHEMBL2107168,Small molecule,POTASSIUM SODIUM TARTRATE
+,CHEMBL2107175,Small molecule,RANELIC ACID
+,CHEMBL2107213,Small molecule,PHENINDAMINE TARTRATE
+,CHEMBL2107239,Small molecule,IOXITALAMIC ACID
+,CHEMBL2107253,Small molecule,SULFADIMETHOXINE SODIUM
+,CHEMBL2107297,Small molecule,PHENAZOCINE HYDROBROMIDE
+,CHEMBL2107333,Small molecule,DIMETHYL FUMARATE
+,CHEMBL2107354,Small molecule,MIFAMURTIDE
+,CHEMBL2107355,Small molecule,MIGALASTAT HYDROCHLORIDE
+,CHEMBL2107360,Small molecule,PALIPERIDONE PALMITATE
+,CHEMBL2107381,Small molecule,URIDINE TRIACETATE
+,CHEMBL2107386,Small molecule,VORAPAXAR SULFATE
+,CHEMBL2107387,Small molecule,VORTIOXETINE HYDROBROMIDE
+Progestin,CHEMBL2107389,Small molecule,GESTONORONE CAPROATE
+,CHEMBL2107430,Small molecule,FLUTRIMAZOLE
+Diagnostic Aid; Radioactive Agent,CHEMBL2107480,Small molecule,PENTETATE INDIUM DISODIUM IN 111
+Antibacterial (microbial DNA topoisomerase inhibitor),CHEMBL2107495,Small molecule,TEMAFLOXACIN HYDROCHLORIDE
+Diagnostic Aid (neoplasm); Antineoplastic; Radioactive Agent; Antipolycythemic,CHEMBL2107525,Small molecule,SODIUM PHOSPHATE P 32
+Laxative,CHEMBL2107560,Small molecule,"SODIUM PHOSPHATE, DIBASIC"
+,CHEMBL2107567,Small molecule,"CALCIUM PHOSPHATE, DIBASIC"
+,CHEMBL2107606,Small molecule,DIPIPANONE HYDROCHLORIDE
+,CHEMBL2107679,Small molecule,BENETHAMINE PENICILLIN
+Antifungal,CHEMBL2107703,Small molecule,FENTICONAZOLE NITRATE
+Progestin,CHEMBL2107797,Small molecule,NORGESTREL
+,CHEMBL2107815,Small molecule,TREPROSTINIL DIOLAMINE
+,CHEMBL2107816,Small molecule,RADIUM RA 223 DICHLORIDE
+,CHEMBL2107817,Small molecule,AVIBACTAM SODIUM
+,CHEMBL2107825,Small molecule,TENOFOVIR ALAFENAMIDE
+,CHEMBL2107826,Small molecule,VIBEGRON
+,CHEMBL2107830,Small molecule,EMPAGLIFLOZIN
+,CHEMBL2107831,Small molecule,LUSUTROMBOPAG
+,CHEMBL2107834,Small molecule,RIOCIGUAT
+,CHEMBL2107840,Small molecule,PATIROMER CALCIUM
+Pharmaceutic Aid,CHEMBL2107910,Small molecule,OLIVE OIL
+,CHEMBL2107943,Small molecule,POLIDEXIDE SULFATE
+Pharmaceutic Aid (dispersing and suspending agent),CHEMBL2108139,Small molecule,POVIDONE
+,CHEMBL2108184,Small molecule,CROFELEMER
+,CHEMBL2108201,Small molecule,DEXTRANOMER
+"Vitamins A And D, source of",CHEMBL2108234,Small molecule,COD LIVER OIL
+Pharmaceutic Aid (flavor),CHEMBL2108247,Small molecule,CLOVE OIL
+,CHEMBL2108780,Small molecule,POLYETHYLENE GLYCOL 4000
+Antihypertensive,CHEMBL2,Small molecule,PRAZOSIN
+Antibacterial,CHEMBL5,Small molecule,NALIDIXIC ACID
+Antibacterial,CHEMBL8,Small molecule,CIPROFLOXACIN
+Antibacterial,CHEMBL9,Small molecule,NORFLOXACIN
+Antidiabetic,CHEMBL408,Small molecule,TROGLITAZONE
+Antineoplastic,CHEMBL409,Small molecule,BICALUTAMIDE
+Sedative-Hypnotic,CHEMBL12,Small molecule,DIAZEPAM
+"Anti-Adrenergic (beta-receptor),Antihypertensive,Antihypertensive; Anti-Anginal",CHEMBL13,Small molecule,METOPROLOL
+Carbonic Anhydrase Inhibitor,CHEMBL20,Small molecule,ACETAZOLAMIDE
+"Anti-Infective, Topical,Antibacterial",CHEMBL419,Small molecule,MAFENIDE
+,CHEMBL21,Small molecule,SULFANILAMIDE
+Antihypertensive,CHEMBL420,Small molecule,GUANABENZ
+Antibacterial,CHEMBL22,Small molecule,TRIMETHOPRIM
+"Anti-Anginal; Cardiac Depressant (anti-arrhythmic),Vasodilator (coronary)",CHEMBL6966,Small molecule,VERAPAMIL
+Antibacterial,CHEMBL421,Small molecule,SULFASALAZINE
+Antimalarial,CHEMBL36,Small molecule,PYRIMETHAMINE
+Inhibitor (aldose reductase),CHEMBL436,Small molecule,TOLRESTAT
+Antibacterial,CHEMBL437,Small molecule,SULFATHIAZOLE
+Antibacterial,CHEMBL438,Small molecule,SULFAMERAZINE
+"Anti-Infective, Topical,Antibacterial",CHEMBL439,Small molecule,SULFADIAZINE
+Anesthetic (intravenous),CHEMBL440,Small molecule,THIAMYLAL
+Anesthetic (intravenous); Anticonvulsant,CHEMBL441,Small molecule,THIOPENTAL
+,CHEMBL268164,Small molecule,CYCLOBARBITAL
+Analgesic (specific in migraine),CHEMBL442,Small molecule,ERGOTAMINE
+Keratolytic,CHEMBL38,Small molecule,TRETINOIN
+Anesthetic (intravenous),CHEMBL7413,Small molecule,METHOHEXITAL
+"Anticonvulsant; Sedative-Hypnotic,Sedative-Hypnotic; Anticonvulsant",CHEMBL40,Small molecule,PHENOBARBITAL
+Antidepressant,CHEMBL41,Small molecule,FLUOXETINE
+Antibacterial,CHEMBL443,Small molecule,SULFAMETHOXAZOLE
+Antipsychotic; Anti-Emetic,CHEMBL71,Small molecule,CHLORPROMAZINE
+Antidepressant,CHEMBL72,Small molecule,DESIPRAMINE
+Adrenocortical Suppressant; Antineoplastic,CHEMBL488,Small molecule,AMINOGLUTETHIMIDE
+Anti-Asthmatic (prophylactic),CHEMBL74,Small molecule,CROMOLYN SODIUM
+"Anti-Amebic; Antimalarial,Anti-Amebic; Suppressant (lupus erythematosus); Antimalarial",CHEMBL76,Small molecule,CHLOROQUINE
+Antidepressant,CHEMBL490,Small molecule,PAROXETINE
+,CHEMBL416146,Small molecule,ETORICOXIB
+"Anesthetic (local),Anesthetic (topical)",CHEMBL79,Small molecule,LIDOCAINE
+Anti-Ulcerative,CHEMBL9967,Small molecule,PIRENZEPINE
+Anesthetic (local),CHEMBL492,Small molecule,ETIDOCAINE
+Antagonist (to narcotics),CHEMBL80,Small molecule,NALOXONE
+Anti-Estrogen,CHEMBL81,Small molecule,RALOXIFENE
+Anti-Estrogen,CHEMBL83,Small molecule,TAMOXIFEN
+Enzyme Inhibitor (prolactin),CHEMBL493,Small molecule,BROMOCRIPTINE
+,CHEMBL494,Small molecule,ILOPROST
+Antineoplastic (DNA topoisomerase I Inhibitor),CHEMBL84,Small molecule,TOPOTECAN
+Neuroleptic,CHEMBL85,Small molecule,RISPERIDONE
+Anti-Asthmatic (prophylactic),CHEMBL428880,Small molecule,CROMOLYN
+Anti-Emetic,CHEMBL86,Small molecule,METOCLOPRAMIDE
+Antineoplastic,CHEMBL428647,Small molecule,PACLITAXEL
+Vasodilator,CHEMBL495,Small molecule,ALPROSTADIL
+"Anti-Infective, Topical; Detergent",CHEMBL496,Small molecule,HEXACHLOROPHENE
+"Anti-Amebic; Anti-Infective, Topical",CHEMBL497,Small molecule,CLIOQUINOL
+,CHEMBL10878,Small molecule,AGOMELATINE
+Immunosuppressant; Antineoplastic,CHEMBL88,Small molecule,CYCLOPHOSPHAMIDE
+Antidiabetic,CHEMBL498,Small molecule,CHLORPROPAMIDE
+Anti-Adrenergic (beta-receptor),CHEMBL499,Small molecule,TIMOLOL
+Vasodilator,CHEMBL500,Small molecule,PINDOLOL
+Vitamin (enzyme co-factor); Antihyperlipidemic,CHEMBL573,Small molecule,NIACIN
+Antibacterial,CHEMBL575,Small molecule,METHICILLIN
+,CHEMBL16080,Small molecule,TRICHLOROETHANE
+Anesthetic (topical),CHEMBL278172,Small molecule,BENZOCAINE
+Antihypertensive,CHEMBL577,Small molecule,ENALAPRILAT
+Antihypertensive,CHEMBL578,Small molecule,ENALAPRIL
+Tranquilizer (minor),CHEMBL580,Small molecule,LORAZEPAM
+Tranquilizer (minor),CHEMBL277062,Small molecule,BROMAZEPAM
+,CHEMBL279816,Small molecule,TRICHLOROETHYLENE
+Antifungal,CHEMBL277535,Small molecule,BIFONAZOLE
+"Anti-Infective, Topical; Pharmaceutic Aid (solvent)",CHEMBL582,Small molecule,ISOPROPYL ALCOHOL
+Antibacterial,CHEMBL583,Small molecule,GREPAFLOXACIN
+Antiviral,CHEMBL114,Small molecule,SAQUINAVIR
+Antiviral,CHEMBL115,Small molecule,INDINAVIR
+Antiviral,CHEMBL584,Small molecule,NELFINAVIR
+,CHEMBL116,Small molecule,AMPRENAVIR
+Diuretic,CHEMBL585,Small molecule,TRIAMTERENE
+,CHEMBL16476,Small molecule,PRONETALOL
+,CHEMBL118,Small molecule,CELECOXIB
+Antineoplastic,CHEMBL119,Small molecule,TRIMETREXATE
+Dopamine Agonist; Antihypertensive,CHEMBL588,Small molecule,FENOLDOPAM
+Antiparkinsonian (D2 receptor agonist),CHEMBL589,Small molecule,ROPINIROLE
+Vitamin (prothrombogenic),CHEMBL590,Small molecule,MENADIONE
+Sedative-Hypnotic,CHEMBL591,Small molecule,ETHCHLORVYNOL
+Antihistaminic,CHEMBL17157,Small molecule,TERFENADINE
+Analgesic (narcotic),CHEMBL592,Small molecule,LEVORPHANOL
+Antiviral,CHEMBL593,Small molecule,DELAVIRDINE
+"Anti-Allergic; Antihistaminic, H1-Receptor; Asthma Prophylactic",CHEMBL594,Small molecule,EMEDASTINE
+Antidiabetic,CHEMBL595,Small molecule,PIOGLITAZONE
+Analgesic (narcotic),CHEMBL596,Small molecule,FENTANYL
+Antidiabetic,CHEMBL121,Small molecule,ROSIGLITAZONE
+,CHEMBL17879,Small molecule,MARALIXIBAT CHLORIDE
+Antihypertensive,CHEMBL17860,Small molecule,LOFEXIDINE
+Anti-Adrenergic,CHEMBL597,Small molecule,PHENTOLAMINE
+,CHEMBL18442,Small molecule,PLERIXAFOR
+Anti-Inflammatory (nonsteroidal),CHEMBL599,Small molecule,MELOXICAM
+Mucolytic,CHEMBL600,Small molecule,ACETYLCYSTEINE
+Antineoplastic,CHEMBL601,Small molecule,AMINOLEVULINIC ACID
+Anti-Urolithic (cystine calculi),CHEMBL602,Small molecule,CYSTEAMINE
+Antagonist (to narcotics),CHEMBL19019,Small molecule,NALTREXONE
+Anti-Asthmatic (leukotriene antagonist),CHEMBL603,Small molecule,ZAFIRLUKAST
+,CHEMBL122,Small molecule,ROFECOXIB
+,CHEMBL19236,Small molecule,MOXONIDINE
+Relaxant (smooth muscle),CHEMBL19224,Small molecule,PAPAVERINE
+Antidote (to phosphorus),CHEMBL604,Small molecule,CUPRIC SULFATE
+Cardiac Depressant (anti-arrhythmic),CHEMBL605,Small molecule,PROCAINAMIDE HYDROCHLORIDE
+,CHEMBL19215,Small molecule,METERGOLINE
+Anti-Ulcerative,CHEMBL606,Small molecule,MISOPROSTOL
+,CHEMBL278623,Small molecule,MACIMORELIN
+Analgesic (narcotic),CHEMBL607,Small molecule,MEPERIDINE
+Sedative-Hypnotic,CHEMBL282052,Small molecule,METHAQUALONE
+Antihyperlipidemic,CHEMBL608,Small molecule,PROBUCOL
+Chelating Agent,CHEMBL609,Small molecule,TRIENTINE
+Analgesic; Anti-Inflammatory,CHEMBL19490,Small molecule,ZOMEPIRAC
+Antihypertensive,CHEMBL611,Small molecule,TERAZOSIN
+Stimulant (central),CHEMBL612,Small molecule,DEXTROAMPHETAMINE
+,CHEMBL2108265,Small molecule,CASCARA SAGRADA
+Spermaticide; Pharmaceutic Aid (surfactant),CHEMBL2108373,Small molecule,LAURETH 9
+,CHEMBL2108535,Small molecule,POLYNOXYLIN
+Laxative,CHEMBL2108558,Small molecule,SENNA
+Pharmaceutic Aid (solvent),CHEMBL2108750,Small molecule,PEANUT OIL
+Pharmaceutic Aid (flavor),CHEMBL2108758,Small molecule,PEPPERMINT OIL
+,CHEMBL2108834,Small molecule,BELLADONNA ROOT
+Antiseptic; Anti-Ulcerative,CHEMBL2108938,Small molecule,CADEXOMER IODINE
+Pharmaceutic Aid (emulsifying agent); Pharmaceutic Aid (suspending agent),CHEMBL2108995,Small molecule,CARBOMER 910
+Laxative,CHEMBL2109005,Small molecule,CASTOR OIL
+,CHEMBL2109033,Small molecule,CALCIUM POLYSTYRENE SULFONATE
+Laxative; Pharmaceutic Aid (solvent),CHEMBL2109152,Small molecule,MINERAL OIL
+,CHEMBL2109882,Small molecule,TRISILICATE
+,CHEMBL2110367,Small molecule,TRIMETHOPRIM SULFATE
+Antihypertensive,CHEMBL2110368,Small molecule,BETHANIDINE SULFATE
+Antagonist (to histamine-H2 receptors),CHEMBL2110372,Small molecule,RANITIDINE HYDROCHLORIDE
+,CHEMBL2110551,Small molecule,TECHNETIUM PENTETATE
+Diagnostic Aid (radiopaque medium); Radioactive Agent,CHEMBL2110553,Small molecule,GALLIUM CITRATE
+Radioactive Agent,CHEMBL2110554,Small molecule,TECHNETIUM ETIDRONATE
+Radioactive Agent,CHEMBL2110555,Small molecule,TECHNETIUM MEBROFENIN
+"Diagnostic Aid (radioactive, cardiac disease); Radioactive Agent",CHEMBL2110557,Small molecule,RUBIDIUM CHLORIDE
+Radioactive Agent,CHEMBL2110559,Small molecule,TECHNETIUM PYROPHOSPHATE
+,CHEMBL2110560,Small molecule,PENTETATE CALCIUM TRISODIUM YB
+,CHEMBL2110561,Small molecule,SAMARIUM LEXIDRONAM PENTASODIUM
+Radioactive Agent; Diagnostic Aid (renal function determination),CHEMBL2110562,Small molecule,CHLORMERODRIN
+"Diagnostic Aid (pernicious anemia); Radioactive Agent,Radioactive Agent; Diagnostic Aid (pernicious anemia),Vitamin (hematopoietic)",CHEMBL2110563,Small molecule,CYANOCOBALAMIN
+Radioactive Agent,CHEMBL2110564,Small molecule,TECHNETIUM LIDOFENIN
+Radioactive Agent; Diagnostic Aid (skeletal imaging),CHEMBL2110565,Small molecule,TECHNETIUM OXIDRONATE
+Radioactive Agent,CHEMBL2110566,Small molecule,TECHNETIUM TETROFOSMIN
+Radioactive Agent,CHEMBL2110568,Small molecule,CHROMIC PHOSPHATE
+Radioactive Agent,CHEMBL2110570,Small molecule,TECHNETIUM GLUCEPTATE
+,CHEMBL2110571,Small molecule,SODIUM PERTECHNETATE
+Radioactive Agent; Diagnostic Aid (renal function determination),CHEMBL2110572,Small molecule,TECHNETIUM SUCCIMER
+Diagnostic Aid; Radioactive Agent,CHEMBL2110573,Small molecule,INDIUM OXYQUINOLINE
+,CHEMBL2110574,Small molecule,SODIUM CHROMATE
+Diagnostic Aid (hepatobiliary function determination); Radioactive Agent,CHEMBL2110575,Small molecule,TECHNETIUM DISOFENIN
+Radioactive Agent; Diagnostic Aid (skeletal imaging),CHEMBL2110576,Small molecule,TECHNETIUM MEDRONATE
+,CHEMBL2110588,Small molecule,ELIGLUSTAT
+Synovitis Agent (veterinary),CHEMBL2110674,Small molecule,HYALURONATE
+,CHEMBL2110725,Small molecule,VINFLUNINE
+,CHEMBL2110732,Small molecule,DACOMITINIB
+,CHEMBL2110771,Small molecule,AMBUTONIUM
+,CHEMBL2110774,Small molecule,CHLORPHENOXAMINE
+,CHEMBL2110805,Small molecule,EMEPRONIUM
+Antidepressant,CHEMBL2110816,Small molecule,BUTRIPTYLINE
+,CHEMBL2110848,Small molecule,LACHESINE
+Antidepressant,CHEMBL2110900,Small molecule,DAPOXETINE
+Radioactive Agent,CHEMBL2110914,Small molecule,FERROUS CITRATE
+Adrenergic,CHEMBL2110926,Small molecule,ETAFEDRINE
+Anticholinergic,CHEMBL2110948,Small molecule,POLDINE
+Radioactive Agent,CHEMBL2111018,Small molecule,TECHNETIUM EXAMETAZIME
+,CHEMBL2111030,Small molecule,PROTHIPENDYL
+,CHEMBL2111097,Small molecule,LEVAMLODIPINE
+,CHEMBL2111100,Small molecule,MIFAMURTIDE
+,CHEMBL2111101,Small molecule,PIMAVANSERIN
+,CHEMBL2111112,Small molecule,VERNAKALANT
+,CHEMBL2111129,Small molecule,PENTETATE INDIUM DISODIUM
+,CHEMBL2111157,Small molecule,DIPIPANONE
+,CHEMBL2111187,Small molecule,RADIUM DICHLORIDE
+Antagonist (to histamine-H2 receptors),CHEMBL2111286,Small molecule,RANITIDINE BISMUTH CITRATE
+Bronchodilator,CHEMBL2134724,Small molecule,IPRATROPIUM BROMIDE
+,CHEMBL2138684,Small molecule,FROVATRIPTAN SUCCINATE
+,CHEMBL2141296,Small molecule,IXAZOMIB
+,CHEMBL2142890,Small molecule,ACEGLUMATE
+,CHEMBL2145077,Small molecule,IVABRADINE HYDROCHLORIDE
+Antiprotozoal; Antibacterial,CHEMBL2146063,Small molecule,CHLORTETRACYCLINE HYDROCHLORIDE
+,CHEMBL2146083,Small molecule,QUININE BISULFATE
+,CHEMBL2146088,Small molecule,QUININE DIHYDROCHLORIDE
+Bronchodilator,CHEMBL2146102,Small molecule,EPHEDRINE HYDROCHLORIDE
+,CHEMBL2146121,Small molecule,CALCIUM
+Antibacterial,CHEMBL2146123,Small molecule,METHACYCLINE HYDROCHLORIDE
+Antibacterial,CHEMBL2146124,Small molecule,CEFUROXIME SODIUM
+,CHEMBL2146133,Small molecule,ESOMEPRAZOLE MAGNESIUM
+,CHEMBL2146140,Small molecule,ESOMEPRAZOLE STRONTIUM
+Anticholinergic (ophthalmic),CHEMBL2146146,Small molecule,ATROPINE SULFATE
+,CHEMBL2146161,Small molecule,MIKAMYCIN
+,CHEMBL2146883,Small molecule,COBIMETINIB
+,CHEMBL2159122,Small molecule,ELUXADOLINE
+,CHEMBL2178422,Small molecule,RIMEGEPANT
+,CHEMBL2181927,Small molecule,FINERENONE
+,CHEMBL2205807,Small molecule,ABAMETAPIR
+Anti-Amebic,CHEMBL2206196,Small molecule,PAROMOMYCIN SULFATE
+,CHEMBL2216870,Small molecule,IDELALISIB
+,CHEMBL2218860,Small molecule,GADOBUTROL
+Antibacterial,CHEMBL2218877,Small molecule,ERYTHROMYCIN ESTOLATE
+Antineoplastic,CHEMBL2218878,Small molecule,TRIMETREXATE GLUCURONATE
+Antineoplastic,CHEMBL2218885,Small molecule,VERTEPORFIN
+Antihyperlipidemic; Inhibitor (HMG-CoA reductase),CHEMBL2218894,Small molecule,FLUVASTATIN SODIUM
+Tranquilizer (minor),CHEMBL2218896,Small molecule,NABILONE
+Prosthetic Aid,CHEMBL2218916,Small molecule,DURAPATITE
+Alzheimer's Disease Treatment (adjunct),CHEMBL2218917,Small molecule,CEVIMELINE HYDROCHLORIDE
+,CHEMBL2219414,Small molecule,ERAVACYCLINE DIHYDROCHLORIDE
+,CHEMBL2219415,Small molecule,GADOTERATE MEGLUMINE
+,CHEMBL2219416,Small molecule,NALOXEGOL OXALATE
+,CHEMBL2219418,Small molecule,NALOXEGOL
+,CHEMBL2219425,Small molecule,ARIPIPRAZOLE LAUROXIL
+,CHEMBL2219605,Small molecule,FERRIC CHLORIDE
+"Antineoplastic; Radioactive Agent,Radioactive Agent",CHEMBL2219640,Small molecule,STRONTIUM CHLORIDE
+Replenisher (electrolyte),CHEMBL2219642,Small molecule,MAGNESIUM CHLORIDE
+Laxative,CHEMBL2219738,Small molecule,POTASSIUM SODIUM TARTRATE
+Replenisher (calcium),CHEMBL2219740,Small molecule,CALCIUM GLUBIONATE
+Antibacterial,CHEMBL2220427,Small molecule,ERYTHROMYCIN PROPIONATE
+Antihyperlipidemic; Inhibitor (HMG-CoA reductase),CHEMBL2220442,Small molecule,FLUVASTATIN
+,CHEMBL2221312,Small molecule,GADOXETIC ACID
+,CHEMBL2251240,Small molecule,SCOPOLAMINE HYDROBROMIDE
+,CHEMBL2303613,Small molecule,CEFODIZIME
+Oxytocic,CHEMBL2303617,Small molecule,SPARTEINE SULFATE
+,CHEMBL2303621,Small molecule,DACLATASVIR DIHYDROCHLORIDE
+Anti-Inflammatory,CHEMBL2308885,Small molecule,CLOBETASONE BUTYRATE
+Cognition Adjuvant,CHEMBL2311030,Small molecule,ERGOLOID MESYLATES
+,CHEMBL2311071,Small molecule,VINYL CHLORIDE
+,CHEMBL2336071,Small molecule,SIPONIMOD
+,CHEMBL2338329,Small molecule,ROXADUSTAT
+,CHEMBL2338675,Small molecule,FOSDENOPTERIN
+,CHEMBL2354773,Small molecule,AUROTHIOGLUCOSE
+Anti-Estrogen,CHEMBL2355051,Small molecule,CLOMIPHENE
+,CHEMBL2355333,Small molecule,ZIMELDINE HYDROCHLORIDE
+,CHEMBL2355456,Small molecule,IBUTILIDE FUMARATE
+,CHEMBL2355839,Small molecule,ISOMETHEPTENE MUCATE
+,CHEMBL2356023,Small molecule,DIHYDROTACHYSTEROL
+,CHEMBL2356097,Small molecule,METOPROLOL SUCCINATE
+Antipsychotic,CHEMBL2358147,Small molecule,CARPHENAZINE MALEATE
+,CHEMBL2359093,Small molecule,ROSE BENGAL SODIUM
+,CHEMBL2359370,Small molecule,MECOBALAMIN
+,CHEMBL2359670,Small molecule,THIETHYLPERAZINE MALATE
+Antimalarial,CHEMBL2359966,Small molecule,QUININE SULFATE
+Antipsychotic,CHEMBL2360079,Small molecule,ACETOPHENAZINE MALEATE
+,CHEMBL2360464,Small molecule,PEMETREXED DISODIUM
+,CHEMBL2360580,Small molecule,BUCLIZINE HYDROCHLORIDE
+,CHEMBL2361370,Small molecule,PENBUTOLOL SULFATE
+,CHEMBL2362016,Small molecule,ARSENIC TRIOXIDE
+Antibacterial; Antiprotozoal,CHEMBL2364574,Small molecule,DOXYCYCLINE CALCIUM
+,CHEMBL2364607,Small molecule,COBIMETINIB FUMARATE
+,CHEMBL2364608,Small molecule,DORAVIRINE
+,CHEMBL2364609,Small molecule,ESKETAMINE HYDROCHLORIDE
+,CHEMBL2364612,Small molecule,LATANOPROSTENE BUNOD
+,CHEMBL2364617,Small molecule,MACIMORELIN ACETATE
+,CHEMBL2364623,Small molecule,PLAZOMICIN SULFATE
+,CHEMBL2364629,Small molecule,RIMEGEPANT SULFATE
+,CHEMBL2364632,Small molecule,SARECYCLINE
+,CHEMBL2364633,Small molecule,SARECYCLINE HYDROCHLORIDE
+,CHEMBL2364635,Small molecule,TAFENOQUINE SUCCINATE
+,CHEMBL2364637,Small molecule,TENOFOVIR ALAFENAMIDE FUMARATE
+,CHEMBL2364638,Small molecule,UBROGEPANT
+,CHEMBL2364639,Small molecule,VALBENAZINE
+,CHEMBL2364720,Small molecule,PHENETHICILLIN POTASSIUM
+,CHEMBL2364738,Small molecule,METRIZOATE MAGNESIUM
+Cognition Adjuvant,CHEMBL2364968,Small molecule,ERGOLOID
+Analgesic,CHEMBL2368861,Small molecule,BUPRENORPHINE HYDROCHLORIDE
+Antimigraine; Anti-Emetic,CHEMBL2368924,Small molecule,DOLASETRON MESYLATE
+Antimigraine; Anti-Emetic,CHEMBL2368925,Small molecule,DOLASETRON
+,CHEMBL2374220,Small molecule,LEDIPASVIR
+,CHEMBL2396661,Small molecule,ALPELISIB
+,CHEMBL2403108,Small molecule,CERITINIB
+,CHEMBL2403238,Small molecule,CABOTEGRAVIR
+,CHEMBL2443262,Small molecule,OLICERIDINE
+,CHEMBL2448612,Small molecule,ERGOTAMINE TARTRATE
+,CHEMBL2448613,Small molecule,PIMAVANSERIN TARTRATE
+,CHEMBL3039502,Small molecule,DUVELISIB
+,CHEMBL3039504,Small molecule,NINTEDANIB ESYLATE
+,CHEMBL3039507,Small molecule,SOTAGLIFLOZIN
+,CHEMBL3039508,Small molecule,NALDEMEDINE TOSYLATE
+,CHEMBL3039514,Small molecule,ELBASVIR
+,CHEMBL3039520,Small molecule,LASMIDITAN
+,CHEMBL3039526,Small molecule,LASMIDITAN SUCCINATE
+,CHEMBL3039567,Small molecule,SODIUM GLYCEROPHOSPHATE
+Antibacterial,CHEMBL3039594,Small molecule,GENTAMICIN SULFATE
+Antihypertensive; Enzyme Inhibitor (angiotensin-converting),CHEMBL3039596,Small molecule,FOSINOPRIL SODIUM
+Antibacterial,CHEMBL3039597,Small molecule,GENTAMICIN
+Antihypertensive; Enzyme Inhibitor (angiotensin-converting),CHEMBL3039598,Small molecule,FOSINOPRIL
+,CHEMBL3040581,Small molecule,SODIUM GLYCEROPHOSPHATE
+,CHEMBL3084748,Small molecule,TROSPIUM CHLORIDE
+,CHEMBL3085504,Small molecule,BLEOMYCIN SULFATE
+,CHEMBL3099695,Small molecule,OSILODROSTAT
+,CHEMBL3112741,Small molecule,RELEBACTAM
+,CHEMBL3127326,Small molecule,OMBITASVIR
+,CHEMBL3137301,Small molecule,SACUBITRIL
+,CHEMBL3137309,Small molecule,VENETOCLAX
+,CHEMBL3137310,Small molecule,BENZHYDROCODONE HYDROCHLORIDE
+,CHEMBL3137312,Small molecule,DASABUVIR
+,CHEMBL3137317,Small molecule,SONIDEGIB PHOSPHATE
+,CHEMBL3137318,Small molecule,TALAZOPARIB TOSYLATE
+,CHEMBL3137320,Small molecule,TALAZOPARIB
+,CHEMBL3137321,Small molecule,BENZHYDROCODONE
+,CHEMBL3137326,Small molecule,DUTETRABENAZINE
+,CHEMBL3137327,Small molecule,OMEGA-3-CARBOXYLIC ACIDS
+,CHEMBL3137330,Small molecule,CABOTEGRAVIR SODIUM
+,CHEMBL3137333,Small molecule,ISAVUCONAZONIUM SULFATE
+,CHEMBL3137358,Small molecule,SIMEPREVIR SODIUM
+,CHEMBL3140361,Small molecule,ETHAMBUTOL HYDROCHLORIDE
+,CHEMBL3142541,Small molecule,BUTAMBEN PICRATE
+,CHEMBL3181832,Small molecule,METHICILLIN SODIUM
+,CHEMBL3181957,Small molecule,ALMITRINE MESYLATE
+,CHEMBL3182343,Small molecule,PIVAMPICILLIN
+,CHEMBL3182733,Small molecule,PRAMIPEXOLE DIHYDROCHLORIDE
+,CHEMBL3183075,Small molecule,NIZATIDINE
+,CHEMBL3183184,Small molecule,OCTINOXATE
+Antibacterial,CHEMBL3183193,Small molecule,CEFMENOXIME HYDROCHLORIDE
+,CHEMBL3183409,Small molecule,APALUTAMIDE
+Antibacterial,CHEMBL3183453,Small molecule,NOVOBIOCIN SODIUM
+,CHEMBL3183968,Small molecule,CEFTRIAXONE SODIUM
+,CHEMBL3184143,Small molecule,GUANADREL SULFATE
+,CHEMBL3184437,Small molecule,DICHLOROBENZYL ALCOHOL
+Antibacterial,CHEMBL3184512,Small molecule,CLINDAMYCIN PHOSPHATE
+,CHEMBL3184791,Small molecule,STREPTOMYCIN SULFATE
+,CHEMBL3184799,Small molecule,MEPHENTERMINE SULFATE
+Antibacterial,CHEMBL3184906,Small molecule,CEFPROZIL
+,CHEMBL3184986,Small molecule,ZINC ACETATE
+,CHEMBL3185229,Small molecule,MAGNESIUM CHLORIDE
+Anti-Estrogen,CHEMBL3185958,Small molecule,CLOMIPHENE CITRATE
+,CHEMBL3186492,Small molecule,ONDANSETRON HYDROCHLORIDE
+,CHEMBL3186993,Small molecule,HYDROXYZINE HYDROCHLORIDE
+,CHEMBL3187246,Small molecule,METHAPYRILENE FUMARATE
+,CHEMBL3187365,Small molecule,ASENAPINE
+,CHEMBL3187723,Small molecule,BINIMETINIB
+,CHEMBL3188034,Small molecule,TRIPROLIDINE HYDROCHLORIDE
+,CHEMBL3188267,Small molecule,CAPMATINIB
+,CHEMBL3188339,Small molecule,ALCURONIUM CHLORIDE
+Antibacterial,CHEMBL3188576,Small molecule,DIHYDROSTREPTOMYCIN SULFATE
+,CHEMBL3188993,Small molecule,QUETIAPINE FUMARATE
+,CHEMBL3189072,Small molecule,TIROFIBAN HYDROCHLORIDE
+,CHEMBL3218576,Small molecule,COPANLISIB
+,CHEMBL3233142,Small molecule,LUMATEPERONE TOSYLATE
+,CHEMBL3237547,Small molecule,CEDAZURIDINE
+,CHEMBL3244648,Small molecule,METHOTREXATE SODIUM
+,CHEMBL3286830,Small molecule,LORLATINIB
+,CHEMBL3291398,Small molecule,LEFAMULIN
+,CHEMBL3301592,Small molecule,SODIUM ZIRCONIUM CYCLOSILICATE
+,CHEMBL3301594,Small molecule,FOSTEMSAVIR
+,CHEMBL3301597,Small molecule,FERRIC CITRATE
+,CHEMBL3301598,Small molecule,FOSTEMSAVIR TROMETHAMINE
+,CHEMBL3301603,Small molecule,GILTERITINIB FUMARATE
+,CHEMBL3301605,Small molecule,RELEBACTAM
+,CHEMBL3301607,Small molecule,FILGOTINIB
+,CHEMBL3301610,Small molecule,ABEMACICLIB
+,CHEMBL3301611,Small molecule,AMIFAMPRIDINE PHOSPHATE
+,CHEMBL3301612,Small molecule,ENCORAFENIB
+,CHEMBL3301622,Small molecule,GILTERITINIB
+,CHEMBL3301627,Small molecule,TENAPANOR HYDROCHLORIDE
+,CHEMBL3301670,Small molecule,DIFEMERINE HYDROCHLORIDE
+Anticholelithic (dissolution of gallstones),CHEMBL3301678,Small molecule,MONOCTANOIN
+,CHEMBL3301680,Small molecule,TELAVANCIN HYDROCHLORIDE
+Antibacterial,CHEMBL3301800,Small molecule,CEFPROZIL
+,CHEMBL3304484,Small molecule,MONOCTANOIN
+,CHEMBL3304485,Small molecule,TENAPANOR
+,CHEMBL3304486,Small molecule,DIFEMERINE
+,CHEMBL3305985,Small molecule,ALCURONIUM
+,CHEMBL3306803,Small molecule,LUMATEPERONE
+,CHEMBL3311228,Small molecule,OTESECONAZOLE
+,CHEMBL3317857,Small molecule,VABORBACTAM
+,CHEMBL3348963,Small molecule,TELOTRISTAT ETIPRATE
+,CHEMBL3351077,Small molecule,CEFSULODIN
+,CHEMBL3353410,Small molecule,OSIMERTINIB
+,CHEMBL3391662,Small molecule,PARITAPREVIR
+,CHEMBL3392049,Small molecule,PYRITHIONE ZINC
+,CHEMBL3400972,Small molecule,FLUORODOPA F 18
+,CHEMBL3402762,Small molecule,TEPOTINIB
+,CHEMBL3414621,Small molecule,TAZEMETOSTAT
+,CHEMBL3544906,Small molecule,BENZPHETAMINE HYDROCHLORIDE
+Antihistaminic,CHEMBL3544908,Small molecule,AZATADINE MALEATE
+Regulator (calcium),CHEMBL3544909,Small molecule,CALCIFEDIOL
+,CHEMBL3544914,Small molecule,TEZACAFTOR
+Stimulant (central),CHEMBL3544971,Small molecule,DEXTROAMPHETAMINE SULFATE
+,CHEMBL3544973,Small molecule,CEFTAROLINE FOSAMIL ACETATE
+,CHEMBL3544974,Small molecule,ASENAPINE MALEATE
+,CHEMBL3544985,Small molecule,DASABUVIR SODIUM
+,CHEMBL3544986,Small molecule,PERINDOPRIL ARGININE
+,CHEMBL3545057,Small molecule,ACETYLDIGITOXIN
+Antihyperlipidemic,CHEMBL3545058,Small molecule,DEXTROTHYROXINE SODIUM
+,CHEMBL3545059,Small molecule,ALISKIREN FUMARATE
+Antibacterial,CHEMBL3545060,Small molecule,ERYTHROMYCIN GLUCEPTATE
+,CHEMBL3545062,Small molecule,VELPATASVIR
+,CHEMBL3545063,Small molecule,OSIMERTINIB MESYLATE
+,CHEMBL3545068,Small molecule,COPANLISIB HYDROCHLORIDE
+,CHEMBL3545110,Small molecule,RIBOCICLIB
+,CHEMBL3545123,Small molecule,PIBRENTASVIR
+,CHEMBL3545181,Small molecule,TIOTROPIUM BROMIDE
+,CHEMBL3545185,Small molecule,SELINEXOR
+Antineoplastic,CHEMBL3545252,Small molecule,DOCETAXEL
+,CHEMBL3545253,Small molecule,FLORTAUCIPIR F 18
+,CHEMBL3545309,Small molecule,LEFAMULIN ACETATE
+,CHEMBL3545311,Small molecule,BRIGATINIB
+,CHEMBL3545313,Small molecule,BEMPEDOIC ACID
+,CHEMBL3545363,Small molecule,GLECAPREVIR
+,CHEMBL3545367,Small molecule,LEMBOREXANT
+,CHEMBL3545368,Small molecule,PANOBINOSTAT LACTATE
+,CHEMBL3545376,Small molecule,ERDAFITINIB
+,CHEMBL3545432,Small molecule,IXAZOMIB CITRATE
+,CHEMBL3545985,Small molecule,BENZPHETAMINE
+,CHEMBL3546271,Small molecule,FLORTAUCIPIR
+,CHEMBL3547132,Small molecule,FLUORODOPA
+Pharmaceutic Aid (viscosity-increasing agent),CHEMBL3559671,Small molecule,POLYVINYL ALCOHOL
+Antihypertensive,CHEMBL3559672,Small molecule,RAUWOLFIA SERPENTINA
+,CHEMBL3561076,Small molecule,TRIMETAZIDINE DIHYDROCHLORIDE
+,CHEMBL3590187,Small molecule,CLASCOTERONE
+,CHEMBL3622821,Small molecule,UPADACITINIB
+,CHEMBL3655081,Small molecule,ABROCITINIB
+,CHEMBL3668014,Small molecule,LINZAGOLIX
+,CHEMBL3701238,Small molecule,FUTIBATINIB
+Cardiac Depressant (anti-arrhythmic),CHEMBL3707183,Small molecule,QUINIDINE SULFATE
+,CHEMBL3707208,Small molecule,FERROUS GLYCINE SULFATE
+,CHEMBL3707230,Small molecule,"MERCURY, AMMONIATED"
+,CHEMBL3707232,Small molecule,FERROUS SUCCINATE
+,CHEMBL3707243,Small molecule,GLYCOPYRRONIUM TOSYLATE
+,CHEMBL3707246,Small molecule,OZANIMOD HYDROCHLORIDE
+,CHEMBL3707247,Small molecule,OZANIMOD
+,CHEMBL3707248,Small molecule,VALBENAZINE TOSYLATE
+,CHEMBL3707266,Small molecule,RIBOCICLIB SUCCINATE
+,CHEMBL3707281,Small molecule,MAGNESIUM LACTATE
+,CHEMBL3707282,Small molecule,MAGNESIUM OROTATE
+,CHEMBL3707290,Small molecule,SOMAPACITAN
+,CHEMBL3707306,Small molecule,STRONTIUM RANELATE
+,CHEMBL3707313,Small molecule,TRIFAROTENE
+,CHEMBL3707320,Small molecule,ALECTINIB HYDROCHLORIDE
+,CHEMBL3707330,Small molecule,ROLAPITANT HYDROCHLORIDE
+,CHEMBL3707331,Small molecule,ROLAPITANT
+,CHEMBL3707333,Small molecule,SODIUM PERBORATE
+,CHEMBL3707334,Small molecule,PERBORIC ACID
+,CHEMBL3707348,Small molecule,ACALABRUTINIB
+,CHEMBL3707352,Small molecule,POLICOSANOL
+,CHEMBL3707372,Small molecule,VOXILAPREVIR
+,CHEMBL3707377,Small molecule,SEGESTERONE ACETATE
+,CHEMBL3707393,Small molecule,OSILODROSTAT PHOSPHATE
+,CHEMBL3813873,Small molecule,PEXIDARTINIB
+,CHEMBL3833301,Small molecule,BARBEXACLONE
+,CHEMBL3833303,Small molecule,FERROUS GLUCONATE
+,CHEMBL3833305,Small molecule,POTASSIUM PERMANGANATE
+,CHEMBL3833311,Small molecule,DEXTROMORAMIDE TARTRATE
+,CHEMBL3833312,Small molecule,METHENAMINE MANDELATE
+,CHEMBL3833314,Small molecule,ALUMINUM CHLORIDE
+,CHEMBL3833317,Small molecule,FERRIC PYROPHOSPHATE CITRATE
+,CHEMBL3833319,Small molecule,REVEFENACIN
+,CHEMBL3833322,Small molecule,ALMASILATE
+,CHEMBL3833327,Small molecule,INOSINE PRANOBEX
+,CHEMBL3833332,Small molecule,ALUMINUM SULFATE
+,CHEMBL3833334,Small molecule,PAPAVERETUM
+,CHEMBL3833335,Small molecule,CHLORAL BETAINE
+,CHEMBL3833337,Small molecule,DICOBALT EDETATE
+,CHEMBL3833339,Small molecule,AMYL NITRITE
+,CHEMBL3833347,Small molecule,DEANOL ACEGLUMATE
+,CHEMBL3833350,Small molecule,MAGALDRATE
+,CHEMBL3833351,Small molecule,HYDROTALCITE
+,CHEMBL3833358,Small molecule,HALQUINOLS
+,CHEMBL3833361,Small molecule,PROMETHAZINE TEOCLATE
+,CHEMBL3833362,Small molecule,ZINC OLEATE
+,CHEMBL3833364,Small molecule,HYDRARGAPHEN
+,CHEMBL3833368,Small molecule,RUCAPARIB CAMSYLATE
+,CHEMBL3833381,Small molecule,MERBROMIN
+,CHEMBL3833382,Small molecule,PRAJMALIUM
+,CHEMBL3833388,Small molecule,PRAJMALIUM BITARTRATE
+,CHEMBL3833389,Small molecule,DEXTROMORAMIDE
+,CHEMBL3833401,Small molecule,ALUMINUM CHLORIDE
+,CHEMBL3833402,Small molecule,ALUMINUM SULFATE
+,CHEMBL3833405,Small molecule,INOSINE PRANOBEX
+,CHEMBL3833406,Small molecule,PAPAVERETUM
+,CHEMBL3833408,Small molecule,MAGALDRATE
+,CHEMBL3833409,Small molecule,HYDROTALCITE
+,CHEMBL3889654,Small molecule,LAROTRECTINIB
+,CHEMBL3894860,Small molecule,TRILACICLIB
+,CHEMBL3936761,Small molecule,ZANUBRUTINIB
+,CHEMBL3948730,Small molecule,UMBRALISIB
+,CHEMBL3988900,Small molecule,ZINC OXIDE
+,CHEMBL3989401,Small molecule,PAMIDRONATE DISODIUM
+,CHEMBL3989402,Small molecule,PERAMIVIR
+,CHEMBL3989403,Small molecule,ZOMEPIRAC SODIUM
+,CHEMBL3989405,Small molecule,ALEXITOL SODIUM
+,CHEMBL3989406,Small molecule,ENALAPRILAT
+,CHEMBL3989408,Small molecule,IBUPROFEN SODIUM
+,CHEMBL3989410,Small molecule,INDOMETHACIN SODIUM
+,CHEMBL3989426,Small molecule,CALAMINE
+,CHEMBL3989461,Small molecule,ROSE BENGAL SODIUM I 131
+,CHEMBL3989478,Small molecule,THIETHYLPERAZINE MALEATE
+,CHEMBL3989480,Small molecule,MAGNESIUM CITRATE
+,CHEMBL3989507,Small molecule,EDETATE DISODIUM
+,CHEMBL3989509,Small molecule,PENTAZOCINE LACTATE
+,CHEMBL3989510,Small molecule,PENTAZOCINE HYDROCHLORIDE
+,CHEMBL3989511,Small molecule,IOBENGUANE SULFATE I 131
+,CHEMBL3989514,Small molecule,IRINOTECAN HYDROCHLORIDE
+,CHEMBL3989515,Small molecule,PENICILLIN G BENZATHINE
+,CHEMBL3989516,Small molecule,FOSTAMATINIB DISODIUM
+,CHEMBL3989517,Small molecule,IOFLUPANE I 123
+,CHEMBL3989519,Small molecule,DOXAPRAM HYDROCHLORIDE
+,CHEMBL3989520,Small molecule,HISTAMINE PHOSPHATE
+,CHEMBL3989521,Small molecule,ISOPROTERENOL SULFATE
+,CHEMBL3989522,Small molecule,EDETATE CALCIUM DISODIUM
+,CHEMBL3989523,Small molecule,IOBENGUANE SULFATE I 123
+,CHEMBL3989529,Small molecule,ETHANOLAMINE OLEATE
+,CHEMBL3989543,Small molecule,VINDESINE SULFATE
+,CHEMBL3989545,Small molecule,"POTASH, SULFURATED"
+,CHEMBL3989551,Small molecule,LINCOMYCIN HYDROCHLORIDE
+,CHEMBL3989555,Small molecule,MECLIZINE HYDROCHLORIDE
+,CHEMBL3989556,Small molecule,REMOXIPRIDE HYDROCHLORIDE
+,CHEMBL3989558,Small molecule,METHYSERGIDE MALEATE
+,CHEMBL3989559,Small molecule,PANTOPRAZOLE SODIUM
+,CHEMBL3989562,Small molecule,TERAZOSIN HYDROCHLORIDE
+,CHEMBL3989563,Small molecule,NICOTINE BITARTRATE
+,CHEMBL3989564,Small molecule,TOBRAMYCIN SULFATE
+,CHEMBL3989566,Small molecule,METOPROLOL FUMARATE
+,CHEMBL3989567,Small molecule,OXACILLIN SODIUM
+,CHEMBL3989568,Small molecule,OXYTETRACYCLINE CALCIUM
+,CHEMBL3989944,Small molecule,DIROXIMEL FUMARATE
+,CHEMBL3989949,Small molecule,CENOBAMATE
+,CHEMBL3989958,Small molecule,IVOSIDENIB
+,CHEMBL3989962,Small molecule,PEMETREXED TROMETHAMINE
+,CHEMBL3989973,Small molecule,PEXIDARTINIB HYDROCHLORIDE
+,CHEMBL3989974,Small molecule,CEFIDEROCOL
+,CHEMBL3990047,Small molecule,OZENOXACIN
+,CHEMBL3990276,Small molecule,TALC
+,CHEMBL3990694,Small molecule,PIPERAZINE CITRATE
+,CHEMBL3990987,Small molecule,"POTASH, SULFURATED"
+,CHEMBL3991035,Small molecule,SODIUM STIBOGLUCONATE
+,CHEMBL3991065,Small molecule,ATOGEPANT
+,CHEMBL3991241,Small molecule,FERRIC CITRATE
+,CHEMBL3991443,Small molecule,FERROUS GLUCONATE
+,CHEMBL4065616,Small molecule,REMDESIVIR
+,CHEMBL4066936,Small molecule,VERICIGUAT
+,CHEMBL4101807,Small molecule,VOXELOTOR
+,CHEMBL4164059,Small molecule,PITOLISANT HYDROCHLORIDE
+,CHEMBL4173394,Small molecule,BRILLIANT BLUE G
+,CHEMBL4204794,Small molecule,AVAPRITINIB
+,CHEMBL4208229,Small molecule,ASCIMINIB
+,CHEMBL4208954,Small molecule,AMIKACIN SULFATE
+,CHEMBL4216467,Small molecule,RIPRETINIB
+,CHEMBL4297064,Small molecule,MILNACIPRAN HYDROCHLORIDE
+,CHEMBL4297065,Small molecule,SPINOSAD
+,CHEMBL4297066,Small molecule,ELIGLUSTAT TARTRATE
+Diagnostic Aid (corneal trauma indicator),CHEMBL4297067,Small molecule,FLUORESCEIN
+,CHEMBL4297088,Small molecule,CHLORHEXIDINE GLUCONATE
+,CHEMBL4297091,Small molecule,CODEINE SULFATE
+,CHEMBL4297109,Small molecule,OXITROPIUM BROMIDE
+,CHEMBL4297142,Small molecule,CASPOFUNGIN ACETATE
+,CHEMBL4297147,Small molecule,HALOPERIDOL LACTATE
+,CHEMBL4297165,Small molecule,CHLOROQUINE HYDROCHLORIDE
+,CHEMBL4297185,Small molecule,DAROLUTAMIDE
+,CHEMBL4297192,Small molecule,SIMETHICONE
+,CHEMBL4297211,Small molecule,CEFIDEROCOL SULFATE TOSYLATE
+,CHEMBL4297212,Small molecule,SOLRIAMFETOL HYDROCHLORIDE
+,CHEMBL4297216,Small molecule,FEDRATINIB HYDROCHLORIDE
+,CHEMBL4297220,Small molecule,ASCIMINIB HYDROCHLORIDE
+,CHEMBL4297223,Small molecule,MITAPIVAT SULFATE
+,CHEMBL4297285,Small molecule,HEME ARGINATE
+,CHEMBL4297334,Small molecule,PIFLUFOLASTAT F18
+,CHEMBL4297364,Small molecule,OXITROPIUM
+,CHEMBL4297403,Small molecule,MELPHALAN FLUFENAMIDE HYDROCHLORIDE
+,CHEMBL4297412,Small molecule,PAFOLACIANINE
+,CHEMBL4297503,Small molecule,BALOXAVIR MARBOXIL
+,CHEMBL4297513,Small molecule,IBREXAFUNGERP
+,CHEMBL4297516,Small molecule,LURBINECTEDIN
+,CHEMBL4297517,Small molecule,MAVACAMTEN
+,CHEMBL4297522,Small molecule,PEMIGATINIB
+,CHEMBL4297526,Small molecule,REMIMAZOLAM
+,CHEMBL4297528,Small molecule,RISDIPLAM
+,CHEMBL4297534,Small molecule,GLASDEGIB MALEATE
+,CHEMBL4297585,Small molecule,TRIHEPTANOIN
+,CHEMBL4297588,Small molecule,ODEVIXIBAT
+,CHEMBL4297590,Small molecule,DARIDOREXANT
+,CHEMBL4297620,Small molecule,SOLRIAMFETOL
+,CHEMBL4297634,Small molecule,GADOPICLENOL
+,CHEMBL4297666,Small molecule,OMIDENEPAG ISOPROPYL
+,CHEMBL4298110,Small molecule,FERRIC MALTOL
+,CHEMBL4298128,Small molecule,ELEXACAFTOR
+,CHEMBL4298139,Small molecule,SERDEXMETHYLPHENIDATE CHLORIDE
+,CHEMBL4298150,Small molecule,SIPONIMOD FUMARATE
+,CHEMBL4298168,Small molecule,IBREXAFUNGERP CITRATE
+,CHEMBL4299851,Small molecule,PIFLUFOLASTAT
+,CHEMBL4299940,Small molecule,MITAPIVAT
+,CHEMBL4301162,Small molecule,SERDEXMETHYLPHENIDATE
+,CHEMBL4301175,Small molecule,FERRIC AMMONIUM CITRATE
+,CHEMBL4301898,Small molecule,E133
+,CHEMBL4302512,Small molecule,THALLOUS CHLORIDE
+,CHEMBL4303060,Small molecule,MELPHALAN FLUFENAMIDE
+,CHEMBL4303288,Small molecule,ABACAVIR SULFATE
+,CHEMBL4435170,Small molecule,DEUCRAVACITINIB
+,CHEMBL4535757,Small molecule,SOTORASIB
+,CHEMBL4559134,Small molecule,SELPERCATINIB
+,CHEMBL4582651,Small molecule,PRALSETINIB
+,CHEMBL4585668,Small molecule,BELZUTIFAN
+,CHEMBL4594217,Small molecule,CANAGLIFLOZIN
+,CHEMBL4594222,Small molecule,TECHNETIUM TC 99M TEBOROXIME
+,CHEMBL4594231,Small molecule,IODOXAMATE MEGLUMINE
+,CHEMBL4594240,Small molecule,TECHNETIUM SESTAMIBI
+,CHEMBL4594241,Small molecule,TECHNETIUM TC 99M SESTAMIBI
+,CHEMBL4594244,Small molecule,HYALURONATE SODIUM
+,CHEMBL4594250,Small molecule,NETARSUDIL
+,CHEMBL4594251,Small molecule,NETARSUDIL DIMESYLATE
+,CHEMBL4594252,Small molecule,ALUMINIUM OXIDE
+,CHEMBL4594260,Small molecule,TAZEMETOSTAT HYDROBROMIDE
+,CHEMBL4594261,Small molecule,FLUOROESTRADIOL F-18
+,CHEMBL4594262,Small molecule,AMLODIPINE BENZOATE
+,CHEMBL4594264,Small molecule,AIR POLYMER-TYPE A
+,CHEMBL4594271,Small molecule,BEROTRALSTAT
+,CHEMBL4594272,Small molecule,BEROTRALSTAT HYDROCHLORIDE
+,CHEMBL4594284,Small molecule,PADELIPORFIN
+,CHEMBL4594288,Small molecule,LEVAMLODIPINE MALEATE
+,CHEMBL4594292,Small molecule,TEPOTINIB HYDROCHLORIDE
+,CHEMBL4594293,Small molecule,ACALABRUTINIB MALEATE
+,CHEMBL4594300,Small molecule,FOSDENOPTERIN HYDROBROMIDE
+,CHEMBL4594301,Small molecule,REMIMAZOLAM BESYLATE
+,CHEMBL4594383,Small molecule,PAFOLACIANINE SODIUM
+,CHEMBL4594393,Small molecule,CALCIUM OXYBATE
+,CHEMBL4594394,Small molecule,MAGNESIUM OXYBATE
+,CHEMBL4594395,Small molecule,POTASSIUM OXYBATE
+,CHEMBL4594406,Small molecule,LUTETIUM LU 177 VIPIVOTIDE TETRAXETAN
+,CHEMBL4594438,Small molecule,LENACAPAVIR
+,CHEMBL4594619,Small molecule,TECHNETIUM SESTAMIBI
+,CHEMBL4594730,Small molecule,VIPIVOTIDE TETRAXETAN LUTETIUM
+,CHEMBL4596392,Small molecule,DEUCRAVACITINIB
+,CHEMBL4597194,Small molecule,TECHNETIUM  BICISATE
+,CHEMBL4597794,Small molecule,TECHNETIUM  TEBOROXIME
+,CHEMBL4650216,Small molecule,DARIDOREXANT HYDROCHLORIDE
+,CHEMBL4650272,Small molecule,TRILACICLIB DIHYDROCHLORIDE
+,CHEMBL4650319,Small molecule,MOBOCERTINIB
+,CHEMBL4802130,Small molecule,BELUMOSUDIL MESYLATE
+,CHEMBL4802224,Small molecule,FERRIC OXYHYDROXIDE
+,CHEMBL4802239,Small molecule,MOBOCERTINIB SUCCINATE
+,CHEMBL5095039,Small molecule,GALLIUM GA 68 GOZETOTIDE
+,CHEMBL5095048,Small molecule,AMPHETAMINE ASPARTATE/DEXTROAMPHETAMINE SULFATE
+,CHEMBL5095049,Small molecule,PACRITINIB CITRATE
+,CHEMBL5095050,Small molecule,FINGOLIMOD LAURYL SULFATE
+,CHEMBL5095051,Small molecule,VENLAFAXINE BESYLATE
+,CHEMBL5095496,Small molecule,PSMA-HBED-CC
+,CHEMBL5095505,Small molecule,AMPHETAMINE/DEXTROAMPHETAMINE
+,CHEMBL3989697,Small molecule,RIBOFLAVIN 5'-PHOSPHATE SODIUM
+,CHEMBL3989698,Small molecule,TRANYLCYPROMINE SULFATE
+,CHEMBL3989715,Small molecule,MUPIROCIN CALCIUM
+,CHEMBL3989716,Small molecule,PROPOXYPHENE NAPSYLATE
+,CHEMBL3989724,Small molecule,FLURAZEPAM HYDROCHLORIDE
+,CHEMBL3989725,Small molecule,LODOXAMIDE TROMETHAMINE
+,CHEMBL3989727,Small molecule,VITAMIN E
+,CHEMBL3989728,Small molecule,MENADIOL SODIUM DIPHOSPHATE
+,CHEMBL3989740,Small molecule,DOXYCYCLINE HYCLATE
+,CHEMBL3989750,Small molecule,GLUCOSAMINE SULFATE
+,CHEMBL3989751,Small molecule,NEOMYCIN
+,CHEMBL3989754,Small molecule,FLURBIPROFEN SODIUM
+,CHEMBL3989756,Small molecule,TALC
+,CHEMBL3989569,Small molecule,IBANDRONATE SODIUM
+,CHEMBL3989768,Small molecule,LEVORPHANOL TARTRATE
+,CHEMBL3989769,Small molecule,NEOMYCIN SULFATE
+,CHEMBL3989777,Small molecule,TRIENTINE HYDROCHLORIDE
+,CHEMBL3989570,Small molecule,HYOSCYAMINE SULFATE
+,CHEMBL3989786,Small molecule,THIOPROPAZATE HYDROCHLORIDE
+,CHEMBL3989798,Small molecule,FORMOTEROL FUMARATE
+,CHEMBL3989803,Small molecule,DIPYRONE
+,CHEMBL3989806,Small molecule,IODIPAMIDE MEGLUMINE
+,CHEMBL3989820,Small molecule,ZOLPIDEM TARTRATE
+,CHEMBL3989821,Small molecule,TUBOCURARINE CHLORIDE
+,CHEMBL3989822,Small molecule,POTASSIUM CITRATE
+,CHEMBL3989824,Small molecule,THIOTHIXENE HYDROCHLORIDE
+,CHEMBL3989825,Small molecule,CYCLOGUANIL PAMOATE
+,CHEMBL3989826,Small molecule,OXYCODONE TEREPHTHALATE
+,CHEMBL3989829,Small molecule,NETILMICIN SULFATE
+,CHEMBL3989830,Small molecule,SIBUTRAMINE HYDROCHLORIDE
+,CHEMBL3989833,Small molecule,ZIPRASIDONE MESYLATE
+,CHEMBL3989843,Small molecule,TRANYLCYPROMINE
+,CHEMBL3989844,Small molecule,DEXTROAMPHETAMINE SACCHARATE
+,CHEMBL3989845,Small molecule,IMIPRAMINE PAMOATE
+,CHEMBL3989850,Small molecule,ECAMSULE
+,CHEMBL3989855,Small molecule,PSEUDOEPHEDRINE SULFATE
+,CHEMBL3989856,Small molecule,SODIUM SULFATE
+,CHEMBL3989857,Small molecule,MAGNESIUM SULFATE
+,CHEMBL3989858,Small molecule,MAGNESIUM ACETATE TETRAHYDRATE
+,CHEMBL3989859,Small molecule,TOCOPHEROL ACETATE
+,CHEMBL3989861,Small molecule,DESVENLAFAXINE FUMARATE
+,CHEMBL3989866,Small molecule,BICTEGRAVIR
+,CHEMBL3989867,Small molecule,BICTEGRAVIR SODIUM
+,CHEMBL3989868,Small molecule,TUCATINIB
+,CHEMBL3989869,Small molecule,UMBRALISIB TOSYLATE
+,CHEMBL3989871,Small molecule,AVACOPAN
+,CHEMBL3989885,Small molecule,TRIMEPRAZINE TARTRATE
+,CHEMBL3989887,Small molecule,TACROLIMUS
+,CHEMBL3989908,Small molecule,ENASIDENIB
+,CHEMBL3989917,Small molecule,FOSNETUPITANT
+,CHEMBL3989919,Small molecule,FOSNETUPITANT CHLORIDE HYDROCHLORIDE
+,CHEMBL3989920,Small molecule,PITAVASTATIN SODIUM
+,CHEMBL3989921,Small molecule,NERATINIB MALEATE
+,CHEMBL3989922,Small molecule,NIRAPARIB TOSYLATE
+,CHEMBL3989923,Small molecule,PITAVASTATIN MAGNESIUM
+,CHEMBL3989571,Small molecule,SPECTINOMYCIN HYDROCHLORIDE
+,CHEMBL3989931,Small molecule,ENASIDENIB MESYLATE
+,CHEMBL3989937,Small molecule,CAPMATINIB HYDROCHLORIDE
+,CHEMBL3989939,Small molecule,LAROTRECTINIB SULFATE
+,CHEMBL3989581,Small molecule,DOPEXAMINE HYDROCHLORIDE
+,CHEMBL3989640,Small molecule,MAGNESIUM GLUCONATE
+,CHEMBL3989646,Small molecule,PIRBUTEROL HYDROCHLORIDE
+,CHEMBL3989663,Small molecule,HYDROCORTISONE HEMISUCCINATE
+,CHEMBL3989676,Small molecule,OXYPHENBUTAZONE
+,CHEMBL3989677,Small molecule,HYDROCODONE BITARTRATE
+,CHEMBL3989678,Small molecule,PIPERAZINE CITRATE
+,CHEMBL3989691,Small molecule,ELTROMBOPAG OLAMINE
+,CHEMBL3989693,Small molecule,LEVALBUTEROL TARTRATE
+,CHEMBL3989694,Small molecule,OLANZAPINE PAMOATE
+,CHEMBL3989695,Small molecule,REGADENOSON
